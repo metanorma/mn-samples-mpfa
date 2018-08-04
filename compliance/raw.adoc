@@ -1,0 +1,607 @@
+= COMPLIANCE STANDARDS FOR MPF APPROVED TRUSTEES
+
+First Edition July 2005
+Hong Kong
+
+== Glossary
+
+“Appendices” -
+means Appendix 1 and 2 contained in this document
+
+“approved trustee” -
+means a trustee approved by the Authority pursuant to the Ordinance means the Mandatory Provident Fund Schemes Authority
+
+“Authority” -
+means the behaviour of an approved trustee board, management and staff to achieve compliance with its statutory obligations.
+
+“Positive compliance culture”
+means that the approved trustee, through its board, management and staff, meets its statutory obligations through the implementation of an effective and efficient compliance programme
+
+“compliance - culture ”
+means those arrangements and documents put in place to identify, monitor, supervise and report on an approved trustee’s compliance with its statutory obligations
+
+“compliance plans” -
+means the framework described in Standard 1 and includes the totality of arrangements in place and/or documented by an approved trustee to address the need to comply with its statutory obligations
+
+“compliance - programme”
+means the paragraphs following each Standard (i.e. E 1.0 to E 8.3)
+
+“Explanatory Notes - and Guidance”
+means the compliance area or manager or officer that is responsible for monitoring compliance across the group of entities that the approved trustee is a part of
+
+“group compliance” -
+means the Ordinance and the Regulation
+
+“Legislation” -
+means processes (manual or electronic), arrangements (including contractual arrangements), training, communication and/or documented policies and procedures
+
+“measures” - that form part of the approved trustee’s internal compliance programme
+
+
+“Ordinance”
+- means the Mandatory Provident Fund Schemes Ordinance
+
+“Regulation”
+- means the Mandatory Provident Fund Schemes (General) Regulation
+
+“service providers”
+- means those entities that provide services to the approved trustee that are material functions for the operation of the MPF schemes
+
+“Standards”
+- means the compliance standards contained in this document numbered S 1.0 to S 8.3
+
+“statutory obligations ”
+- are those obligations described as “statutory obligations” in Paragraph E 1.0
+
+
+.Introduction to Standards
+
+The Standards contained in this document form a compliance standards framework. Together the Standards describe elements that approved trustees may put in place to develop compliance arrangements that are best practice. The Standards should be read together with the Interpretation Section to gain a full understanding of their purpose.
+
+The individual Standards and Appendices are interrelated. This framework may be described as follows and is summarised in the diagram on the following page :
+
+Standard 1.0:: describe s the purpose of a *compliance programme*.
+
+Standards 2.0 to 8.0:: describe elements recommended to be present in an approved trustee’s compliance programme to address its statutory obligations. These elements are aimed at ensuring that there is a firm base for the development of specific measures (or compliance plans) to address key obligations. Implementation of these elements will assist an approved trustee to develop a positive compliance culture and ensure the effectiveness of its compliance programme.
+
+Standards 8.1 to 8.3::
+focus on compliance plans. Compliance plans are the key tools within a compliance programme to achieve compliance with particular obligations. These Standards elaborate on the three elements of a compliance plan set out in Standard 8.0. These elements include specifying measures to meet identified obligations, monitoring and supervision and reporting.
+
+Appendices 1 to 3::
+provide practical examples and guidance in relation to documents referred to in the Standards. For example, Appendix 1 contains examples of obligations that may be covered by compliance plans.
+
+////
+Framework of Compliance Standards
+ Elements of Compliance Programme
+Implementation of elements of a compliance programme to address statutory obligations and promote and maintain a positive compliance culture.
+   S 1.0 Compliance Programme
+         S 3.0
+Compliance Resources
+S 4.0
+Compliance Training and Communication
+S 5.0
+Complaints Handling Procedures
+S 6.0 Compliance Programme
+Maintenance and Review
+S 7.0 Reporting Mechanisms to Board including Independent Director
+S 8.0
+Compliance Plans
+   S 8.1 Identification and Compliance Measures
+S 8.2
+Monitoring and Supervision
+S 8.3
+Reporting
+   S 2.0
+Compliance Policy
+                                                                   Framework of Compliance Plans
+Design and implementation of compliance plans to specifically address statutory obligations.
+                                                                        Managing Conflicts of Interest
+Managing Significant Events
+Monitoring Compliance with the Code of Conduct for MPF Intermediaries
+Disclosure
+  Developing Compliance Plans
+Development of specific compliance plans to address some key statutory obligations.
+Monitoring and Supervising Outsourced Service Providers
+  5
+////
+
+.Interpretation Section
+
+The Authority sees the Standards as a tool to assist approved trustees prudently administer MPF schemes and related investment funds, engage in sound business practices, as well as maintain a high standard of conduct. Accordingly the Standards should be interpreted and applied:
+
+• on a practical basis and at a level that reflects an approved trustee’s nature, scale and complexity;
+• as high level principles reflecting best practice of an approved trustee;
+• as an opportunity to provide a set of references to assist an approved trustee in assessing
+its current compliance arrangements;
+• together with the Explanatory Notes and Guidance, as well as the Appendices with regard to the outcome expressed in each Standard; and
+• as a tool to assist an approved trustee to take responsibility for achieving and monitoring its own compliance.
+
+The Explanatory Notes and Guidance sections as well as the Appendices are for reference only and are not intended to be prescriptive.
+
+In the design and implementation of its compliance programme, an approved trustee may look to the Standards, guidance from its parent entity and/or refer to other published international and regional best practice and texts to determine the design and implementation of each element of its compliance programme that will be most appropriate for it.
+
+The design and implementation of the compliance programme of an approved trustee will depend on the nature, scale and complexity of an approved trustee’s operations. For example, measures that are appropriate for a stand-alone approved trustee may be different from those appropriate for an approved trustee that is part of a global group. The extent of outsourcing of the approved trustee’s functions will also impact on the design and implementation of the compliance programme.
+
+
+== Standards
+
+=== S 1.0 Standard 1 Compliance Programme to Address Statutory Obligations
+
+An approved trustee should have in place a compliance programme to help it meet its statutory obligations.
+The compliance programme should be documented and provide a framework enabling the approved trustee to monitor and ensure compliance with its obligations, as well as address any compliance breach issues.
+
+=== E 1.0 Explanatory Notes and Guidance
+
+An approved trustee must comply with obligations under the Legislation, including the general trustee duties as well as specific requirements relating to the operation of MPF schemes. These obligations can be described as the “statutory obligations” of an approved trustee, which include (but are not limited to):
+- exercising a level of care, skill, diligence and prudence that may reasonably be expected of a prudent person who is acting in the capacity of a trustee and is familiar with the operation of MPF schemes;
+- acting in the interest of scheme members and not in an approved trustee’s own interest;
+- supervising and exercising proper control over all service providers appointed or engaged for the purpose of its MPF Schemes; and
+- ensuring that scheme assets are invested and safeguarded in the interest of scheme members.
+A compliance programme should be documented and may comprise the following elements:
+i. a compliance policy endorsed by the Board of Directors;
+ii. compliance resources, including human and financial;
+iii. compliance training and communication;
+iv. complaint handling procedures;
+v. compliance programme maintenance and review;
+vi. reporting mechanisms to the Board of Directors; and
+vii. compliance plans to address, manage and meet the following obligations :
+
+
+- statutory obligations, including general trustee duties and specific requirements relating to the operation of MPF schemes;
+- governing rules;
+- approval conditions;
+- MPF Guidelines and Codes;
+- relevant codes of conduct issued by the approved trustee; and
+- relevant internal policies of the approved trustee.
+In designing and implementing a compliance programme, an approved trustee may look to these Standards, guidance from its parent entity and/or refer to other published international and regional standards and texts to determine the design and implementation of each element that will be most appropriate for it.
+The design of a compliance programme will depend on the nature, scale and complexity of an approved trustee’s operations. For example, measures that are appropriate for a stand-alone approved trustee may be different from those appropriate for an approved trustee that is part of a global group. The extent of outsourcing of the approved trustee’s functions will also impact on the design of the compliance programme.
+All critical elements of a compliance programme should be documented. In particular, an approved trustee is encouraged to develop a document that explains what elements have been put in place and how each element is supervised and monitored. While a compliance framework may be documented in more than one document, it is important that a summary document be available, particularly where an approved trustee’s framework may be part of a larger compliance framework across its group of associated entities. In this instance, the summary document should explain how the processes in the approved trustee’s operations fit into the group compliance framework. An approved trustee should be able to explain the linkages and may refer to other relevant documents.
+This document will enable an approved trustee’s Board of Directors, relevant staff and relevant service providers to understand the overall design and implementation of the compliance programme across the approved trustee’s business.
+This document is recommended to be held centrally with a designated owner, such as the compliance manager. This will enable the approved trustee to
+more effectively review and update the compliance programme and to easily show regulators and auditors its overall compliance programme in a clear and concise manner.
+In addition, the compliance programme document should be periodically provided to the approved trustee’s Board of Directors, with any material amendments since the last review highlighted. As the approved trustee’s Directors are ultimately responsible for ensuring the effectiveness of the compliance programme, they should have the opportunity to review and enquire about the design and maintenance of the compliance programme. Furthermore, obtaining the agreement of the approved trustee’s Board of Directors on the design of a compliance programme is an important step in implementing a positive compliance culture.
+
+=== S 2.0 Standard 2 Compliance Policy
+
+An approved trustee should develop and maintain a compliance policy that drives the organization towards a positive compliance culture and encourages compliance practices.
+The compliance policy should be documented and endorsed by the approved trustee’s Board of Directors. This policy should be presented in plain language and be readily available to management, staff and service providers.
+
+=== E 2.0 Explanatory Notes and Guidance
+
+A positive and accepted compliance culture is fundamental for the successful implementation and management of a compliance programme. This culture needs to be driven by the Board of Directors of an approved trustee and be defined by them in a documented compliance policy.
+A documented compliance policy allows the compliance programme to be put into context by ensuring that all relevant staff and service providers are aware of its importance and relevance in carrying out their functions (refer to Appendix 1 – AS 1.0 for further discussion of compliance plans covering outsourced service providers). This, in turn, encourages a positive compliance culture.
+The compliance policy needs to be clearly communicated to ensure all relevant staff understand the importance of compliance in the operation of the business of approved trustee and to stress to service providers the importance of compliance in performing any outsourced functions of the approved trustee.
+A clearly articulated policy noting the negative impact and consequences of not reporting breaches can help to encourage a culture of breach reporting. Such a policy may outline the ramifications of non-reporting, including termination of employment.
+An approved trustee’s compliance policy is not expected to be generic and to simply mirror the broad compliance policy of the trustee’s parent entity. An approved trustee needs a compliance policy that reflects its operations as well as the unique position of trust and the obligations that flow from being an approved trustee. This unique position may translate into a compliance policy
+10
+
+which requires compliance to be mandatory. For example, the policy may state that:
+“compliance with laws, guidelines, codes and internal policies is mandatory for all aspects of our business. Staff responsible for compliance and for achieving compliance must always act in the interest of our scheme members and not in our own interest. Where an action or decision is not carried out in the interest of our scheme members, that person is immediately responsible for reporting the same in line with documented procedures. The non-reporting of a breach is considered more serious than the breach itself.”
+An approved trustee should develop a policy that best reflects its culture. There is no set length for the policy, though it needs to be easily understood.
+11
+
+=== S 3.0 Standard 3 Compliance Resources
+An approved trustee should have adequate and independent compliance resources to monitor its compliance and to ensure that compliance reporting is timely, accurate and complete.
+
+=== E 3.0 Explanatory Notes and Guidance
+
+An approved trustee is expected to have designated compliance resources, including a compliance manager. The compliance manager is expected to:
+i. have seniority within the approved trustee and be responsible, together with an approved trustee’s Board of Directors, for assisting business owners within the approved trustee to implement the compliance programme and ensure it is effective;
+ii. have relevant experience and qualifications to effectively advise on the implementation of a compliance framework;
+iii. have access to sufficient resources (including external resources) to monitor the compliance programme, including financial and human resources; and
+iv. be independent so that an objective and reasoned view, free of any encumbrance, can be formed.
+Having a designated, independent compliance manager enables an approved trustee to manage and implement its compliance programme across its different business functions. It may also provide a level of independence in the monitoring and supervision of compliance to better enable an approved trustee to ensure truth and accuracy in its compliance and breach reporting.
+Having a designated compliance manager does not absolve the compliance obligations of each business area. It does, however, provide a resource that may assist a business area to review its level of compliance with the stated compliance policy. In this instance, the compliance manager may provide the necessary independence to ensure that the business area is not undertaking all of its own monitoring and supervision.
+The compliance manager should have sufficient seniority and authority within an approved trustee, with direct access to the Board of Directors (or its designated representatives), so that (s)he is able to identify strategic compliance issues across the business and to negotiate with business heads. For example, it may be prudent for a compliance manager to participate in the due diligence
+12
+
+reviews before the appointment of service providers and before the issue of offering documents to scheme members.
+A compliance manager often has either a legal or accounting background, but other disciplines may also be relevant. In particular, a compliance manager needs to have strong verbal and written communication skills, a clear understanding of an approved trustee’s statutory obligations , as well as sound knowledge of an approved trustee’s business.
+It is also important that the compliance manager undertakes training in relation to compliance and has the ability to access compliance conferences as well as other mentoring and training opportunities. This will enable the compliance manager to provide the necessary guidance and advice to the approved trustee.
+In relation to service providers, an approved trustee needs to determine whether a service provider’s compliance arrangements are appropriate. Depending on the nature of the service outsourced by an approved trustee, the approved trustee needs to exercise judgement in deciding whether a particular compliance arrangement is suitable. One important element to consider in determining the suitability of a service provider’s compliance arrangement is the review process. Regular reviews by a party (internal or external) not directly involved in the business area concerned will better ensure the effectiveness of the compliance arrangement.
+13
+
+S 4.0 Standard 4 Compliance Training and Communication
+An approved trustee should achieve and sustain a positive compliance culture by ensuring that relevant staff understand his/her respective role in meeting the trustee’s statutory obligations.
+
+ E 4.0
+Explanatory Notes and Guidance
+An approved trustee is expected to have training and communication measures to enable its directors, all relevant staff and, where appropriate, service providers to be aware of (at an appropriate level):
+i. its compliance programme;
+ii. its broad statutory obligations;
+iii. the specific statutory obligations relevant to their respective roles; and
+iv. the approved trustee’s relevant internal codes, guidelines and policies.
+These measures should be documented, reviewed regularly and updated as and when necessary.
+Training in respect of relevant obligations or an orientation programme should be provided for new directors and staff. Compliance training materials need to be practical and easily understood by the target audience. It is also good practice that the training materials be reviewed (and updated where necessary) on at least an annual basis. An approved trustee may include knowledge tests to assess the effectiveness of the training. The delivery of training may be formal or informal depending on what is appropriate, e.g., in relation to directors, it may be appropriate to provide them with the relevant information documents at board meetings. In this instance, it would be important to have a person available to answer any questions raised.
+There should be proactive communication from the Board of Directors, chief executive officer, senior management or the compliance manager to keep relevant staff informed about compliance issues. Effective communication could maintain staff awareness of compliance and develop a culture of breach- reporting. Communication could take the form of regular e-mails on current developments, internal discussions on regulatory developments that may affect the duties of relevant staff within an approved trustee, or compliance newsletters/alerts in which fundamental/urgent compliance messages can be delivered. An approved trustee should encourage feedback from staff on compliance issues.
+14
+
+Where an operational function, e.g., MPF administration, custodial services or fund management, is outsourced by an approved trustee, it is a good practice for the approved trustee to check that the service provider has measures in place so that its relevant staff are aware of obligations the statutory obligations that apply to an approved trustee, in particular, those obligations that relate to the function being outsourced. It may also be appropriate in some circumstances for the service provider to be aware of the approved trustee’s compliance programme and approved trustee’s internal codes, guidelines and policies.
+15
+
+S 5.0 Standard 5 Complaints Handling Procedures
+An approved trustee should have in place measures that enable the proactive and timely management of complaints from scheme members and participating employers.
+
+ E 5.0
+Explanatory Notes and Guidance
+Complaints are a valuable early-warning device and repeated complaints often indicate a systemic problem that needs to be addressed. An approved trustee should have complaints handling processes to deal with complaints received from scheme members and participating employers. It is a good practice for an approved trustee to:
+i. document its complaint handling procedures;
+ii. provide a definition of what is considered to be a complaint;
+iii. communicate (at an appropriate level) its complaint handling procedures to all relevant staff, intermediaries and service providers;
+iv. communicate its service standards to scheme members and participating employers;
+v. proactively manage complaints by:
+- recording the date, source and type of complaint;
+- applying service standards in relation to their resolution; and
+- investigating the reason for the complaint to determine if it is reflective of a systemic or easily preventable event; and
+vi. nominate an officer responsible for reporting to the compliance manager on any complaints that are not responded to within the service standards specified by the approved trustee.
+Service standards may refer to the number of days the approved trustee will take to respond to a complainant. There may be different response times depending on the nature of the complaint. Further, the response time to acknowledge a complaint will often be much shorter than the time required to respond to issues raised in a complaint.
+An approved trustee is encouraged to develop a document that clearly defines what it regards to be a complaint. There may be different approaches taken by different approved trustees, e.g., some approved trustees may consider that any concern expressed by a scheme member or participating employer amounts to a complaint, whilst others may define a complaint as containing both an expression of dissatisfaction and a request for rectification/compensation.
+16
+
+An approved trustee is also encouraged to communicate to scheme members and participating employers to raise their awareness of the process that will be followed when a complaint is made.
+What is communicated internally and to complainants will often be different. An approved trustee will need to determine what messages it wants to deliver to its relevant staff, intermediaries and service providers, and to the complainant.
+Documented procedures to manage complaints may address the following areas:
+i. ensuring that scheme members are advised in writing of whom to contact in the event that they have a complaint;
+ii. causing any complaint to be investigated in order to determine whether there is a reasonable basis for the complaint;
+iii. responding to all complaints in a timely manner by acknowledging the complaints in writing and following up with responses to the complaint within a reasonable period of time;
+iv. where a complaint cannot be resolved within a reasonable period of time, ensuring that a written update of the status of the complaint is provided to the complainant on a regular basis;
+v. where a complaint has been established, taking reasonable steps to resolve the complaint and address the issue(s) leading to the complaint;
+vi. recording relevant information about individual complaints including:
+- the nature and source of the complaint;
+- the business area to which the complaint relates;
+- the response time;
+- the impact of the complaint on the approved trustee; and
+- any remedial actions and improvements resulting from the complaint;
+vii. performing regular trend analyses, and assessing the existence of any recurring or systemic issues on a regular basis and undertaking remedial actions; and
+viii. determining whether complaints should be reported to the Authority.
+17
+
+S 6.0 Standard 6 Compliance Programme Maintenance and Review
+An approved trustee should monitor the effectiveness of its compliance programme by having measures in place for its maintenance and review.
+
+ E 6.0
+Explanatory Notes and Guidance
+It is a good practice of an approved trustee to implement and document measures to enable the regular review and maintenance of material aspects of its compliance programme. In order to be effective, these measures should:
+i. identify an officer who is responsible for the maintenance and review of the compliance programme;
+ii. state the frequency for the reviews to be conducted; and
+iii. identify events that may trigger an ad hoc review of the effectiveness of the compliance programme.
+An approved trustee is encouraged to put in place a timetable for the general review and maintenance of its compliance programme and its associated documents and measures to ensure its continued effectiveness. This timetable may include:
+- the endorsement of the compliance policy, incorporating any changes as a result of the regular review, by the Board of Directors at a regular interval (e.g. annually);
+- a regular review of the adequacy of compliance resources, taking into account any changes in the approved trustee’s operations; and
+- a schedule to review operational compliance plans to maintain their accuracy and adequacy.
+It is important that an approved trustee focuses on what it sees as key risk areas in relation to the effectiveness of its ability to comply with its obligations. The timing and depth of review will depend on the level of risk as well as other priorities. It is not anticipated that an approved trustee’s compliance programme will be fully reviewed on an annual basis unless an approved trustee has concerns in regard to the effectiveness of its programme.
+A proactive and timely review and maintenance programme supports a positive compliance culture and ensures the continued effectiveness of the compliance programme.
+18
+
+An approved trustee should document not only the timing of regular reviews of elements of its programme, but also identify and document triggers that may give rise to the need for an ad hoc review of certain parts of a compliance programme. These triggers should be considered in the context of their ability to materially impact on the approved trustee’s ability to comply with its obligations. Examples of such triggers may include the following:
+i. changes in the Legislation and other relevant legislation;
+ii. turnover of experienced staff;
+iii. changes in key senior management;
+iv. changes in parent entity or group structure;
+v. substantial growth or changes in business;
+vi. changes in distribution channels;
+vii. significant increase in complaints from scheme members;
+viii. changes in, or addition of, an outsourced service provider;
+ix. addition of a new fund;
+x. updates or changes in IT system;
+xi. merger or takeover of another trust business;
+xii. recommendationsgivenbyregulators;
+xiii. disciplinary actions imposed by regulators; or
+xiv. significantissuesraisedbytheauditororotherindependentreviewer.
+Recommendations arising from a compliance review and their basis should be documented, with a timeframe set for implementation and an owner of the change process appointed. It is worthwhile to note that a compliance review of procedures may not necessarily result in the addition or tightening of procedures or even a change. It will depend on the nature of events which triggered the ad hoc review. An approved trustee needs to consider what procedures will work better in its particular circumstances. For example, procedures may be amended to make them more flexible and hence achieve the desired compliance outcome. Other procedures may be reduced or removed to avoid unnecessary duplication and cost.
+19
+
+S7.0 Standard 7 Reporting Mechanisms to the Board of Directors including the Independent Director
+The Board, including the independent director, should be provided with timely and accurate information so that they are able to take responsibility for monitoring compliance of an approved trustee’s operation.
+
+ E 7.0
+Explanatory Notes and Guidance
+An approved trustee is expected to have in place documented reporting measures to the Board of Directors and, in particular, the independent director. The information provided in the reports must cover material issues that directors should be aware of as well as provide them with enough background information so that they can understand the issues clearly. In particular, it is a good practice for the information to cover both actual and potential (where reasonably foreseeable) significant compliance issues.
+A primary objective of the measures is to ensure that the Directors are provided with all the relevant information needed to enable them to effectively discharge their duties of ensuring the effectiveness of the compliance programme.
+An approved trustee must ensure its Board members are adequately informed of all relevant compliance issues. It may provide compliance reports to Board members that cover:
+i. material legislative, regulatory or policy changes and their potential impact on the business operations of the approved trustee;
+ii. key issues arising from compliance reviews and audit findings concerning compliance issues;
+iii. the nature and volume of complaints and follow-up actions taken;
+iv. significant events, breaches and follow-up actions taken;
+v. communication with regulators in relation to compliance failures and regulatory breaches; and
+vi. recommendations arising from a compliance programme review (Standard 6).
+Reporting must be on a regular basis though in some instances it may be necessary to report a matter to the Board of Directors urgently. An approved trustee should determine appropriate reporting protocols that address its business needs. These protocols may change from time to time.
+20
+
+An independent director brings broader and objective perspectives to the decision making process of the Board and enhances the corporate governance of an approved trustee. The more the independent director is aware of compliance issues, the more (s)he can provide the necessary checks and balances from an independent perspective. This could strengthen the strategic planning of the Board.
+Compared with executive directors, an independent director may not have an intimate understanding of the approved trustee’s day-to-day operations. The compliance reports to Board members should therefore provide sufficient detail and background. Additional measures to assist the independent director in discharging his/her duties may include providing him/her with access to background references through a central point of contact such as the chief executive officer, the company secretary, or any other designated person such as the compliance manager.
+21
+
+S 8.0 Standard 8 Compliance Plans to Address Identified Obligations
+An approved trustee should have in place compliance measures that enable it to effectively identify, monitor, supervise and report on its statutory obligations.
+
+ E 8.0
+Explanatory Notes and Guidance
+An approved trustee is expected to have, as part of its compliance programme, documented operational compliance plans to address, manage and meet the following obligations:
+- statutory obligations, including the general trustee duties and specific operational requirements;
+- governing rules;
+- approval conditions;
+- MPF Guidelines and Codes;
+- relevant codes of conduct issued by the approved trustee; and
+- relevant internal policies of the approved trustee.
+An approved trustee may have a number of documents that make up its compliance plans (these documents may include policies, procedures, protocols, guidelines and so on) .
+An approved trustee is encouraged to document a summary of its compliance plans, as this provides an overview of how many compliance plans are in place and what obligations they cover.
+A compliance plan should comprise the following three elements which are further elaborated in Standards 8.1 to 8.3:
+S 8.1
+S 8.2 S 8.3
+Identification and Compliance Measures
+ü identifies the relevant obligations and specifies the compliance measures that address those obligations (e.g., with documented operational procedures);
+Monitoring and Supervision
+ü explains how compliance with the relevant obligations is to be supervised, monitored and reported; and
+Reporting
+ü details how breaches are to be reported and addressed.
+   22
+
+It is anticipated that some compliance plans may be high level where specific obligations are incorporated into operational systems.
+An approved trustee may find it beneficial to summarize the supervision and monitoring and breach reporting procedures across its main functions into a diagrammatic document (refer to Appendix 2 – AS 2.0 for an example). This summary document may also be used as a valuable training tool for new staff and directors.
+Where an approved trustee outsources operational functions, e.g., MPF administration, custodial services and fund management, to a service provider, an approved trustee should, as part of its due diligence and contractual arrangements, be satisfied that the service provider has adequate measures in place to ensure the obligations stemming from the outsourced function will be met .
+Furthermore, in documenting compliance plans, it is appropriate to reflect those obligations that are carried out by an outsourced provider on a day-to-day basis.
+23
+
+S 8.1 Standard 8.1 Compliance Plan Framework – Identification and Compliance Measures
+An approved trustee should have in place documented processes and controls that enable it to know what obligations need to be complied with and what they need to do to comply.
+
+ E 8.1
+Explanatory Notes and Guidance
+An approved trustee needs to ensure that it has compliance plans that identify its obligations and what compliance measures are in place to address those obligations.
+The document or documents should describe the relevant obligation (either specifically or broadly) being addressed, how that obligation arises (e.g., Legislation, approval conditions, governing rules, etc.) and describe the measure in place to ensure compliance with that obligation.
+The details contained in the plan will vary. For example, the measure may refer to a procedures manual that is in place, or describe the fact that the MPF operational obligations are incorporated into the operating systems. It is not anticipated that the plan will detail every obligation in the Legislation. The description of the obligation and measures may be set out in table form. Obligations may also be grouped together, as the measures may be the same.
+It is also anticipated that a compliance plan will necessarily be high level where the relevant obligations are carried out by an outsourced service provider.
+An approved trustee should aim to be able to answer the question – how do our relevant staff know what obligations they need to comply with and what they need to do, or not do, to ensure compliance with those obligations?
+The compliance measures of a specific statutory obligation may be presented in various forms, such as documented information and guidance, checklists, procedures manuals or controls within the operating systems. These measures should then be tested for effectiveness on a regular basis. The following examples may assist an approved trustee in preparing compliance plans.
+24
+
+Example 1:
+     Obligation
+       Notification to defaulters of failure to pay contributions
+     Compliance Measures
+    ü System reports generated within x days of month-end identifying defaulters and provided to relevant manager.
+ü Documented procedures to calculate amount.
+ü Documented follow-up procedures with timeframe.
+ü Documented procedures for reporting to the Authority.
+  Example 2:
+     Obligation
+      Acting in the interest of scheme members and not in the
+ trustee’s own interest
+     Compliance Measures
+    ü Induction processes provided to directors and staff explaining this general trustee duty.
+ü Annual strategy meeting by Board of Directors to determine the on-going viability of the scheme in respect of the trustee’s duty to act in the interest of scheme members and not in the trustee’s own interest.
+ü The authority provided to senior operational managers to not follow procedures if the requirement to act in the interest of scheme members and not in the trustee’s own interest is not complied with.
+   It is a good practice for an approved trustee to ensure its compliance measures are reflective of the compliance risks identified in its risk management strategy and plans. This may be undertaken as part of the approved trustee’s overall risk management planning. An approved trustee is expected to ensure that compliance measures are appropriate by measuring the impact of a breach of that obligation. The objective is to identify if too much, or too little, compliance effort is being applied to a particular obligation.
+As there is a relationship between a compliance risk and the measures that need to be put in place to address it, an approved trustee should identify its most significant regulatory risks in its risk management plan. Often, a risk is identified as significant by a high likelihood of the risk occurring and its impact on the approved trustee’s operations or scheme members.
+It is appropriate that stronger compliance measures be put in place to reduce the likelihood of occurrence of higher risk events. Conversely, where a lower compliance risk is identified, the strength of the measure put in place may be
+25
+
+lower. Each approved trustee must determine what is appropriate for its own circumstances.
+26
+
+S 8.2 Standard 8.2 Compliance Plan Framework – Monitoring and Supervision
+An approved trustee should monitor and supervise its compliance with its statutory obligations.
+
+ E 8.2
+Explanatory Notes and Guidance
+An approved trustee is expected to have in place compliance plans that explain how compliance with obligations is being monitored, supervised and reported. (it is not expected that the compliance plan shows why a particular supervision and monitoring process is nominated.)
+Monitoring may refer to the act of observing whether rules are obeyed via collecting information. It could be used to check what has happened and what is currently happening. Supervision may refer to the more general observation of the behaviour of a person or group. It is a proactive means of ensuring that the performance or operation of an organization is being carried out.
+An approved trustee’s compliance plans should describe the supervision and monitoring process and assign individuals to be responsible for undertaking it in specific obligations. Compliance plans may also set out the reporting process for confirming that compliance has been achieved or that a breach has occurred. An approved trustee may determine what is material and what is necessary to enable it to understand whether or not it is complying. The information provided must be useful and appropriate and at a level where proper attention may be given to it.
+The supervision, monitoring and reporting measures may be described at a high level or may be specified for each obligation, or groups of obligations, identified. The outcome being sought by the Standard is that it shows generally how supervision and monitoring occurs.
+Supervision and monitoring measures need to be able to at least identify significant and systemic breaches in a timely manner.
+Supervision and monitoring measures need to allow for the assessment of compliance at a level that is reasonable, based on an approved trustee’s assessment of the risk of non-compliance, the impact on scheme members and the cost of implementing those measures. It is appropriate for an approved
+27
+
+trustee to adjust its monitoring and supervision levels based upon the impact and likelihood of a risk occurring.
+This means different levels of monitoring and supervision may be applied to different obligations. For example, some processes only need to be monitored annually, while others may need to be monitored on a more regular basis. Supervision and monitoring measures do not necessarily need to be continuous. The appropriate level of supervision and monitoring will depend on the nature and risk of the activity being monitored. Where the approved trustee is part of a larger group of entities it may also be appropriate for supervision and monitoring measures to be put in place at a group level. However, the approved trustee will need to be satisfied that the group compliance arrangements across the group are appropriate for the administration of MPF funds.
+An approved trustee must also be aware of the supervision, monitoring and reporting procedures put in place by its outsourced service providers. These procedures may then be supplemented by a periodic review by the approved trustee.
+Where the risks to scheme members are considered to be high (i.e. high impact and high likelihood), more substantial processes may be required. The following are possible examples of monitoring and supervision measures (which will need to be assessed by each approved trustee for appropriateness):
+- sample testing;
+- self-certification, including independent verification where appropriate;
+- questionnaires;
+- customer surveys;
+- periodic due diligence using checklists and site visits;
+- periodic review of audit trails, compliance monitoring modules and system generated exception reports by qualified people, independent of the day-to- day processing staff;
+- reconciliations; and
+- IT based checks as part of operating systems.
+Any material results of supervision and monitoring measures are expected to be reported to an approved trustee’s Board of Directors on a pre-determined basis. To ensure accuracy of this reporting, there should be a level of monitoring and supervision that is independent, as far as practicable, from the process being monitored and supervised. This will ensure more accurate reporting on
+28
+
+compliance. A documented compliance plan and the use of a designated, independent compliance manager as detailed in Standard 3 will assist an approved trustee to achieve this outcome.
+29
+
+S 8.3 Standard 8.3 Compliance Plan Framework - Reporting
+An approved trustee should report and address material breaches in a timely and reasonable manner.
+
+ E 8.3
+Explanatory Notes and Guidance
+An approved trustee should ensure that its compliance plans detail how compliance breaches are to be reported, escalated and addressed.
+These Standards are meant to apply to breaches of statutory obligations. Other breaches, e.g. of internal policies and codes, may be treated in a different way.
+The procedure on how a breach is to be reported and addressed will depend on the materiality of the breach and its impact. Some breaches may only be reported within a business area, whilst others because of their materiality are required to be reported to the chief executive officer or the Board. The level of reporting must reflect the seriousness of the breach including whether it is of a systemic nature.
+Types of breaches may include not only breaches of statutory obligations, but also breaches of compliance measures or procedures. The impact of a breach will depend on a number of factors, including:
+- whether it has any impact on scheme members;
+- whether it is reportable to the Authority;
+- how often it has occurred (i.e. whether it is systemic);
+- whether it is a breach of an internal process or policy;
+- whether there is a reputational risk to the approved trustee; and
+- the cost of rectification.
+An approved trustee is expected to, in relation to material obligations, undertake a process of identifying the type of breaches that may occur and their impact in order that it can ascertain:
+i. to whom the breach should be reported;
+ii. in what timeframe it should be addressed; and
+iii. how it should be addressed (including rectification and preventative measures).
+30
+
+Whilst all breaches should be recorded in some way, material breaches should be documented, noting the cause and time of the breach, how the breach is going to be addressed, by whom, and in what timeframe. A register of material breaches should be maintained by the compliance manager to assist in the central management of breaches.
+The cause or source of any material breach should, if possible, be clearly identified. By understanding and documenting the cause of the breach, it is easier to ensure that it is addressed in the most appropriate way, in particular, how it can be prevented from happening again.
+The responsibility for addressing breaches may often rest with the relevant business area (unless it would be inappropriate to do so) to promote a level of ownership of addressing the breach. The compliance area may be responsible for monitoring that the breach has been addressed and any appropriate preventative measures put in place. This will ensure that there is some independent checking of the quality of the measures and independent reporting on whether or not the breach has been addressed.
+A similar process is expected to be in place in relation to functions outsourced, e.g., MPF administration, custodial services and fund management, to service providers to enable the approved trustee to effectively manage breaches notified to it by the service provider.
+31
+
+Appendix 1 Developing Compliance Plans – Some Considerations
+AS 1.0 to AS 5.0 are practical examples of statutory obligations that may be covered by compliance plans.
+AS 1.0
+Monitoring and Supervising Outsourced Service Providers – Example compliance plan obligation identified by an approved trustee:
+“As an approved trustee, we have compliance plans to ensure outsourced service providers have compliance measures to meet the approved trustee obligations delegated to them. These plans are aimed at ensuring service providers are supervised and monitored at an appropriate level and that the required reporting measures are in place.”
+
+ AE 1.0
+Explanatory Notes and Guidance
+The measures put in place by each approved trustee to meet this example obligation would be different . The following are notes on what considerations an approved trustee may take into account.
+Obligations
+The use of outsourced service providers does not diminish the responsibility of an approved trustee to ensure that the outsourced service is conducted in compliance with the approved trustee’s own obligations.
+When appointing an outsourced service provider, an approved trustee is expected to ensure that the service provider communicates its compliance policy and that it has and maintains a compliance programme that enables it to meet the approved trustee’s delegated duties.
+A compliance plan for outsourced services would need to contain supervision and monitoring as well as reporting measures. The level and type of measures will depend on factors such as the relationship between the approved trustee and the outsourced service provider and the level of risk of the activity outsourced.
+Relationship with service provider
+The relationship between an approved trustee and its service provider 32
+
+influences the types of compliance measures, as different relationships require different considerations.
+For a new service agreement to be entered into, an approved trustee is encouraged to ensure that the agreement with the service provider specifies:
+i. that the service provider maintains a compliance programme to address the obligations under the agreement;
+ii. how the approved trustee will monitor and supervise the service provider; and
+iii. what reporting measures must be met.
+For executed service agreements, an approved trustee is encouraged to review the agreement and to check whether the following areas are being covered:
+i. that the service provider maintains a compliance programme to address the obligations under the agreement;
+ii. how the approved trustee will monitor and supervise the service provider; and
+iii.what reporting measures must be met.
+The level and type of supervision and monitoring measures will be determined by the type of service being provided and the relationship an approved trustee has with that service provider. Where the type of service is considered to be of a higher risk, e.g., safe custody or investment of assets, proactive and regular supervision and monitoring should be put in place.
+Where the service provider is part of an approved trustee’s group entity, the following considerations may be relevant when determining the type of supervision and monitoring measures:
+i. the service provider may be monitored by the same compliance and/or internal audit function as the approved trustee; or
+ii. the service provider and the approved trustee may operate on the same computer system and hence have identical controls in place; or
+iii. the service provider and the approved trustee may be located on the same floor allowing daily interaction of staff, increasing the risk of collusion.
+In this instance, the compliance measures across the group should have sufficient flexibility to address an approved trustee’s fiduciary relationship with its scheme members. In particular, the compliance reporting in relation to the compliance of MPF products must be clearly distinguished.
+33
+
+It may also be appropriate to monitor compliance as if the activity was being performed by an approved trustee and not outsourced. This may avoid unnecessary duplication of reporting within the group and may provide the approved trustee with more influence over what measures need to be put in place.
+Where the service provider is a third party, an approved trustee may wish to consider:
+i. how the activities performed by that service provider are regulated and what is the regulatory approach of that regulator;
+ii. whether that service provider provides the same services to other approved trustees, and if so, does this create a conflict in terms of the service provider’s capacity or willingness to prioritize a smaller approved trustee’s service over that of a larger approved trustee;
+iii. whether the directors and relevant staff of that service provider have a close relationship with those of the approved trustee; and
+iv. how practical it is for the approved trustee to exercise its rights to terminate the service agreement.
+Where the service provider is a third party, the approved trustee may have less influence over the types of measures that the service provider puts in place. In this case, the compliance measures of the approved trustee may focus on obtaining a broad understanding of the compliance framework in place by the service provider. Further the approved trustee may seek assurances in relation to the ability of the service provider to comply on an ongoing basis.
+The less influence an approved trustee has, the more it may ask the service provider to provide independent measures to monitor the level of compliance. For example, this may include copies of customer satisfaction surveys or confirmation by an auditor of the service provider’s ability to comply.
+Level of risk
+The level of risk of the business activities outsourced is also an important factor to determine what compliance measures are appropriate. An approved trustee may consider that the level of risk is greater where:
+i. the activity is complex;
+ii. the rules governing the activity are open to different interpretations;
+iii. the financial impact on scheme members would be significant should the
+34
+
+activity not be carried out properly;
+iv. the reputational damage to the approved trustee would be significant should the activity not be carried out properly;
+v. it would be difficult for the approved trustee to find a replacement service provider should the current service provider cease to be in business; and
+vi. the activity is further sub-contracted to another service provider.
+The greater the risk, the tighter the supervision and monitoring should be and the more regular the reporting should be. This may include measures that require the service provider to report to the approved trustee on a regular basis in relation to specific obligations. These reports should describe how the service provider is ensuring compliance, including any compliance reviews it has undertaken and the results of those reviews.
+Examples of considerations for specific outsourced service providers
+(a) An approved trustee is encouraged to ensure that its compliance plan in relation to supervising and monitoring of investment managers includes:
+i. compliance with the Legislation, MPF Guidelines and Codes, governing rules and approval conditions ;
+ii. compliance with the investment management agreement;
+iii. reporting of investment performance and compliance with stated investment objectives;
+iv. compliance with stated investment objectives and an appropriate asset allocation strategy;
+v. immediate reporting of breaches that need to be disclosed to the Authority;
+vi. compliance by the investment manager with the “Fund Manager Code of Conduct” issued by the Securities and Futures Commission;
+vii. significant events of the parent group, in particular, any material regulatory issues in other jurisdictions that may have impact on the capability of the investment manager to conduct the delegated activities of the approved trustee;
+viii. the investment manager’s record in achieving agreed service levels including:
+- reporting deadlines;
+- reporting breaches of investment restrictions; and
+- errors in portfolio reporting; and
+ix. the investment manager’s process for appointing and monitoring sub- investment managers.
+35
+
+(b) An approved trustee is encouraged to ensure that its compliance plan in relation to supervising and monitoring custodians includes:
+i. compliance with the Legislation, MPF Guidelines and Codes, governing rules and approval conditions ( where applicable);
+ii. compliance with the custodial agreement;
+iii. the custodian’s record in achieving agreed service levels including:
+- reporting deadlines;
+- reporting breaches of investment restrictions; and
+- errors in portfolio reporting;
+iv. audit report on the custodian’s system of controls;
+v. net assets of the custodian;
+vi. the custodian’s process for appointing and monitoring sub-custodians; and
+vii. significant events of the parent group, in particular, any material regulatory issues in other jurisdictions that may have impact on the capability of the custodian to conduct the delegated activities of approved trustee.
+36
+
+AS 2.0 Managing Conflicts of Interest – Example compliance plan obligation identified by an approved trustee:
+“As an approved trustee, we have in place a compliance plan that enables us to manage conflicts of interest.”
+
+ AE 2.0
+Explanatory Notes and Guidance
+An approved trustee is expected to have in place mechanisms to control, disclose and, where necessary, avoid conflicts of interest. The measures, processes and procedures making up these mechanisms should be documented and then approved and endorsed by the Board of Directors. The resultant document may be a compliance plan, an approved trustee’s policy or internal code of ethics. The code should follow industry good practice and may cover such area as:
+i. acceptance of gifts;
+ii. declaration of conflicts;
+iii. confidentiality of client information;
+iv. security of, and access rights to, client information;
+v. review of outsourced service provider’s performance where the service provider is in the same financial group; and
+vi. influence (perceived or otherwise) of commercial relationships of an approved trustee’s financial group entity with employers when considering the interests of scheme members.
+An approved trustee should ensure that its directors and staff are aware of this obligation, and put in place a facility where disclosures can be made immediately when conflicts occur. An annual certification process may be part of the compliance measures though it must be supported by an ongoing process to remind directors and staff that it is a continuing obligation.
+To assist directors and staff, an approved trustee should identify and document those conflicts that it believes must be avoided and those that should be disclosed. An approved trustee is also expected to document how a director or staff should avoid or manage a conflict.
+37
+
+AS 3.0 Managing Significant Events – Example compliance plan obligation identified by an approved trustee:
+“As an approved trustee, we have a compliance plan that describes how we identify, report and address significant events.”
+________________________________________________________________________
+ AE 3.0
+Explanatory Notes and Guidance
+As managing significant events is part of an approved trustee’s statutory obligations, an approved trustee is expected to have a compliance plan in place.
+The compliance plan should:
+i. outline the measures the approved trustee has in place to enable compliance with the requirement to report significant events to the Authority, taking into account the Guidelines on Notification of Events of Significant Nature;
+ii. outline examples of significant events that may be reportable to the Authority. For example, it may develop an internal guideline on the specific types of system failures that would require notification to the Authority;
+iii. describe the specific reporting and escalation measure that must be followed when a significant event occurs; and
+iv. explain the process of how the approved trustee will address and monitor management of significant events.
+38
+
+AS 4.0
+Monitoring Compliance with the Code of Conduct for MPF Intermediaries – Example compliance plan obligation identified by an approved trustee:
+“As an approved trustee, we ensure that we and the entities that engage MPF intermediaries for promoting our MPF schemes have compliance plans to enable compliance with the Code of Conduct for MPF Intermediaries (“the Code”) issued by the Authority.”
+________________________________________________________________________
+ AE 4.0
+Explanatory Notes and Guidance
+The compliance plan should contain measures that address:
+i. the supervision and monitoring of MPF intermediaries;
+ii. the requirement that only registered MPF intermediaries may be engaged in selling MPF schemes;
+iii. the requirement that MPF intermediaries follow the general principles contained in Chapter 3 of the Code; and
+iv. the requirement that MPF intermediaries follow the provisions contained in Chapter 4 of the Code.
+The measures to address this obligation may include:
+i. documented training materials and procedures in compliance manuals;
+ii. measures to supervise, monitor and report on MPF intermediaries’ conduct and compliance with the Code; and
+iii. clear reporting measures and procedures on how breaches are to be addressed.
+39
+
+AS 5.0
+Disclosure – Example compliance plan obligation identified by an approved trustee:
+“As an approved trustee, we have a compliance plan that enables compliance with our obligations relating to information contained in disclosure materials provided to scheme members and participating employers.”
+________________________________________________________________________
+ AE 5.0
+Explanatory Notes and Guidance
+The compliance plan should include an approved trustee’s statutory obligations in relation to disclosure as well as any relevant codes or other requirements issued by the regulators.
+Where disclosure materials are produced by a third party, an approved trustee must, as far as possible, monitor that an appropriate due diligence process was being followed by that third party to ensure that the document complies with the Legislation, all applicable codes and any other requirements.
+The compliance plan should outline what certification and supporting documentation needs to be provided to an approved trustee in order for it to monitor compliance with the obligations. The compliance plan may also specify processes that are to be undertaken to ensure that all associated marketing materials are consistent with its offering documents.
+40
+
+Appendix 2
+.
+Example of a Compliance Monitoring and Reporting Framework Diagram
+  CM meets weekly with CEO. Qtly report on compliance matters for distribution to directors. Immediate rptg of significant matters.
+Board
+CEO
+                      MPFA
+         Internal Audit
+  Annual review by CM of compliance with code of conduct
+ Ad hoc breach reporting to CM. Annual compliance training by CM. Sample testing each 6 months by CM. Daily compliance checklist for each valuation. Qtly compliance certification.
+ Ad hoc breach reporting to FA. Due diligence reviews by CM every 2 years. Qtly compliance certification.
+41
+CEO presents board paper on compliance. Board investment committee reviews performance of FM monthly and meets with FM quarterly.
+ Group Compliance
+    Semi-annually report on compliance matters from CM. CM attends annual group compliance conference/training.
+Periodic reporting and reporting of significant breaches by CM.
+ Compliance Manager (“CM”)
+ Periodically visit each operational area in accordance with audit plan.
+  Fund Administrator “FA”
+Fund Manager “FM”
+ MPF Intermediaries
+  Key
+Direct, regular reporting
+Ad hoc reporting as and when required
+Scheme Administrator
+Custodian
+ Ad hoc breach reporting to CM. Due diligence reviews by CM every 2 years. Qtly compliance certification. Check of investment restrictions.
+ Ad hoc breach reporting to CM. Annual compliance training by CM. Sample testing each 6 months by CM. Qtly compliance certification.
