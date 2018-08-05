@@ -1,0 +1,159 @@
+= Guidelines on MPF Exempted ORSO Schemes - Application for Exemption of ORSO Registered Schemes
+:edition: 1
+:revdate: 2016-02-01
+:language: en
+:title: Guidelines on MPF Exempted ORSO Schemes - Application for Exemption of ORSO
+:doctype: Guidelines
+:docnumber: V.2
+:draft: 6
+:stem:
+:xrefstyle: short
+:appendix-caption: Appendix
+:appendix-refsig: Appendix
+:section-caption: Paragraph
+:section-refsig: Paragraph
+:table-caption: Table
+:example-caption: Figure
+
+// http://www.mpfa.org.hk/eng/legislation_regulations/legulations_ordinance/guidelines/current_version/orso_interface/files/V_2.pdf
+// http://www.mpfa.org.hk/eng/legislation_regulations/legulations_ordinance/guidelines/current_version/orso_interface/files/Annex_to_V_2.pdf
+// http://www.mpfa.org.hk/eng/legislation_regulations/legulations_ordinance/guidelines/current_version/orso_interface/files/PIN.pdf
+
+// TODO Introduction is no longer a special header
+ 
+[.container] 
+== Introduction
+
+=== {blank}
+Section 5(1) of the Mandatory Provident Fund Schemes Ordinance (“the Ordinance”) provides for the exemption of the members of occupational retirement schemes and their employers from the operation of all, or any specified, provisions of the Ordinance.
+
+// external reference
+
+=== {blank}
+Section 16 of the Mandatory Provident Fund Schemes (Exemption) Regulation (“the Exemption Regulation”) sets out the detailed requirements with respect to the application for exemption of relevant ORSO registered schemes.
+
+=== {blank}
+The Mandatory Provident Fund Schemes Authority (“the Authority”) hereby issues guidelines relating to the application for exemption of relevant ORSO registered schemes under the Ordinance and the Exemption Regulation.
+
+[.container] 
+== Application for Approval
+
+[.container] 
+=== Eligibility
+
+==== {blank}
+Pursuant to section 16 of the Exemption Regulation, an application may be made in respect of a “relevant ORSO registered scheme” for exemption from MPF requirements.
+
+==== {blank}
+According to section 2 of the Exemption Regulation, a relevant ORSO registered scheme is defined as an ORSO registered scheme -
+
+[loweralpha]
+. which is governed by a trust;
+. [[5b]]which provides benefits payable on termination of service, death, disability, retirement or winding up of the scheme;
+. established before or on 15 October 1995; and
+. [[5d]]in respect of which an application under section 7 or 15 of the Occupational Retirement Schemes Ordinance was received by the Registrar of Occupational Retirement Schemes not later than 15 January 1996.
+
+==== {blank}
+For ORSO schemes which were originally the subject of or regulated by an insurance arrangement but subsequently converted into a scheme governed by trust, as long as they fulfil the criteria set out in <<5b>> to <<5d>>, they will be, for exemption purposes, treated as continuation of the original schemes, thus eligible to apply for MPF exemption.
+
+==== {blank}
+For ORSO schemes that are re-registered with the Registrar of Occupational Retirement Schemes as a result of a change of administrator or change of pooling agreement, they will also be treated as continuation of the original schemes for exemption purposes.
+
+==== {blank}
+Furthermore, section 14 of the Exemption Regulation provides that ORSO registered schemes that are established after 15 October 1995 as a result of scheme restructuring or bona fide business transactions, such as company amalgamation, restructuring and joint ventures, may be eligible to apply for MPF exemption provided that all or a class of the members of the scheme and the assets of the scheme have been transferred or will, before or as soon as practicable after the issue of an exemption certificate in respect of the scheme under section 16 of the Exemption Regulation, be transferred to the scheme from one or more relevant ORSO registered schemes. These “new schemes” shall be deemed to be relevant ORSO registered schemes by virtue of section 2(2) of the Exemption Regulation.
+
+==== {blank}
+The Authority has the discretionary power to determine whether a new ORSO scheme is to be treated as a relevant ORSO registered scheme. Applications made with respect to new schemes will need to submit the following additional information and documents -
+
+[loweralpha]
+. evidencing the bona fide business transaction, if applicable, e.g. sale and purchase agreement, minutes of board meeting, correspondence, solicitor statement, etc.;
+. evidencing the scheme restructuring, if applicable, e.g. trust deeds of the original and the new schemes, employee communication booklets or leaflets, etc.;
+. evidencing the transfer of scheme assets (if applicable), e.g. correspondence between the former and the current administrators;
+. comparing the terms and conditions of the original scheme and the new scheme with respect to overall benefit design, benefit level, etc.; and
+. the percentage of members of the new scheme who are or will be members of the original scheme.
+
+[.container]
+=== Governing Rules
+
+==== {blank}
+In order to be qualified for MPF exemption, the terms of relevant ORSO registered schemes will most likely need to be amended in the following aspects:
+
+[loweralpha]
+. For schemes which close membership to new employees -
+[lowerroman]
+.. definition of “minimum MPF benefits” (including “relevant income”, “final average monthly relevant income” and “years of post-MPF service”), “commencement date of MPF”, etc.;
+.. eligibility provision for joining the scheme, i.e. no new employee can join (except for membership transfer, if applicable);
+.. treatment of accrued benefits of members who join an MPF scheme upon retirement, termination of service, death, disability, etc.;
+.. restrictions on withholding an existing member’s minimum MPF benefits upon dismissal for cause;
+.. option to existing members to join an MPF scheme upon the commencement date of MPF and upon reduction of future benefits;
+.. restrictions on the use of derivatives and borrowing;
+. For schemes which open membership to new employees 
+[lowerroman]
+.. definitions of “commencement date of MPF”, “existing member”, “new eligible employee”, “new member”, “minimum MPF benefits” (including “relevant income”, “final average monthly relevant income” and “years of post-MPF service”), etc.;
+.. eligibility provision for joining the scheme - the eligibility period will need to be shorter than 60 days since an employer is obliged to enrol a new employee into an MPF scheme after being employed for 60 days unless the employee is either exempt by virtue of section 4 of the Ordinance or is a member of an MPF exempted ORSO scheme;
+.. treatment of accrued benefits of members who join an MPF scheme upon retirement, termination of service, death, disability, etc.;
+.. grandfathering provisions of existing members except for restrictions on withholding an existing member’s minimum MPF benefits upon dismissal for cause;
+.. option to existing members to join an MPF scheme upon the commencement date of MPF;
+.. option to all members to join an MPF scheme upon reduction of future benefits;
+.. preservation, portability and withdrawal of minimum MPF benefits requirements with respect to new members;
+.. treatment of minimum MPF benefits upon inter-group transfer and scheme transfers;
+.. restrictions on the use of derivatives and borrowing.
+
+[.container]
+=== Prescribed Forms
+
+==== {blank}
+In making an application to the Authority for exemption of a relevant ORSO registered scheme, the applicant must:
+
+[loweralpha]
+. make the application in the prescribed format (Form ER) as set out in the Annex;
+// TODO annex reference
+. submit a copy of the latest governing rules of the scheme;
+. submit such other documents as prescribed in the application form;
+. accompanied by the application fee; and
+. make the application on or before the specified date, i.e. a date
+specified by the Authority by notice in the Gazette. For an application made with respect to a new scheme to which section 14 of the Exemption Regulation applies and is established after the commencement date of the Exemption Regulation, the application should be made within 60 days of the date of establishment of the scheme; or on or before the specified date, whichever is later; or such later date as the Authority may specify in writing. However, employers are reminded that if there are new employees eligible to join the new scheme, employers are required to give an option to these employees to join the new scheme or an MPF scheme in accordance with section 15 of the Exemption Regulation. In addition, after commencement of sections 7, 7A and 7B of the Ordinance, new employees will be compelled by law to make mandatory contributions after 60 days of employment if they are not an exempt person or a member of an MPF exempted ORSO scheme. Thus, where new employees are eligible to join the new scheme, applications should be made as soon as possible if employers foresee such a new scheme being established.
+
+==== {blank}
+The prescribed format of the form in the Annex can be downloaded from the Authority’s website at: http://www.mpfa.org.hk
+// TODO done as centered highlight; example would be overkill, as would blockquote
+
+[.container]
+=== Definition of Terms
+
+==== {blank}
+Where a term used in the Guidelines is defined in the Ordinance or the subsidiary legislation then, except where specified in the Guidelines, that term carries the meaning as defined in the Ordinance or the subsidiary legislation.
+
+[.container]
+=== The Applicant
+
+==== {blank}
+The applicant making an application for exemption of a relevant ORSO registered scheme must be the trustee of the scheme. In case the scheme is a group scheme under section 67 of the Occupational Retirement Schemes Ordinance, the application shall be deemed to be made by each relevant employer of the scheme under section 25(a) of the Exemption Regulation.
+
+[.container]
+===  Signing Requirements
+
+==== {blank}
+
+The application for exemption of a relevant ORSO registered scheme must be signed:
+
+[loweralpha]
+. if all the trustees are natural persons, by at least 2 trustees and one of whom must be the non-employer trustee; in the case where there is only one trustee, by that trustee;
+. if the trustee or one of the trustees is a company, by at least 2 of the directors of the trustee that is a company or their authorised persons.
+
+[.container]
+===  Submission of Application
+
+==== {blank}
+Completed application form and the relevant documents, if any, should be submitted in hard copies and sent, together with the application fee, to:
+
+[align=left]
+Mandatory Provident Fund Schemes Authority Level 8, +
+Tower 1, Kowloon Commerce Centre +
+51 Kwai Cheong Road, Kwai Chung Hong Kong
+
+[.container]
+===  Warning
+
+==== {blank}
+If there is any change to the application information or documents after an application is submitted to the Authority, the applicant should inform the Authority as soon as reasonably practicable. It is an offence under section 43E of the Ordinance if a person, in any document given to the Authority, makes a statement that he knows to be false or misleading in a material respect, or recklessly makes a statement which is false or misleading in a material respect.
