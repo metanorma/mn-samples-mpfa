@@ -7,6 +7,15 @@
 :doctype: Best Practice Note for MPF Trustees
 :draft: 
 :stem:
+:xrefstyle: short
+:appendix-caption: Appendix
+:appendix-refsig: Appendix
+:section-caption: Paragraph
+:section-refsig: Paragraph
+:table-caption: Table
+:example-caption: Figure
+
+// http://www.mpfa.org.hk/eng/legislation_regulations/legulations_ordinance/BPN/files/BPN_E.pdf
 
 == Introduction
 The Code of Conduct for MPF Intermediaries states that approved MPF trustees have a duty to use their best endeavours to supervise persons selling / advising on MPF schemes. The Authority regards this Note as a tool to assist trustees to supervise and monitor their MPF promoters and in turn, their intermediaries (both Corporate and Individual) in the marketing and selling of MPF schemes and products.
@@ -41,7 +50,7 @@ If the existing relevant documentation does not address these issues or trustees
 To assist the Authority to promote best practices in this area, trustees are invited to copy these documents to the Authority within 3 months of the date of issue of this Note and whenever, in their opinion, substantial amendments are made. Commercially sensitive information may be excluded when forwarding the documents to the Authority.
 
 [[clause2]]
-= Relationship between promoters and their corporate intermediaries
+== Relationship between promoters and their corporate intermediaries
 
 [[clause2-1]]
 === {blank}
