@@ -26,7 +26,7 @@ The Code of Conduct for MPF Intermediaries states that approved MPF trustees hav
 [[clause1-1]]
 === {blank}
 
-The Authority imposes a number of conditions when approving applications to become an approved MPF trustee. One of these requires trustees to take all reasonable steps to ensure that only registered MPF intermediaries induce or seek to induce another to become a participating employer or member of the Scheme. In addition, the Code of Conduct states that trustees have a duty to use their best endeavours to supervise and exercise proper control over persons selling / advising on MPF schemes. It is therefore expected that trustees would endeavour to ensure that the standards of conduct set out in the Code, are met by their intermediaries. Trustees should have the necessary tools at their disposal to facilitate this and where problems arise, the ability to take (either directly or indirectly) the appropriate remedial action. The Authority is aware that many trustees already have written undertakings from their promoters concerning the latters’ intermediaries adherence to the Code of Conduct. The Authority commends this and would encourage all trustees to adopt the practice.
+The Authority imposes a number of conditions when approving applications to become an approved MPF trustee. One of these requires trustees to take all reasonable steps to ensure that only registered MPF intermediaries induce or seek to induce another to become a participating employer or member of the Scheme. In addition, the Code of Conduct states that trustees have a duty to use their best endeavours to supervise and exercise proper control over persons selling / advising on MPF schemes. It is therefore expected that trustees would endeavour to ensure that the standards of conduct set out in the Code, are met by their intermediaries. Trustees should have the necessary tools at their disposal to facilitate this and where problems arise, the ability to take (either directly or indirectly) the appropriate remedial action. The Authority is aware that many trustees already have written undertakings from their promoters concerning the latters' intermediaries adherence to the Code of Conduct. The Authority commends this and would encourage all trustees to adopt the practice.
 
 [[clause1-2]]
 === {blank}
@@ -36,9 +36,10 @@ The Authority sees merit in the undertaking, which may take the form of a separa
 [loweralpha]
 . the means by which the promoter will ensure, as far as reasonably practicable,
 that the MPF intermediaries selling / advising on the relevant MPF schemes comply with the Code of Conduct and any other regulatory documents issued by the Authority;
-. the procedures to be adopted if a breach of the Code of Conduct comes to the promoter’s attention;
-. a summary of the promoter’s complaint handling procedure and the mechanism for advising the relevant trustee of complaints received;
-. reference to an ability for the trustee to conduct on-site inspections at the promoter’s place of business, if the trustee deems this to be necessary;
+
+. the procedures to be adopted if a breach of the Code of Conduct comes to the promoter's attention;
+. a summary of the promoter's complaint handling procedure and the mechanism for advising the relevant trustee of complaints received;
+. reference to an ability for the trustee to conduct on-site inspections at the promoter's place of business, if the trustee deems this to be necessary;
 . a commitment by the promoter to provide the trustee with annual written confirmation that the promoter and intermediaries appointed or engaged for the purpose of selling or advising on MPF schemes and products have complied with the Code of Conduct and any other regulatory documents issued by the Authority; and
 . any other relevant material to ensure compliance with the Code.
 
@@ -56,7 +57,7 @@ To assist the Authority to promote best practices in this area, trustees are inv
 === {blank}
 
 Whilst the majority of promoters engage corporate intermediaries to sell MPF
-products, trustees generally have little direct contact with this Group. Therefore, as a best practice, trustees are invited to consider encouraging their promoters to obtain documentation from the promoters’ corporate intermediaries covering some or all of the areas suggested in <<clause1>>. If, applicable, it would be helpful to the Authority, if trustees could indicate the existence of this documentation when submitting copies of the documents referred to in <<clause1-3>>. In addition, trustees are encouraged to satisfy themselves that, as far as practicable, promoters have sufficient due diligence processes in place to ensure that individual intermediaries working for their corporate intermediaries, are adequately supervised and monitored in terms of compliance with the Code of Conduct.
+products, trustees generally have little direct contact with this Group. Therefore, as a best practice, trustees are invited to consider encouraging their promoters to obtain documentation from the promoters' corporate intermediaries covering some or all of the areas suggested in <<clause1>>. If, applicable, it would be helpful to the Authority, if trustees could indicate the existence of this documentation when submitting copies of the documents referred to in <<clause1-3>>. In addition, trustees are encouraged to satisfy themselves that, as far as practicable, promoters have sufficient due diligence processes in place to ensure that individual intermediaries working for their corporate intermediaries, are adequately supervised and monitored in terms of compliance with the Code of Conduct.
 
 [[clause3]]
 == On-going verification of the registration requirements of intermediaries

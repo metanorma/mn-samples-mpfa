@@ -84,7 +84,7 @@ In order to be qualified for MPF exemption, the terms of relevant ORSO registere
 .. definition of “minimum MPF benefits” (including “relevant income”, “final average monthly relevant income” and “years of post-MPF service”), “commencement date of MPF”, etc.;
 .. eligibility provision for joining the scheme, i.e. no new employee can join (except for membership transfer, if applicable);
 .. treatment of accrued benefits of members who join an MPF scheme upon retirement, termination of service, death, disability, etc.;
-.. restrictions on withholding an existing member’s minimum MPF benefits upon dismissal for cause;
+.. restrictions on withholding an existing member's minimum MPF benefits upon dismissal for cause;
 .. option to existing members to join an MPF scheme upon the commencement date of MPF and upon reduction of future benefits;
 .. restrictions on the use of derivatives and borrowing;
 . For schemes which open membership to new employees 
@@ -92,7 +92,7 @@ In order to be qualified for MPF exemption, the terms of relevant ORSO registere
 .. definitions of “commencement date of MPF”, “existing member”, “new eligible employee”, “new member”, “minimum MPF benefits” (including “relevant income”, “final average monthly relevant income” and “years of post-MPF service”), etc.;
 .. eligibility provision for joining the scheme - the eligibility period will need to be shorter than 60 days since an employer is obliged to enrol a new employee into an MPF scheme after being employed for 60 days unless the employee is either exempt by virtue of section 4 of the Ordinance or is a member of an MPF exempted ORSO scheme;
 .. treatment of accrued benefits of members who join an MPF scheme upon retirement, termination of service, death, disability, etc.;
-.. grandfathering provisions of existing members except for restrictions on withholding an existing member’s minimum MPF benefits upon dismissal for cause;
+.. grandfathering provisions of existing members except for restrictions on withholding an existing member's minimum MPF benefits upon dismissal for cause;
 .. option to existing members to join an MPF scheme upon the commencement date of MPF;
 .. option to all members to join an MPF scheme upon reduction of future benefits;
 .. preservation, portability and withdrawal of minimum MPF benefits requirements with respect to new members;
@@ -115,7 +115,7 @@ In making an application to the Authority for exemption of a relevant ORSO regis
 specified by the Authority by notice in the Gazette. For an application made with respect to a new scheme to which section 14 of the Exemption Regulation applies and is established after the commencement date of the Exemption Regulation, the application should be made within 60 days of the date of establishment of the scheme; or on or before the specified date, whichever is later; or such later date as the Authority may specify in writing. However, employers are reminded that if there are new employees eligible to join the new scheme, employers are required to give an option to these employees to join the new scheme or an MPF scheme in accordance with section 15 of the Exemption Regulation. In addition, after commencement of sections 7, 7A and 7B of the Ordinance, new employees will be compelled by law to make mandatory contributions after 60 days of employment if they are not an exempt person or a member of an MPF exempted ORSO scheme. Thus, where new employees are eligible to join the new scheme, applications should be made as soon as possible if employers foresee such a new scheme being established.
 
 ==== {blank}
-The prescribed format of the form in the Annex can be downloaded from the Authority’s website at: http://www.mpfa.org.hk
+The prescribed format of the form in the Annex can be downloaded from the Authority's website at: http://www.mpfa.org.hk
 // TODO done as centered highlight; example would be overkill, as would blockquote
 
 [.container]
