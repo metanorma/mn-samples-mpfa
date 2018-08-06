@@ -1,6 +1,6 @@
 = Supervision of MPF Intermediaries
 :edition: 1
-:published-date: 2009-09
+:revdate: 2009-09-01
 :copyright-year: 2009
 :language: en
 :title: Supervision of MPF Intermediaries
