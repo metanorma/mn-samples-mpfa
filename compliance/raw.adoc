@@ -742,7 +742,6 @@ The greater the risk, the tighter the supervision and monitoring should be and t
 
 [loweralpha]
 . An approved trustee is encouraged to ensure that its compliance plan in relation to supervising and monitoring of investment managers includes:
-
 [lowerroman]
 .. compliance with the Legislation, MPF Guidelines and Codes, governing rules and approval conditions ;
 .. compliance with the investment management agreement;

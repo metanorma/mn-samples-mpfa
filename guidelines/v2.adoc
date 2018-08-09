@@ -22,7 +22,7 @@
 // TODO Introduction is no longer a special header
  
 [.container] 
-== Introduction
+== Introductory
 
 === {blank}
 Section 5(1) of the Mandatory Provident Fund Schemes Ordinance (“the Ordinance”) provides for the exemption of the members of occupational retirement schemes and their employers from the operation of all, or any specified, provisions of the Ordinance.
@@ -49,12 +49,12 @@ According to section 2 of the Exemption Regulation, a relevant ORSO registered s
 
 [loweralpha]
 . which is governed by a trust;
-. [[5b]]which provides benefits payable on termination of service, death, disability, retirement or winding up of the scheme;
+. [[x5b]]which provides benefits payable on termination of service, death, disability, retirement or winding up of the scheme;
 . established before or on 15 October 1995; and
-. [[5d]]in respect of which an application under section 7 or 15 of the Occupational Retirement Schemes Ordinance was received by the Registrar of Occupational Retirement Schemes not later than 15 January 1996.
+. [[x5d]]in respect of which an application under section 7 or 15 of the Occupational Retirement Schemes Ordinance was received by the Registrar of Occupational Retirement Schemes not later than 15 January 1996.
 
 ==== {blank}
-For ORSO schemes which were originally the subject of or regulated by an insurance arrangement but subsequently converted into a scheme governed by trust, as long as they fulfil the criteria set out in <<5b>> to <<5d>>, they will be, for exemption purposes, treated as continuation of the original schemes, thus eligible to apply for MPF exemption.
+For ORSO schemes which were originally the subject of or regulated by an insurance arrangement but subsequently converted into a scheme governed by trust, as long as they fulfil the criteria set out in <<x5b>> to <<x5d>>, they will be, for exemption purposes, treated as continuation of the original schemes, thus eligible to apply for MPF exemption.
 
 ==== {blank}
 For ORSO schemes that are re-registered with the Registrar of Occupational Retirement Schemes as a result of a change of administrator or change of pooling agreement, they will also be treated as continuation of the original schemes for exemption purposes.
@@ -80,7 +80,7 @@ In order to be qualified for MPF exemption, the terms of relevant ORSO registere
 
 [loweralpha]
 . For schemes which close membership to new employees -
-[lowerroman]
+[roman]
 .. definition of “minimum MPF benefits” (including “relevant income”, “final average monthly relevant income” and “years of post-MPF service”), “commencement date of MPF”, etc.;
 .. eligibility provision for joining the scheme, i.e. no new employee can join (except for membership transfer, if applicable);
 .. treatment of accrued benefits of members who join an MPF scheme upon retirement, termination of service, death, disability, etc.;
@@ -88,7 +88,7 @@ In order to be qualified for MPF exemption, the terms of relevant ORSO registere
 .. option to existing members to join an MPF scheme upon the commencement date of MPF and upon reduction of future benefits;
 .. restrictions on the use of derivatives and borrowing;
 . For schemes which open membership to new employees 
-[lowerroman]
+[roman]
 .. definitions of “commencement date of MPF”, “existing member”, “new eligible employee”, “new member”, “minimum MPF benefits” (including “relevant income”, “final average monthly relevant income” and “years of post-MPF service”), etc.;
 .. eligibility provision for joining the scheme - the eligibility period will need to be shorter than 60 days since an employer is obliged to enrol a new employee into an MPF scheme after being employed for 60 days unless the employee is either exempt by virtue of section 4 of the Ordinance or is a member of an MPF exempted ORSO scheme;
 .. treatment of accrued benefits of members who join an MPF scheme upon retirement, termination of service, death, disability, etc.;

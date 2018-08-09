@@ -1,0 +1,285 @@
+= Performance Presentation Standards for MPF investment Funds
+:edition: 2
+:revdate: 2007-04-01
+:copyright-year: 2007
+:language: en
+:title: Performance Presentation Standards for MPF investment Funds
+:doctype: Compliance Standards for MPF Trustees
+:draft:
+:stem:
+:xrefstyle: short
+:appendix-caption: Appendix
+:appendix-refsig: Appendix
+:section-caption: Paragraph
+:section-refsig: Paragraph
+:table-caption: Table
+:example-caption: Figure
+
+// http://www.mpfa.org.hk/eng/legislation_regulations/legulations_ordinance/standards/files/PPS_HKTA_HKIFA_April.2007__Clean.pdf
+
+== General
+
+[.container]
+=== Status
+
+==== {blank}
+
+These Standards are published jointly by the Hong Kong Investment Funds Association and Hong Kong Trustees’ Association. Upon being recognized by the Mandatory Provident Fund Schemes Authority ("the MPFA"), they are the recognized industry performance presentation standards for the purposes of the Code on Disclosure for MPF Investment Funds ("the Code") as stated in A1.1 and D2.3 of that Code.
+
+==== {blank}
+Unless otherwise identified, words and expressions used in these Standards are as defined in the Code.
+
+[.container]
+=== Purpose
+
+==== {blank}
+
+The purpose of these Standards is to specify the methods that approved trustees and service providers of MPF schemes should use in preparing, calculating and presenting the information that is required as minimum content in a fund fact sheet of a registered MPF scheme. It covers the items of fund performance information, fund risk indicators and fund descriptor, as set out in D2.3 (f), (i) and (j) of the Code.
+
+==== {blank}
+
+These Standards aim to present scheme members with actual, historical information on the performance of MPF funds. The information should be prepared based on the good disclosure principles set out in Part B of the Code to facilitate informed decision making by scheme members and to facilitate comparison across MPF funds.
+
+==== {blank}
+
+The Standards are limited to the above purpose. The fund fact sheet should also comply with any relevant requirements of the SFC Code on MPF Products.
+
+==== {blank}
+
+These Standards, in conjunction with Chapter D of the Code, have been developed to set some minimum standards so that members of registered schemes are provided with at least a basic level of information about registered schemes and constituent funds. Nothing in these standards is intended to prevent, or discourage approved trustees or service providers from providing additional, or more detailed information if they consider it appropriate to do so.
+
+== Presentation Standards for Fund Performance Information
+
+[.container]
+=== Requirements of the Code
+
+==== {blank}
+
+D2.3(f) of the Code requires that for each constituent fund of a registered scheme, the periodic rate of return for the fund over the periods of 1, 5, 10 years and since launch be provided in the fund fact sheet.
+
+[.container]
+=== Presentation of fund performance information
+
+==== {blank}
+
+Subject to <<b3>> to <<b10>> the fund fact sheet should set out, in tabular form, the annualized rate of return footnote:[Note that the SFC Code on MPF Products provides that “annualized returns are generally only acceptable if the actual returns for all the individual years are shown in addition”.] for each constituent fund of the scheme, over the following periods:
+
+* the period since launch,
+* where the financial year of the scheme does not end on 31 December, the last calendar year ending before the reporting date of the fund fact sheet,
+* where relevant, the periods of 1 year, 5 year and 10 year preceding the reporting date of the fund fact sheet.
+
+[[b3]]
+==== {blank}
+
+Where a constituent fund comprises more than one class, rates of return should be shown for each class.
+
+==== {blank}
+
+<<calculation>> sets out in detail how the rate of return should be calculated.
+
+==== {blank}
+
+No return figures for the period since launch should be shown for any constituent fund that has less than 6-months’ track record at the reporting date of the fund fact sheet. No return figures for the period since launch is required for any constituent fund where the period since launch is greater than 10 years.
+
+==== {blank}
+
+If any rate of return is shown in the fund fact sheet for any periods of less than one year, those rates of return should not be annualized.
+
+[.container]
+==== Guaranteed funds
+
+[[b7]]
+===== {blank}
+
+Where the rates of return of a fund are not affected by the performance of the underlying investments of the fund, and where the guarantee for the return is payable unconditionally, the actual rate of return declared by that fund over the respective periods should be shown in the fund fact sheet instead of the return calculated in accordance with <<calculation>>
+
+===== {blank}
+
+For a non-unitized fund, where an internally calculated price of the fund reflects the performance of the underlying investments held by the fund on a per unit basis, and is similar to the NAV per unit of the fund stated in <<calculation>>, that fund price is to be used for the calculation of fund performance in accordance with <<calculation>>.
+  
+===== {blank}
+
+In all other cases, the periodic rates of return for the guaranteed fund should be shown according to the formula set out in <<calculation>>.
+
+[[b10]]
+===== {blank}
+
+For guaranteed funds, the name of the guarantor, the guaranteed rate and conditions for the guarantee (if applicable) should be disclosed in the fund fact sheet. If it is not practicable to include the conditions in the fund fact sheet, due to their length, then the fund fact sheet should contain a summary of the conditions that apply and direct readers to where the full conditions can be obtained from.
+
+[.container]
+==== Restructured or merged funds
+
+===== {blank}
+
+Where a new fund is formed through the restructuring of other funds, the rate of return of the newly launched fund should be shown, provided it has at least 6-months' track record at the reporting date of the fund fact sheet. The fact that the restructuring has taken place may be disclosed as a footnote in the fund fact sheet. It may direct readers to where the full information on the restructuring and/or past performance of the preceding funds can be obtained.
+
+[.container]
+=== Calculation of fund performance
+
+[[calculation]]
+==== {blank}
+
+The rate of return of the fund, or for a particular class of the fund, over the respective periods specified in D2.3(f) of the Code should be calculated to two decimal places in the following manner:
+
+[stem]
+++++
+"Rate of return for the measurement period from point 'a' to point 'b' (%)" = [((NAV_b - FA ) / (NAV_a))^(1/n) - 1] xx 100%
+++++
+
+Where, for the purposes of this formula only, the following terms have the meaning indicated:
+
+|====
+|    Term | Meaning
+
+| stem:[NAV_a] | The net asset value per unit of the fund or each unit of a class of the fund in Hong Kong dollars at point ‘a’, the beginning of the measurement period.
+| stem:[NAV_b] | The net asset value per unit of the fund or each unit of a class of the fund in Hong Kong dollars at point ‘b’, the end of the measurement period.
+| stem:[FA] a| An adjustment for any fees or charges deducted from members’ accounts by way of deduction of units, if those fees or charges would be counted as expenses of the fund if deducted directly from the fund. The adjustment should be calculated on a per unit basis in accordance with the formula
+
+[stem]
+++++
+FA = D / (U + V )
+++++
+
+Where:
+
+* stem:[D] = the value of any fees and charges deducted by way of deduction of units during the period from point ‘a’ to point ‘b’
+* stem:[U] = the number of units outstanding at point ‘b’
+* stem:[V] = the number of units deducted as fees or charges during the period from point ‘a’ to point ‘b’
+
+| stem:[n] | The number of years in the measurement period from the beginning at point ‘a’ to the end at point ‘b’. Where the number of years in the measurement period from point ‘a’ to point ‘b’ is less than 1, stem:[n] equals 1.
+|====
+
+== Standards for Fund Risk Indicators
+
+[.container]
+=== Requirements of the Code
+
+==== {blank}
+
+D2.3(i) of the Code requires that appropriate fund risk indicators be provided in the fund fact sheet for each constituent fund of a scheme as a general indication about the level of risk of the fund in a manner that assists members in assessing the level of risks consistently across funds.
+
+[.container]
+=== Presentation of the fund risk indicators
+
+==== {blank}
+
+The fund risk indicator for each fund should be shown as an annualized standard deviation based on the monthly rates of return of the fund over the past 3 years to the reporting date of the fund fact sheet.
+
+==== {blank}
+
+Funds with performance history of less than 3 years since inception to the reporting of the fund fact sheet are not required to show the annualized standard deviation in the fund fact sheet.
+
+[.container]
+==== Guaranteed funds
+
+===== {blank}
+
+Annualized standard deviations need not be shown in the case of a guaranteed fund as described in <<b7>>.
+
+===== {blank}
+
+For a non-unitized fund, where an internally calculated price of the fund reflects the performance of the underlying investments held by the fund on a per unit basis, and is similar to the NAV per unit of the fund stated in <<calculation>>, that fund price is to be used for the calculation of the fund risk indicator in accordance with <<calculation2>>.
+
+[.container]
+=== Calculation of fund risk indicators
+
+[[calculation2]]
+==== {blank}
+
+The annualized standard deviation of the fund should be calculated to two decimal places in the following manner:
+
+[stem]
+++++
+"Annualized Standard Deviation (%)" = [ 12/36 xx sum(x_i - bar x)^2]^(1/2)
+++++
+
+
+Where, for the purpose of this formula only, the following terms have the meanings
+indicated:
+
+|===
+| Term | Meaning
+
+| stem:[sum(x_i - bar x)^2] | The summation of the square of the difference between stem:[x_i], and stem:[bar x] calculated to two decimal places.
+| stem:[x_i] a| The rate of return of the fund for each full month of the measurement period, calculated in the following manner:
+
+[stem]
+++++
+x_i = [(NAV_b - FA) / (NAV_a - 1)] xx 100%
+++++
+
+where stem:[NAV_a], stem:[NAV_b] and stem:[FA] have the same meaning as defined in <<calculation>>.
+ 
+| stem:[bar x] a| The average monthly rate of return of the fund over the measurement period, calculated in the following manner:
+
+[stem]
+++++
+bar x = sum x_i / 36
+++++
+|===
+
+== Standards for Fund Descriptor
+
+[.container]
+=== Requirements of the Code
+
+==== {blank}
+Paragraph D2.3(j) of the Code requires that a fund descriptor be provided in the fund fact sheet for each constituent fund, as a description of the fund type in a manner that will facilitate comparison with other similar funds.
+
+[.container]
+=== Presentation of the fund descriptor
+
+==== {blank}
+The fund descriptor included in the fund fact sheet should be a short statement representing the characteristics of the underlying investments of the fund set out in the investment objectives and policy in the offering document of the fund. The fund descriptor should be based on the types of assets, the types of non-cash assets that predominate (constitute at least 70% of the fund), the maximum exposure to equity, and the geographical region in which the fund invests, as set out in the offering document.
+
+[.container]
+=== Fund descriptors by category of funds, asset types and geographic regions
+
+==== {blank}
+The fund fact sheet should state, under the heading “Fund Descriptor” one of the following fund descriptors, where the text in square brackets would be adjusted to suit circumstances:
+
+[[d3_1]]
+===== {blank}
+|===
+| Type of fund | Descriptor to be used
+
+|   For a fund that is a mixed asset fund investing in a geographic region with no less than 70% of fund assets invested in bonds and equities in that region with a specified maximum exposure to equity. | Mixed Assets Fund- [region] - Maximum equity footnote:[or such other terms as used in the offering document e.g."maximum equity around [ \]%"] [ ]%
+|===
+
+===== {blank}
+|===
+| Type of fund | Descriptor to be used
+
+|   For a fund that is an equity fund investing in a geographic region, with no less than 70% of fund assets invested in that region. | Equity Fund - [region]
+|===
+
+===== {blank}
+|===
+| Type of fund | Descriptor to be used
+
+|   For a fund that is a bond fund investing in a geographic region with no less than 70% of the fund assets invested in bonds in that region. | Bond Fund - [region]
+|===
+
+[[d3_4]]
+===== {blank}
+|===
+| Type of fund | Descriptor to be used
+|   For a fund that is a money market fund investing in a geographic region, with no less than 70% of the fund assets invested in money market instruments such as short term deposits and debt securities in that region, to achieve an average portfolio remaining maturity not exceeding 90 days. | Money Market Fund - [region]
+|===
+
+===== {blank}
+|===
+| Type of fund | Descriptor to be used
+| For a fund that is a guaranteed fund whereby a guaranteed amount will be paid to holders in future according to the features of the guarantee. | Guaranteed Fund - [guarantee features footnote:[e.g. guarantee payable unconditionally] ]
+|===
+
+[[d3_6]]
+===== {blank}
+|===
+| Type of fund | Descriptor to be used
+| For a fund that does not fit within any of the fund descriptors set out above. | Uncategorised Fund - [region]
+|=== 
+
+==== {blank}
+Funds under the fund descriptor in <<d3_1>> would include many funds known as lifestyle (or lifecycle) or balanced funds. Funds under the fund descriptor <<d3_4>> would include the Capital Preservation Funds that operate pursuant to section 37 of the Mandatory Provident Fund Schemes (General) Regulation. Funds under the fund descriptor <<d3_6>> would comprise funds that do not fit within any other descriptor.
+
