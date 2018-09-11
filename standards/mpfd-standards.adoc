@@ -62,7 +62,7 @@ D2.3(f) of the Code requires that for each constituent fund of a registered sche
 
 ==== {blank}
 
-Subject to <<b3>> to <<b10>> the fund fact sheet should set out, in tabular form, the annualized rate of return footnote:[Note that the SFC Code on MPF Products provides that “annualized returns are generally only acceptable if the actual returns for all the individual years are shown in addition”.] for each constituent fund of the scheme, over the following periods:
+Subject to <<b3>> to <<b10>> the fund fact sheet should set out, in tabular form, the annualized rate of return footnote:[Note that the SFC Code on MPF Products provides that "`annualized returns are generally only acceptable if the actual returns for all the individual years are shown in addition`".] for each constituent fund of the scheme, over the following periods:
 
 * the period since launch,
 * where the financial year of the scheme does not end on 31 December, the last calendar year ending before the reporting date of the fund fact sheet,
@@ -236,7 +236,7 @@ The fund descriptor included in the fund fact sheet should be a short statement 
 === Fund descriptors by category of funds, asset types and geographic regions
 
 ==== {blank}
-The fund fact sheet should state, under the heading “Fund Descriptor” one of the following fund descriptors, where the text in square brackets would be adjusted to suit circumstances:
+The fund fact sheet should state, under the heading "`Fund Descriptor`" one of the following fund descriptors, where the text in square brackets would be adjusted to suit circumstances:
 
 [[d3_1]]
 ===== {blank}

@@ -20,32 +20,32 @@
 // http://www.mpfa.org.hk/eng/legislation_regulations/legulations_ordinance/guidelines/current_version/orso_interface/files/PIN.pdf
 
 // TODO Introduction is no longer a special header
- 
-[.container] 
+
+[.container]
 == Introductory
 
 === {blank}
-Section 5(1) of the Mandatory Provident Fund Schemes Ordinance (“the Ordinance”) provides for the exemption of the members of occupational retirement schemes and their employers from the operation of all, or any specified, provisions of the Ordinance.
+Section 5(1) of the https://www.elegislation.gov.hk/hk/cap485[Mandatory Provident Fund Schemes Ordinance ("`the Ordinance`")] provides for the exemption of the members of occupational retirement schemes and their employers from the operation of all, or any specified, provisions of https://www.elegislation.gov.hk/hk/cap485[the Ordinance].
 
 // external reference
 
 === {blank}
-Section 16 of the Mandatory Provident Fund Schemes (Exemption) Regulation (“the Exemption Regulation”) sets out the detailed requirements with respect to the application for exemption of relevant ORSO registered schemes.
+Section 16 of the https://www.elegislation.gov.hk/hk/cap485B[Mandatory Provident Fund Schemes (Exemption) Regulation ("`the Exemption Regulation`")] sets out the detailed requirements with respect to the application for exemption of relevant ORSO registered schemes.
 
 === {blank}
-The Mandatory Provident Fund Schemes Authority (“the Authority”) hereby issues guidelines relating to the application for exemption of relevant ORSO registered schemes under the Ordinance and the Exemption Regulation.
+The Mandatory Provident Fund Schemes Authority ("`the Authority`") hereby issues guidelines relating to the application for exemption of relevant ORSO registered schemes under https://www.elegislation.gov.hk/hk/cap485[the Ordinance] and the https://www.elegislation.gov.hk/hk/cap485B[Exemption Regulation].
 
-[.container] 
+[.container]
 == Application for Approval
 
-[.container] 
+[.container]
 === Eligibility
 
 ==== {blank}
-Pursuant to section 16 of the Exemption Regulation, an application may be made in respect of a “relevant ORSO registered scheme” for exemption from MPF requirements.
+Pursuant to section 16 of the https://www.elegislation.gov.hk/hk/cap485B[Exemption Regulation], an application may be made in respect of a "`relevant ORSO registered scheme`" for exemption from MPF requirements.
 
 ==== {blank}
-According to section 2 of the Exemption Regulation, a relevant ORSO registered scheme is defined as an ORSO registered scheme -
+According to section 2 of the https://www.elegislation.gov.hk/hk/cap485B[Exemption Regulation], a relevant ORSO registered scheme is defined as an ORSO registered scheme -
 
 [loweralpha]
 . which is governed by a trust;
@@ -60,7 +60,7 @@ For ORSO schemes which were originally the subject of or regulated by an insuran
 For ORSO schemes that are re-registered with the Registrar of Occupational Retirement Schemes as a result of a change of administrator or change of pooling agreement, they will also be treated as continuation of the original schemes for exemption purposes.
 
 ==== {blank}
-Furthermore, section 14 of the Exemption Regulation provides that ORSO registered schemes that are established after 15 October 1995 as a result of scheme restructuring or bona fide business transactions, such as company amalgamation, restructuring and joint ventures, may be eligible to apply for MPF exemption provided that all or a class of the members of the scheme and the assets of the scheme have been transferred or will, before or as soon as practicable after the issue of an exemption certificate in respect of the scheme under section 16 of the Exemption Regulation, be transferred to the scheme from one or more relevant ORSO registered schemes. These “new schemes” shall be deemed to be relevant ORSO registered schemes by virtue of section 2(2) of the Exemption Regulation.
+Furthermore, section 14 of the https://www.elegislation.gov.hk/hk/cap485B[Exemption Regulation] provides that ORSO registered schemes that are established after 15 October 1995 as a result of scheme restructuring or bona fide business transactions, such as company amalgamation, restructuring and joint ventures, may be eligible to apply for MPF exemption provided that all or a class of the members of the scheme and the assets of the scheme have been transferred or will, before or as soon as practicable after the issue of an exemption certificate in respect of the scheme under section 16 of the https://www.elegislation.gov.hk/hk/cap485B[Exemption Regulation], be transferred to the scheme from one or more relevant ORSO registered schemes. These "`new schemes`" shall be deemed to be relevant ORSO registered schemes by virtue of section 2(2) of the https://www.elegislation.gov.hk/hk/cap485B[Exemption Regulation].
 
 ==== {blank}
 The Authority has the discretionary power to determine whether a new ORSO scheme is to be treated as a relevant ORSO registered scheme. Applications made with respect to new schemes will need to submit the following additional information and documents -
@@ -81,16 +81,16 @@ In order to be qualified for MPF exemption, the terms of relevant ORSO registere
 [loweralpha]
 . For schemes which close membership to new employees -
 [roman]
-.. definition of “minimum MPF benefits” (including “relevant income”, “final average monthly relevant income” and “years of post-MPF service”), “commencement date of MPF”, etc.;
+.. definition of "`minimum MPF benefits`" (including "`relevant income`", "`final average monthly relevant income`" and "`years of post-MPF service`"), "`commencement date of MPF`", etc.;
 .. eligibility provision for joining the scheme, i.e. no new employee can join (except for membership transfer, if applicable);
 .. treatment of accrued benefits of members who join an MPF scheme upon retirement, termination of service, death, disability, etc.;
 .. restrictions on withholding an existing member's minimum MPF benefits upon dismissal for cause;
 .. option to existing members to join an MPF scheme upon the commencement date of MPF and upon reduction of future benefits;
 .. restrictions on the use of derivatives and borrowing;
-. For schemes which open membership to new employees 
+. For schemes which open membership to new employees
 [roman]
-.. definitions of “commencement date of MPF”, “existing member”, “new eligible employee”, “new member”, “minimum MPF benefits” (including “relevant income”, “final average monthly relevant income” and “years of post-MPF service”), etc.;
-.. eligibility provision for joining the scheme - the eligibility period will need to be shorter than 60 days since an employer is obliged to enrol a new employee into an MPF scheme after being employed for 60 days unless the employee is either exempt by virtue of section 4 of the Ordinance or is a member of an MPF exempted ORSO scheme;
+.. definitions of "`commencement date of MPF`", "`existing member`", "`new eligible employee`", "`new member`", "`minimum MPF benefits`" (including "`relevant income`", "`final average monthly relevant income`" and "`years of post-MPF service`"), etc.;
+.. eligibility provision for joining the scheme - the eligibility period will need to be shorter than 60 days since an employer is obliged to enrol a new employee into an MPF scheme after being employed for 60 days unless the employee is either exempt by virtue of section 4 of https://www.elegislation.gov.hk/hk/cap485[the Ordinance] or is a member of an MPF exempted ORSO scheme;
 .. treatment of accrued benefits of members who join an MPF scheme upon retirement, termination of service, death, disability, etc.;
 .. grandfathering provisions of existing members except for restrictions on withholding an existing member's minimum MPF benefits upon dismissal for cause;
 .. option to existing members to join an MPF scheme upon the commencement date of MPF;
@@ -112,7 +112,7 @@ In making an application to the Authority for exemption of a relevant ORSO regis
 . submit such other documents as prescribed in the application form;
 . accompanied by the application fee; and
 . make the application on or before the specified date, i.e. a date
-specified by the Authority by notice in the Gazette. For an application made with respect to a new scheme to which section 14 of the Exemption Regulation applies and is established after the commencement date of the Exemption Regulation, the application should be made within 60 days of the date of establishment of the scheme; or on or before the specified date, whichever is later; or such later date as the Authority may specify in writing. However, employers are reminded that if there are new employees eligible to join the new scheme, employers are required to give an option to these employees to join the new scheme or an MPF scheme in accordance with section 15 of the Exemption Regulation. In addition, after commencement of sections 7, 7A and 7B of the Ordinance, new employees will be compelled by law to make mandatory contributions after 60 days of employment if they are not an exempt person or a member of an MPF exempted ORSO scheme. Thus, where new employees are eligible to join the new scheme, applications should be made as soon as possible if employers foresee such a new scheme being established.
+specified by the Authority by notice in the Gazette. For an application made with respect to a new scheme to which section 14 of the https://www.elegislation.gov.hk/hk/cap485B[Exemption Regulation] applies and is established after the commencement date of the https://www.elegislation.gov.hk/hk/cap485B[Exemption Regulation], the application should be made within 60 days of the date of establishment of the scheme; or on or before the specified date, whichever is later; or such later date as the Authority may specify in writing. However, employers are reminded that if there are new employees eligible to join the new scheme, employers are required to give an option to these employees to join the new scheme or an MPF scheme in accordance with section 15 of the https://www.elegislation.gov.hk/hk/cap485B[Exemption Regulation]. In addition, after commencement of sections 7, 7A and 7B of https://www.elegislation.gov.hk/hk/cap485[the Ordinance], new employees will be compelled by law to make mandatory contributions after 60 days of employment if they are not an exempt person or a member of an MPF exempted ORSO scheme. Thus, where new employees are eligible to join the new scheme, applications should be made as soon as possible if employers foresee such a new scheme being established.
 
 ==== {blank}
 The prescribed format of the form in the Annex can be downloaded from the Authority's website at: http://www.mpfa.org.hk
@@ -122,13 +122,13 @@ The prescribed format of the form in the Annex can be downloaded from the Author
 === Definition of Terms
 
 ==== {blank}
-Where a term used in the Guidelines is defined in the Ordinance or the subsidiary legislation then, except where specified in the Guidelines, that term carries the meaning as defined in the Ordinance or the subsidiary legislation.
+Where a term used in the Guidelines is defined in https://www.elegislation.gov.hk/hk/cap485[the Ordinance] or the subsidiary legislation then, except where specified in the Guidelines, that term carries the meaning as defined in https://www.elegislation.gov.hk/hk/cap485[the Ordinance] or the subsidiary legislation.
 
 [.container]
 === The Applicant
 
 ==== {blank}
-The applicant making an application for exemption of a relevant ORSO registered scheme must be the trustee of the scheme. In case the scheme is a group scheme under section 67 of the Occupational Retirement Schemes Ordinance, the application shall be deemed to be made by each relevant employer of the scheme under section 25(a) of the Exemption Regulation.
+The applicant making an application for exemption of a relevant ORSO registered scheme must be the trustee of the scheme. In case the scheme is a group scheme under section 67 of the Occupational Retirement Schemes Ordinance, the application shall be deemed to be made by each relevant employer of the scheme under section 25(a) of the https://www.elegislation.gov.hk/hk/cap485B[Exemption Regulation].
 
 [.container]
 ===  Signing Requirements
@@ -156,4 +156,4 @@ Tower 1, Kowloon Commerce Centre +
 ===  Warning
 
 ==== {blank}
-If there is any change to the application information or documents after an application is submitted to the Authority, the applicant should inform the Authority as soon as reasonably practicable. It is an offence under section 43E of the Ordinance if a person, in any document given to the Authority, makes a statement that he knows to be false or misleading in a material respect, or recklessly makes a statement which is false or misleading in a material respect.
+If there is any change to the application information or documents after an application is submitted to the Authority, the applicant should inform the Authority as soon as reasonably practicable. It is an offence under section 43E of https://www.elegislation.gov.hk/hk/cap485[the Ordinance] if a person, in any document given to the Authority, makes a statement that he knows to be false or misleading in a material respect, or recklessly makes a statement which is false or misleading in a material respect.

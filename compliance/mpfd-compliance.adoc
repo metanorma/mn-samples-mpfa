@@ -4,7 +4,7 @@
 :copyright-year: 2005
 :language: en
 :title: Supervision of MPF Intermediaries
-:doctype: Compliance Standards for MPF Trustees
+:doctype: Compliance Standards for MPF Approved Trustees
 :draft:
 :stem:
 :xrefstyle: short
@@ -25,7 +25,7 @@ means <<appendix1>> and <<appendix2>> contained in this document
 
 === approved trustee
 
-means a trustee approved by the Authority pursuant to the Ordinance
+means a trustee approved by the Authority pursuant to https://www.elegislation.gov.hk/hk/cap485[the Ordinance]
 
 === Authority
 
@@ -33,7 +33,7 @@ means the Mandatory Provident Fund Schemes Authority
 
 === compliance culture
 
-means the behaviour of an approved trustee board, management and staff to achieve compliance with its statutory obligations. "Positive compliance culture" means that the approved trustee, through its board, management and staff, meets its statutory obligations through the implementation of an effective and efficient compliance programme
+means the behaviour of an approved trustee board, management and staff to achieve compliance with its statutory obligations. "`Positive compliance culture`" means that the approved trustee, through its board, management and staff, meets its statutory obligations through the implementation of an effective and efficient compliance programme
 
 === compliance plans
 
@@ -55,7 +55,7 @@ means the compliance area or manager or officer that is responsible for monitori
 
 === Legislation
 
-means the Ordinance and the Regulation
+means https://www.elegislation.gov.hk/hk/cap485[the Ordinance] and the https://www.elegislation.gov.hk/hk/cap485B[Regulation]
 
 === measures
 
@@ -79,7 +79,7 @@ means the compliance standards contained in this document numbered <<std1-0>> to
 
 === statutory obligations
 
-are those obligations described as “statutory obligations” in <<exp1-0>>
+are those obligations described as "`statutory obligations`" in <<exp1-0>>
 
 [preface]
 == Introduction to Standards
@@ -161,7 +161,7 @@ The compliance programme should be documented and provide a framework enabling t
 [[exp1-0]]
 === Explanatory Notes and Guidance
 
-An approved trustee must comply with obligations under the Legislation, including the general trustee duties as well as specific requirements relating to the operation of MPF schemes. These obligations can be described as the “*statutory obligations*” of an approved trustee, which include (but are not limited to):
+An approved trustee must comply with obligations under the Legislation, including the general trustee duties as well as specific requirements relating to the operation of MPF schemes. These obligations can be described as the "`*statutory obligations*`" of an approved trustee, which include (but are not limited to):
 
 * exercising a level of care, skill, diligence and prudence that may reasonably be expected of a prudent person who is acting in the capacity of a trustee and is familiar with the operation of MPF schemes;
 * acting in the interest of scheme members and not in an approved trustee's own interest;
@@ -748,7 +748,7 @@ The greater the risk, the tighter the supervision and monitoring should be and t
 .. reporting of investment performance and compliance with stated investment objectives;
 .. compliance with stated investment objectives and an appropriate asset allocation strategy;
 .. immediate reporting of breaches that need to be disclosed to the Authority;
-.. compliance by the investment manager with the “Fund Manager Code of Conduct” issued by the Securities and Futures Commission;
+.. compliance by the investment manager with the "`Fund Manager Code of Conduct`" issued by the Securities and Futures Commission;
 .. significant events of the parent group, in particular, any material regulatory issues in other jurisdictions that may have impact on the capability of the investment manager to conduct the delegated activities of the approved trustee;
 .. the investment manager's record in achieving agreed service levels including:
 *** reporting deadlines;
@@ -772,7 +772,7 @@ The greater the risk, the tighter the supervision and monitoring should be and t
 [[appendix2-0]]
 === Managing Conflicts of Interest – Example compliance plan obligation identified by an approved trustee:
 
-“As an approved trustee, we have in place a compliance plan that enables us to manage conflicts of interest.”
+"`As an approved trustee, we have in place a compliance plan that enables us to manage conflicts of interest.`"
 
 [.guidance]
 [[exp-a2-0]]
@@ -819,7 +819,7 @@ The compliance plan should:
 === Monitoring Compliance with the Code of Conduct for MPF Intermediaries – Example compliance plan obligation identified by an approved trustee:
 
 ____
-As an approved trustee, we ensure that we and the entities that engage MPF intermediaries for promoting our MPF schemes have compliance plans to enable compliance with the Code of Conduct for MPF Intermediaries (“the Code”) issued by the Authority.
+As an approved trustee, we ensure that we and the entities that engage MPF intermediaries for promoting our MPF schemes have compliance plans to enable compliance with the Code of Conduct for MPF Intermediaries ("`the Code`") issued by the Authority.
 ____
 
 [.guidance]
