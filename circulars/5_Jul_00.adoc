@@ -1,0 +1,48 @@
+= Mandatory Provident Fund Schemes Ordinance (Cap.485)("the Ordinance") Prorating of Minimum and Maximum Levels of Relevant Income for Mandatory Contribution Purposes
+
+Schedules 2 and 3 ("the Schedules") to the Ordinance provide for the minimum and maximum levels of relevant income for mandatory contribution purposes. These two schedules also provide that the levels be prorated if a relevant employee is not remunerated on a monthly basis.
+
+Prorating may be performed based on the number of days in a month. On this basis, the minimum levels of relevant income for one day in October (a 31-day month) and one day in November (a 30-day month) would be $129 and $133 respectively. Accordingly, the minimum level of relevant income for the week from 29 October 2001 to 4 November 2001 would be $919 (3 x $129 + 4 x $133).
+
+The Authority understands that there might be practical difficulties for service providers and employers to prorate the relevant income levels precisely. As a result, the Authority is prepared to accept the use of a daily minimum and maximum levels of relevant income of $130 and $650 respectively. The minimum and maximum relevant income levels for contribution periods longer than 1 day will be calculated as a multiple of the daily minimum and maximum levels respectively. These daily levels are identical to those applicable to a casual employee who is a member of an industry scheme.
+
+On the other hand, if the length of a contribution period of an employee is expressed in number of months (such as half a month or three months), the minimum and maximum levels of relevant income for a period should be determined by multiplying the number of months in a contribution period by $4,000 and $20,000 respectively.
+
+On this basis, the minimum and maximum levels of relevant income for some common remuneration bases are as follows:
+
+[cols="a,a,a"]
+|===
+|Remuneration basis
+|Minimum level of relevant income
+|Maximum level of relevant income
+
+|Daily| $130| $650
+
+|Weekly| $910| $4,550
+
+|Fortnightly| $1,820| $9,100
+
+|Twice a month| $2,000| $10,000
+
+|Once every two months| $8,000| $40,000
+
+|Quarterly| $12,000| $60,000
+
+|===
+
+
+== Other issues relating to prorating
+
+The Authority would also like to take this opportunity to clarify certain related issues in the prorating arrangement.
+
+== Commencement or Termination of Employment during a Contribution Period
+
+The fact that an employee commences or ceases employment within a contribution period will not affect the levels of relevant income applicable to that period. For example, the minimum and maximum levels of relevant income in respect of a relevant employee, who is remunerated on a monthly basis and commences employment on 20 December 2000, would be HK$4,000 and HK$20,000 respectively for determination of mandatory contributions required for the first contribution period from 20 December 2000 to 31 December 2000. Similar treatment should be applied to a relevant employee who ceases employment during a contribution period.
+
+== First Contribution Period of a Relevant Employee who is not a Casual Employee ("Non-Casual Employee")
+
+Section 7A(10)(b) of the Ordinance provides that the contribution period of a non-casual employee does not include the first 30 days of employment after the relevant time. The minimum and maximum relevant income levels applicable to a monthly-paid, non-casual employee for the period from the 31st day of employment to the end of the calendar month in which the 30th day of employment falls should be prorated. For example, the employer of a non-casual employee who is monthly paid and is under employment on 1 December 2000, should compare the employee's relevant income for the day of 31st December 2000 to $130 and $650 to determine the employee's mandatory contributions for the month December 2000. On the other hand, the employer's mandatory contributions for the month of December 2000 should be determined by comparing the relevant income of the employee for the whole month with $4,000 and $20,000.
+
+== Casual Employee who is not a Member of an Industry Scheme
+
+The prorating arrangements for a casual employee (who is not a member of an industry scheme) are identical to those applicable to a relevant employee who is not a casual employee. By design, no prorating arrangement is applicable to a casual employee who is a member of an industry scheme.
