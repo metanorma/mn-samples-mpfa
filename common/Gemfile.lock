@@ -24,7 +24,7 @@ GIT
 
 GIT
   remote: https://github.com/riboseinc/metanorma-mpfd
-  revision: 99da68121a988904c13d7b2f4009842efba3afa8
+  revision: 3710b759b83f7ee1540ec3a7673a443cc1340b2d
   specs:
     metanorma-mpfd (0.0.9)
       asciidoctor (~> 1.5.7)
