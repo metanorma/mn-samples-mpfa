@@ -4,3 +4,4 @@ gem "metanorma", git: "https://github.com/riboseinc/metanorma"
 gem "metanorma-cli", git: "https://github.com/riboseinc/metanorma-cli"
 gem "metanorma-mpfd", git: "https://github.com/riboseinc/metanorma-mpfd"
 
+# gem "metanorma-mpfd", path: "~/src/metanorma-mpfd"

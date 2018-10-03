@@ -1,4 +1,17 @@
-= Mandatory Provident Fund Schemes Ordinance (Cap.485)("the Ordinance") Prorating of Minimum and Maximum Levels of Relevant Income for Mandatory Contribution Purposes
+= Mandatory Provident Fund Schemes Ordinance (Cap. 485) ("the Ordinance") Prorating of Minimum and Maximum Levels of Relevant Income for Mandatory Contribution Purposes (2) (Repealed from 1 February 2003)
+:edition: 1
+:revdate: 2000-07-05
+:docnumber: SU/CTR/2000/002
+:copyright-year: 2000
+:status: Repealed (2003-02-01)
+:language: en
+:script: Latn
+:title: Mandatory Provident Fund Schemes Ordinance (Cap. 485) ("the Ordinance") Prorating of Minimum and Maximum Levels of Relevant Income for Mandatory Contribution Purposes
+:doctype: circular
+:data-uri-image:
+
+
+== General
 
 Schedules 2 and 3 ("the Schedules") to the Ordinance provide for the minimum and maximum levels of relevant income for mandatory contribution purposes. These two schedules also provide that the levels be prorated if a relevant employee is not remunerated on a monthly basis.
 
@@ -35,14 +48,14 @@ On this basis, the minimum and maximum levels of relevant income for some common
 
 The Authority would also like to take this opportunity to clarify certain related issues in the prorating arrangement.
 
-== Commencement or Termination of Employment during a Contribution Period
+=== Commencement or Termination of Employment during a Contribution Period
 
 The fact that an employee commences or ceases employment within a contribution period will not affect the levels of relevant income applicable to that period. For example, the minimum and maximum levels of relevant income in respect of a relevant employee, who is remunerated on a monthly basis and commences employment on 20 December 2000, would be HK$4,000 and HK$20,000 respectively for determination of mandatory contributions required for the first contribution period from 20 December 2000 to 31 December 2000. Similar treatment should be applied to a relevant employee who ceases employment during a contribution period.
 
-== First Contribution Period of a Relevant Employee who is not a Casual Employee ("Non-Casual Employee")
+=== First Contribution Period of a Relevant Employee who is not a Casual Employee ("Non-Casual Employee")
 
 Section 7A(10)(b) of the Ordinance provides that the contribution period of a non-casual employee does not include the first 30 days of employment after the relevant time. The minimum and maximum relevant income levels applicable to a monthly-paid, non-casual employee for the period from the 31st day of employment to the end of the calendar month in which the 30th day of employment falls should be prorated. For example, the employer of a non-casual employee who is monthly paid and is under employment on 1 December 2000, should compare the employee's relevant income for the day of 31st December 2000 to $130 and $650 to determine the employee's mandatory contributions for the month December 2000. On the other hand, the employer's mandatory contributions for the month of December 2000 should be determined by comparing the relevant income of the employee for the whole month with $4,000 and $20,000.
 
-== Casual Employee who is not a Member of an Industry Scheme
+=== Casual Employee who is not a Member of an Industry Scheme
 
 The prorating arrangements for a casual employee (who is not a member of an industry scheme) are identical to those applicable to a relevant employee who is not a casual employee. By design, no prorating arrangement is applicable to a casual employee who is a member of an industry scheme.

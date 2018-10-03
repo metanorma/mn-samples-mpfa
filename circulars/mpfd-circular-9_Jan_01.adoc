@@ -1,6 +1,16 @@
 = Mandatory Provident Fund Schemes Ordinance (Cap. 485) (the "Ordinance") Prorating of Minimum and Maximum Levels of Relevant Income for Mandatory Contribution Purposes
-
+:edition: 1
 :revdate: 2001-01-09
+:copyright-year: 2001
+:docnumber: SU/CTR/2001/001
+:status: Published
+:language: en
+:title: Mandatory Provident Fund Schemes Ordinance (Cap. 485) (the "Ordinance") Prorating of Minimum and Maximum Levels of Relevant Income for Mandatory Contribution Purposes
+:doctype: circular
+:data-uri-image:
+
+
+== General
 
 To: All approved trustees
 
@@ -16,6 +26,6 @@ Should you have any questions on the above, please feel free to contact your cas
 
 Yours sincerely,
 
-(Raymond Tam)
-Executive Director
+(Raymond Tam) +
+Executive Director +
 Services Supervision
