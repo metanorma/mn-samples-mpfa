@@ -6,7 +6,7 @@ GIT
 
 GIT
   remote: https://github.com/riboseinc/metanorma-cli
-  revision: 0b9b59fd49a41a60208587eb4f7bd86d9be68513
+  revision: 5f33f088080eabca0a7811383ebed2393a78c993
   specs:
     metanorma-cli (1.0.1)
       asciidoctor-rfc (~> 0.9.0)

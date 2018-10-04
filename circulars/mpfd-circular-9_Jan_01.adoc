@@ -8,6 +8,7 @@
 :title: Mandatory Provident Fund Schemes Ordinance (Cap. 485) (the "Ordinance") Prorating of Minimum and Maximum Levels of Relevant Income for Mandatory Contribution Purposes
 :doctype: circular
 :data-uri-image:
+:local-cache-only:
 
 
 == General

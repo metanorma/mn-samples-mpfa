@@ -17,7 +17,7 @@ Gemfile Gemfile.lock:
 	ln -s ../common/$@ .
 
 %.xml %.html %.pdf: %.adoc bundle
-	bundle exec metanorma -r metanorma-mpfd -t mpfd -x xml,html,pdf $<
+	bundle exec metanorma -t mpfd -x xml,html,pdf $<
 
 html: $(HTML)
 
