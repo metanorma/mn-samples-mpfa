@@ -8,15 +8,15 @@ SHELL := /bin/bash
 all: $(HTML) $(XML) $(PDF)
 
 clean:
-	rm -f $(HTML) $(XML) $(PDF) Gemfile Gemfile.lock
+	rm -f $(HTML) $(XML) $(PDF)
 
 bundle:	Gemfile Gemfile.lock
 	bundle
 
 Gemfile Gemfile.lock:
-	ln -s ../common/$@ .
+	ln -sf ../common/$@ .
 
-%.xml %.html %.pdf: %.adoc bundle
+%.xml %.html %.pdf: %.adoc | bundle
 	bundle exec metanorma -t mpfd -x xml,html,pdf $<
 
 html: $(HTML)
