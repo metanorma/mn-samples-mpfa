@@ -1,0 +1,19 @@
+= MPFA Documents in Metanorma
+
+== Usage
+
+This command will recursively make all types documents within
+this repository.
+
+[source,sh]
+----
+make clean all
+----
+
+NOTE: The output files are stored in the subdirectory
+itself. (e.g. `compliance/mpfd-compliance.{pdf,xml,html}`)
+
+== Setup
+
+https://www.metanorma.com/overview/getting-started/
+
