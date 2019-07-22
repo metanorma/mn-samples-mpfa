@@ -10,6 +10,9 @@
 :doctype: circular
 :data-uri-image:
 :local-cache-only:
+:mn-document-class: mpfd
+:mn-output-extensions: xml,pdf,html
+
 
 == General
 
