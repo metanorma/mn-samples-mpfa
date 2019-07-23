@@ -7,12 +7,20 @@ rvm:
 before_install:
 - nvm install 8
 - npm install -g puppeteer
-- gem install metanorma-cli metanorma-mpfd
+- source doctypes.env
+- gem install metanorma-cli metanorma-$TYPE
 script:
 - |
-  source doctypes.env
   for template in $DOCTYPES
   do
     metanorma new test/$template --type $TYPE --doctype $template --template .
-    metanorma compile $(ls -1 test/${template}/*.adoc  | head -1)
+    if [ -f test/${template}/document.adoc ]
+    then
+      metanorma compile test/${template}/document.adoc
+    else
+      for docfile in test/${template}/*.adoc
+      do
+        metanorma compile $docfile
+      done
+    fi
   done
