@@ -2,7 +2,6 @@
 :edition: 1
 :revdate: 2016-02-01
 :language: en
-:title: Guidelines on MPF Exempted ORSO Schemes - Application for Exemption of ORSO
 :doctype: Guidelines
 :docnumber: V.2
 :draft: 6
@@ -15,7 +14,7 @@
 :table-caption: Table
 :example-caption: Figure
 :mn-document-class: mpfd
-:mn-output-extensions: xml,pdf,html
+:mn-output-extensions: xml,pdf,html,rxl
 
 // http://www.mpfa.org.hk/eng/legislation_regulations/legulations_ordinance/guidelines/current_version/orso_interface/files/V_2.pdf
 // http://www.mpfa.org.hk/eng/legislation_regulations/legulations_ordinance/guidelines/current_version/orso_interface/files/Annex_to_V_2.pdf

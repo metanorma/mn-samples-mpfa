@@ -15,7 +15,7 @@
 :table-caption: Table
 :example-caption: Figure
 :mn-document-class: mpfd
-:mn-output-extensions: xml,pdf,html
+:mn-output-extensions: xml,pdf,html,rxl
 
 // http://www.mpfa.org.hk/eng/legislation_regulations/legulations_ordinance/standards/files/compliance_standards_first_edition.pdf
 

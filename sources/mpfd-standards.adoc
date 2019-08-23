@@ -15,7 +15,7 @@
 :table-caption: Table
 :example-caption: Figure
 :mn-document-class: mpfd
-:mn-output-extensions: xml,pdf,html
+:mn-output-extensions: xml,pdf,html,rxl
 
 // http://www.mpfa.org.hk/eng/legislation_regulations/legulations_ordinance/standards/files/PPS_HKTA_HKIFA_April.2007__Clean.pdf
 
@@ -98,7 +98,7 @@ Where the rates of return of a fund are not affected by the performance of the u
 ===== {blank}
 
 For a non-unitized fund, where an internally calculated price of the fund reflects the performance of the underlying investments held by the fund on a per unit basis, and is similar to the NAV per unit of the fund stated in <<calculation>>, that fund price is to be used for the calculation of fund performance in accordance with <<calculation>>.
-  
+
 ===== {blank}
 
 In all other cases, the periodic rates of return for the guaranteed fund should be shown according to the formula set out in <<calculation>>.
@@ -211,7 +211,7 @@ x_i = [(NAV_b - FA) / (NAV_a - 1)] xx 100%
 ++++
 
 where stem:[NAV_a], stem:[NAV_b] and stem:[FA] have the same meaning as defined in <<calculation>>.
- 
+
 | stem:[bar x] a| The average monthly rate of return of the fund over the measurement period, calculated in the following manner:
 
 [stem]
@@ -280,7 +280,7 @@ The fund fact sheet should state, under the heading "`Fund Descriptor`" one of t
 |===
 | Type of fund | Descriptor to be used
 | For a fund that does not fit within any of the fund descriptors set out above. | Uncategorised Fund - [region]
-|=== 
+|===
 
 ==== {blank}
 Funds under the fund descriptor in <<d3_1>> would include many funds known as lifestyle (or lifecycle) or balanced funds. Funds under the fund descriptor <<d3_4>> would include the Capital Preservation Funds that operate pursuant to section 37 of the Mandatory Provident Fund Schemes (General) Regulation. Funds under the fund descriptor <<d3_6>> would comprise funds that do not fit within any other descriptor.

@@ -1,28 +1,30 @@
-# Auto-generated !!! Do not edit it manually
-# use ci-master https://github.com/metanorma/metanorma-build-scripts
 language: ruby
-os:
-- linux
-- osx
+dist: xenial
+env:
+  global:
+    - COMMIT_AUTHOR_EMAIL="$(yq r metanorma.yml metanorma.deploy.email)";
 rvm:
-- 2.5
+  - 2.5
+cache: bundler
+addons:
+  apt:
+    update: true
+  snaps:
+    - jq
+    - yq
+    - name: node
+      confinement: classic # or devmode
+      channel: 10/stable
 before_install:
-- nvm install 8
-- npm install -g puppeteer
-- source doctypes.env
-- gem install metanorma-cli metanorma-$TYPE
+  - gem update --system
+  - gem install bundler
+  - npm install -g puppeteer
+  - sudo bash -c "curl -L https://raw.githubusercontent.com/metanorma/metanorma-linux-setup/master/ubuntu.sh | bash"
 script:
-- |
-  for template in $DOCTYPES
-  do
-    metanorma new test/$template --type $TYPE --doctype $template --template .
-    if [ -f test/${template}/document.adoc ]
-    then
-      metanorma compile test/${template}/document.adoc
-    else
-      for docfile in test/${template}/*.adoc
-      do
-        metanorma compile $docfile
-      done
-    fi
-  done
+  - make clean all publish
+deploy:
+  skip_cleanup: true
+  provider: script
+  script: bash -c "curl -L https://raw.githubusercontent.com/metanorma/metanorma-build-scripts/master/deploy-to-gh-pages.sh | bash"
+  on:
+    branch: master

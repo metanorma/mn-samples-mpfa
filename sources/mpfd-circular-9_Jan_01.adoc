@@ -10,7 +10,7 @@
 :data-uri-image:
 :local-cache-only:
 :mn-document-class: mpfd
-:mn-output-extensions: xml,pdf,html
+:mn-output-extensions: xml,pdf,html,rxl
 
 
 == General
