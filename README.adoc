@@ -11,9 +11,7 @@ This document is available in its rendered forms here:
 
 [source,sh]
 ----
-git clone git@gitlab.com:ribose/iso-cantonese-romanization.git
-# not yet!
-# git clone https://github.com/CalConnect/csd-cantonese-romanization/
+git clone https://github.com/metanorma/mpfd-documents/
 ----
 
 == Installing Build Tools
@@ -47,7 +45,7 @@ make clean all
 
 The following outputs will be built:
 
-* CSD XML (https://github.com/calconnect/metanorma-model-csd) (`[filename].xml`)
+* MPFA XML (https://github.com/metanorma/metanorma-model-mpfa) (`[filename].xml`)
 * HTML (`[filename].html`)
 * PDF (`[filename].pdf`)
 * Word DOC (`[filename].doc`)
@@ -57,7 +55,7 @@ The following outputs will be built:
 
 [source,sh]
 ----
-make html
-open cc-*.html
+make clean all
+open documents.html
 ----
 
