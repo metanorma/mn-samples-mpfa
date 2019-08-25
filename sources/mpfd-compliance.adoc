@@ -1,10 +1,10 @@
-= Supervision of MPF Intermediaries
+= Compliance Standards for MPF Approved Trustees
 :edition: 1
 :revdate: 2005-07-01
 :copyright-year: 2005
 :language: en
-:title: Supervision of MPF Intermediaries
-:doctype: Compliance Standards for MPF Approved Trustees
+:title: Compliance Standards for MPF Approved Trustees
+:doctype: Supervision of MPF Intermediaries
 :draft:
 :stem:
 :xrefstyle: short

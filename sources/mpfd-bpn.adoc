@@ -1,11 +1,11 @@
-= Supervision of MPF Intermediaries
+= Best Practice Note for MPF Trustees
 :edition: 1
 :revdate: 2009-09-01
 :copyright-year: 2009
 :language: en
-:title: Supervision of MPF Intermediaries
-:doctype: Best Practice Note for MPF Trustees
-:draft: 
+:title: Best Practice Note for MPF Trustees
+:doctype: Supervision of MPF Intermediaries
+:draft:
 :stem:
 :xrefstyle: short
 :appendix-caption: Appendix
