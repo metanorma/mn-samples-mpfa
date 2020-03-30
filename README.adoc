@@ -1,6 +1,9 @@
 = MPFA Documents in Metanorma
 
-image:https://travis-ci.com/metanorma/mpfd-documents.svg?branch=master["Build Status", link="https://travis-ci.com/metanorma/mpfd-documents"]
+image:https://github.com/metanorma/mn-samples-mpfa/workflows/ubuntu/badge.svg["Ubuntu Build Status", link="https://github.com/metanorma/mn-samples-mpfa/actions?query=workflow%3Aubuntu"]
+image:https://github.com/metanorma/mn-samples-mpfa/workflows/macos/badge.svg["OSX Build Status", link="https://github.com/metanorma/mn-samples-mpfa/actions?query=workflow%3Amacos"]
+image:https://github.com/metanorma/mn-samples-mpfa/workflows/windows/badge.svg["Windows Build Status", link="https://github.com/metanorma/mn-samples-mpfa/actions?query=workflow%3Awindows"]
+image:https://github.com/metanorma/mn-samples-mpfa/workflows/docker/badge.svg["Docker Build Status", link="https://github.com/metanorma/mn-samples-mpfa/actions?query=workflow%3Adocker"]
 
 This document is available in its rendered forms here:
 
