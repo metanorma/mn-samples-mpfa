@@ -40,11 +40,8 @@ endif
 XML  ?= $(patsubst sources/%,documents/%,$(patsubst %.adoc,%.xml,$(SRC)))
 HTML := $(patsubst %.xml,%.html,$(XML))
 
-METANORMA_DOCKER_IMAGE ?= metanorma/metanorma
-
 ifdef METANORMA_DOCKER
   PREFIX_CMD := echo "Running via docker..."; docker run -v "$$(pwd)":/metanorma/ $(METANORMA_DOCKER)
-
 else
   PREFIX_CMD := echo "Running locally..."; bundle exec
 endif
