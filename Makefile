@@ -30,9 +30,6 @@ else
 XML := $(patsubst sources/%,documents/%,$(BUILT))
 endif
 endif
-ifeq ($(SRC),)
-SRC := $(filter-out README.adoc, $(wildcard sources/*.adoc))
-endif
 
 FORMATS := $(shell yq r metanorma.yml metanorma.formats | tr -d '[:space:]' | tr -s '-' ' ')
 ifeq ($(FORMATS),)
@@ -116,7 +113,9 @@ clean:
 	rm -rf documents documents.{html,rxl} published *_images $(OUT_FILES)
 
 bundle:
-	if [ "x" == "${METANORMA_DOCKER}x" ]; then bundle; fi
+ifndef METANORMA_DOCKER
+	bundle install --jobs 4 --retry 3
+endif
 
 .PHONY: bundle all open clean
 
