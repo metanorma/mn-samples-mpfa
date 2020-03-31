@@ -10,7 +10,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    container: docker://metanorma/mn
     steps:
       - uses: actions/checkout@master
       - name: Checkout submodules
@@ -25,10 +24,12 @@ jobs:
       - name: Install yq
         run: |
           GO111MODULE=on go get github.com/mikefarah/yq/v3
-          ln -s $GOPATH/bin/yq /usr/local/bin/yq
+          sudo ln -s $GOPATH/bin/yq /usr/local/bin/yq
       - name: Build document in the Metanorma container
+        env:
+          METANORMA_DOCKER: metanorma/mn
         run: |
-          env METANORMA_DOCKER=metanorma/mn make clean all publish
+          make clean all publish
       - uses: actions/upload-artifact@master
         with:
           name: published
