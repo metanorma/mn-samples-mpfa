@@ -15,6 +15,7 @@
 :example-caption: Figure
 :mn-document-class: mpfd
 :mn-output-extensions: xml,pdf,html,rxl
+:data-uri-image:
 
 // http://www.mpfa.org.hk/eng/legislation_regulations/legulations_ordinance/guidelines/current_version/orso_interface/files/V_2.pdf
 // http://www.mpfa.org.hk/eng/legislation_regulations/legulations_ordinance/guidelines/current_version/orso_interface/files/Annex_to_V_2.pdf
