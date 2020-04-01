@@ -16,6 +16,7 @@
 :example-caption: Figure
 :mn-document-class: mpfd
 :mn-output-extensions: xml,pdf,html,rxl
+:data-uri-image:
 
 // http://www.mpfa.org.hk/eng/legislation_regulations/legulations_ordinance/BPN/files/BPN_E.pdf
 
