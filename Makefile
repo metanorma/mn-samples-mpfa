@@ -49,9 +49,14 @@ endif
 _OUT_FILES := $(foreach FORMAT,$(FORMATS),$(shell echo $(FORMAT) | tr '[:lower:]' '[:upper:]'))
 OUT_FILES  := $(foreach F,$(_OUT_FILES),$($F))
 
+define print_vars
+	$(info "src $(SRC)")
+	$(info "xml $(XML)")
+	$(info "formats $(FORMATS)")
+endef
+
 all: documents.html
-	echo "src $(SRC)"
-	echo "xml $(XML)"
+	$(call print_vars)
 
 documents:
 	mkdir -p $@
@@ -116,6 +121,7 @@ bundle:
 ifndef METANORMA_DOCKER
 	bundle install --jobs 4 --retry 3
 endif
+	$(call print_vars)
 
 .PHONY: bundle all open clean
 
