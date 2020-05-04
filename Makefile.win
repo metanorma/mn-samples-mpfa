@@ -6,10 +6,11 @@ SHELL := cmd
 IGNORE := $(shell md $(USERPROFILE)\.cache\xml2rfc)
 
 SRC := $(shell yq r metanorma.yml metanorma.source.files | cut -c 3-)
-ifeq ($(SRC),ll)
+
+ifeq ($(SRC),null)
 SRC :=
 endif
-ifeq ($(SRC),null)
+ifeq ($(SRC),ll)
 SRC :=
 endif
 
