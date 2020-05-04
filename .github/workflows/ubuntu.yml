@@ -6,10 +6,6 @@ on:
   push:
     branches: [ master ]
   pull_request:
-    paths-ignore:
-      - .github/workflows/docker.yml
-      - .github/workflows/macos.yml
-      - .github/workflows/windows.yml
 
 jobs:
   test-linux:
