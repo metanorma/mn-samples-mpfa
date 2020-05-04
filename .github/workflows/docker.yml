@@ -49,6 +49,7 @@ jobs:
           LANG: C.UTF-8
           LANGUAGE: C.UTF-8
         run: |
+          bundle add metanorma-mpfd
           make clean all publish
       - uses: actions/upload-artifact@master
         with:
