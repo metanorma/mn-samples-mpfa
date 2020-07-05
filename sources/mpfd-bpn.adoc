@@ -14,7 +14,7 @@
 :section-refsig: Paragraph
 :table-caption: Table
 :example-caption: Figure
-:mn-document-class: mpfd
+:mn-document-class: mpfa
 :mn-output-extensions: xml,pdf,html,rxl
 :data-uri-image:
 

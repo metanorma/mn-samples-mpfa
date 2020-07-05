@@ -1,4 +1,4 @@
 source "https://rubygems.org"
 
-gem "metanorma-mpfd"
+gem "metanorma-mpfa"
 gem "metanorma-cli"

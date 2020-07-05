@@ -10,7 +10,7 @@
 :doctype: circular
 :data-uri-image:
 :local-cache-only:
-:mn-document-class: mpfd
+:mn-document-class: mpfa
 :mn-output-extensions: xml,pdf,html,rxl
 :data-uri-image:
 
