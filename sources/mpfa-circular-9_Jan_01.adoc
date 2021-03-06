@@ -10,7 +10,7 @@
 :data-uri-image:
 :local-cache-only:
 :mn-document-class: mpfa
-:mn-output-extensions: xml,pdf,html,rxl
+:mn-output-extensions: xml,pdf,doc,html,rxl
 :data-uri-image:
 
 

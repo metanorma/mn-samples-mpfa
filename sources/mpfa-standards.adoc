@@ -15,7 +15,7 @@
 :table-caption: Table
 :example-caption: Figure
 :mn-document-class: mpfa
-:mn-output-extensions: xml,pdf,html,rxl
+:mn-output-extensions: xml,pdf,doc,html,rxl
 :data-uri-image:
 
 // http://www.mpfa.org.hk/eng/legislation_regulations/legulations_ordinance/standards/files/PPS_HKTA_HKIFA_April.2007__Clean.pdf
