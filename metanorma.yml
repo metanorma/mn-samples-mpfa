@@ -1,8 +1,5 @@
 ---
 metanorma:
-  deploy:
-    email: "travis-ci@metanorma.org"
-relaton:
   collection:
     name: Document samples in Metanorma
     organization: Mandatory Provident Fund Authority
