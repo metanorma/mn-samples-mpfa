@@ -1,5 +1,13 @@
 ---
 metanorma:
+  source:
+    files:
+      - sources/mpfa-bpn.adoc
+      - sources/mpfa-circular-5_Jul_00.adoc
+      - sources/mpfa-circular-9_Jan_01.adoc
+      - sources/mpfa-compliance.adoc
+      - sources/mpfa-guidelines.adoc
+      - sources/mpfa-standards.adoc
   collection:
     name: Document samples in Metanorma
     organization: Mandatory Provident Fund Authority
