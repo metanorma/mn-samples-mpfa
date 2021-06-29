@@ -1,0 +1,15 @@
+/__w/mn-samples-mpfa/mn-samples-mpfa/site/documents/mpfa-circular-9_Jan_01.err errors
+
+
+== Document Attributes
+
+(): circular is not a recognised document type
+(): Published is not a recognised status
+
+
+== Metanorma XML Syntax
+
+(XML Line 000037:28): character content of element "doctype" invalid; must be equal to "best-practices", "directives", "legal", "policy-and-procedures", "proposal", "report", "standard" or "supporting-document"
+(XML Line 000038:7): element "ext" incomplete; missing required element "editorialgroup"
+(XML Line 000040:11): element "sections" not allowed yet; missing required element "preface"
+(XML Line 000052:17): element "mpfd-standard" incomplete; missing required element "bibliography"

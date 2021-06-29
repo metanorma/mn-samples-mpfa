@@ -1,0 +1,248 @@
+<relaton-collection xmlns="https://open.ribose.com/relaton-xml"><title>Document samples in Metanorma</title><contributor><role type='author'/><organization><name>Mandatory Provident Fund Authority</name></organization></contributor><relation type='partOf'><bibdata type="standard">
+  <title format="text/plain" language="en">Mandatory Provident Fund Schemes Ordinance (Cap. 485) ("the Ordinance") Prorating of Minimum and Maximum Levels of Relevant Income for Mandatory Contribution Purposes</title>
+  <uri type="xml">documents/mpfa-circular-5_Jul_00.xml</uri>
+  <uri type="pdf">documents/mpfa-circular-5_Jul_00.pdf</uri>
+  <uri type="doc">documents/mpfa-circular-5_Jul_00.doc</uri>
+  <uri type="html">documents/mpfa-circular-5_Jul_00.html</uri>
+  <uri type="rxl">documents/mpfa-circular-5_Jul_00.rxl</uri>
+  <docidentifier>SU/CTR/2000/002</docidentifier>
+  <docnumber>SU/CTR/2000/002</docnumber>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>Mandatory Provident Fund Schemes Authority</name>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Mandatory Provident Fund Schemes Authority</name>
+    </organization>
+  </contributor>
+  <edition>1</edition>
+  <version>
+    <revision-date>2000-07-05</revision-date>
+  </version>
+  <language>en</language>
+  <script>Latn</script>
+  <status>
+    <stage>Repealed (2003-02-01)</stage>
+  </status>
+  <copyright>
+    <from>2000</from>
+    <owner>
+      <organization>
+        <name>Mandatory Provident Fund Schemes Authority</name>
+      </organization>
+    </owner>
+  </copyright>
+  <ext>
+    <doctype>circular</doctype>
+  </ext>
+</bibdata></relation>
+<relation type='partOf'><bibdata type="standard">
+  <title format="text/plain" language="en">Mandatory Provident Fund Schemes Ordinance (Cap. 485) (the "Ordinance") Prorating of Minimum and Maximum Levels of Relevant Income for Mandatory Contribution Purposes</title>
+  <uri type="xml">documents/mpfa-circular-9_Jan_01.xml</uri>
+  <uri type="pdf">documents/mpfa-circular-9_Jan_01.pdf</uri>
+  <uri type="doc">documents/mpfa-circular-9_Jan_01.doc</uri>
+  <uri type="html">documents/mpfa-circular-9_Jan_01.html</uri>
+  <uri type="rxl">documents/mpfa-circular-9_Jan_01.rxl</uri>
+  <docidentifier>SU/CTR/2001/001</docidentifier>
+  <docnumber>SU/CTR/2001/001</docnumber>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>Mandatory Provident Fund Schemes Authority</name>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Mandatory Provident Fund Schemes Authority</name>
+    </organization>
+  </contributor>
+  <edition>1</edition>
+  <version>
+    <revision-date>2001-01-09</revision-date>
+  </version>
+  <language>en</language>
+  <script>Latn</script>
+  <status>
+    <stage>Published</stage>
+  </status>
+  <copyright>
+    <from>2001</from>
+    <owner>
+      <organization>
+        <name>Mandatory Provident Fund Schemes Authority</name>
+      </organization>
+    </owner>
+  </copyright>
+  <ext>
+    <doctype>circular</doctype>
+  </ext>
+</bibdata></relation>
+<relation type='partOf'><bibdata type="standard">
+  <title format="text/plain" language="en">Performance Presentation Standards for MPF investment Funds</title>
+  <uri type="xml">documents/mpfa-standards.xml</uri>
+  <uri type="pdf">documents/mpfa-standards.pdf</uri>
+  <uri type="doc">documents/mpfa-standards.doc</uri>
+  <uri type="html">documents/mpfa-standards.html</uri>
+  <uri type="rxl">documents/mpfa-standards.rxl</uri>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>Mandatory Provident Fund Schemes Authority</name>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Mandatory Provident Fund Schemes Authority</name>
+    </organization>
+  </contributor>
+  <edition>2</edition>
+  <version>
+    <revision-date>2007-04-01</revision-date>
+  </version>
+  <language>en</language>
+  <script>Latn</script>
+  <status>
+    <stage>published</stage>
+  </status>
+  <copyright>
+    <from>2007</from>
+    <owner>
+      <organization>
+        <name>Mandatory Provident Fund Schemes Authority</name>
+      </organization>
+    </owner>
+  </copyright>
+  <ext>
+    <doctype>compliance-standards-for-mpf-trustees</doctype>
+  </ext>
+</bibdata></relation>
+<relation type='partOf'><bibdata type="standard">
+  <title format="text/plain" language="en">Best Practice Note for MPF Trustees</title>
+  <uri type="xml">documents/mpfa-bpn.xml</uri>
+  <uri type="pdf">documents/mpfa-bpn.pdf</uri>
+  <uri type="doc">documents/mpfa-bpn.doc</uri>
+  <uri type="html">documents/mpfa-bpn.html</uri>
+  <uri type="rxl">documents/mpfa-bpn.rxl</uri>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>Mandatory Provident Fund Schemes Authority</name>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Mandatory Provident Fund Schemes Authority</name>
+    </organization>
+  </contributor>
+  <edition>1</edition>
+  <version>
+    <revision-date>2009-09-01</revision-date>
+  </version>
+  <language>en</language>
+  <script>Latn</script>
+  <status>
+    <stage>published</stage>
+  </status>
+  <copyright>
+    <from>2009</from>
+    <owner>
+      <organization>
+        <name>Mandatory Provident Fund Schemes Authority</name>
+      </organization>
+    </owner>
+  </copyright>
+  <ext>
+    <doctype>supervision-of-mpf-intermediaries</doctype>
+  </ext>
+</bibdata></relation>
+<relation type='partOf'><bibdata type="standard">
+  <title format="text/plain" language="en">Guidelines on MPF Exempted ORSO Schemes - Application for Exemption of ORSO Registered Schemes</title>
+  <uri type="xml">documents/mpfa-guidelines.xml</uri>
+  <uri type="pdf">documents/mpfa-guidelines.pdf</uri>
+  <uri type="doc">documents/mpfa-guidelines.doc</uri>
+  <uri type="html">documents/mpfa-guidelines.html</uri>
+  <uri type="rxl">documents/mpfa-guidelines.rxl</uri>
+  <docidentifier>V.2</docidentifier>
+  <docnumber>V.2</docnumber>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>Mandatory Provident Fund Schemes Authority</name>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Mandatory Provident Fund Schemes Authority</name>
+    </organization>
+  </contributor>
+  <edition>1</edition>
+  <version>
+    <revision-date>2016-02-01</revision-date>
+    <draft>6</draft>
+  </version>
+  <language>en</language>
+  <script>Latn</script>
+  <status>
+    <stage>published</stage>
+  </status>
+  <copyright>
+    <from>2021</from>
+    <owner>
+      <organization>
+        <name>Mandatory Provident Fund Schemes Authority</name>
+      </organization>
+    </owner>
+  </copyright>
+  <ext>
+    <doctype>guidelines</doctype>
+  </ext>
+</bibdata></relation>
+<relation type='partOf'><bibdata type="standard">
+  <title format="text/plain" language="en">Compliance Standards for MPF Approved Trustees</title>
+  <uri type="xml">documents/mpfa-compliance.xml</uri>
+  <uri type="pdf">documents/mpfa-compliance.pdf</uri>
+  <uri type="doc">documents/mpfa-compliance.doc</uri>
+  <uri type="html">documents/mpfa-compliance.html</uri>
+  <uri type="rxl">documents/mpfa-compliance.rxl</uri>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>Mandatory Provident Fund Schemes Authority</name>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Mandatory Provident Fund Schemes Authority</name>
+    </organization>
+  </contributor>
+  <edition>1</edition>
+  <version>
+    <revision-date>2005-07-01</revision-date>
+  </version>
+  <language>en</language>
+  <script>Latn</script>
+  <status>
+    <stage>published</stage>
+  </status>
+  <copyright>
+    <from>2005</from>
+    <owner>
+      <organization>
+        <name>Mandatory Provident Fund Schemes Authority</name>
+      </organization>
+    </owner>
+  </copyright>
+  <ext>
+    <doctype>supervision-of-mpf-intermediaries</doctype>
+  </ext>
+</bibdata></relation>
+</relaton-collection>

@@ -1,0 +1,197 @@
+/__w/mn-samples-mpfa/mn-samples-mpfa/site/documents/mpfa-standards.err errors
+
+
+== Metanorma XML Style Warning
+
+(XML Line 000041): Hanging paragraph in clause
+	<clause id="_general" obligation="normative"><title>General</title><clause id="_status" container="true" obligation="normative"><title>Status</title><clause id="_e987c6e5-f9fb-4539-8dfc-e321b361fdc1" obligation="normative">
+	
+	<p id="_cf773e0c-bd68-4b7d-b291-598e8d07c86b">These Standards are published jointly by the Hong Kong Investment Funds Association and Hong Kong Trustees’ Association. Upon being recognized by the Mandatory Provident Fund Schemes Authority (“the MPFA”), they are the recognized industry performance presentation standards for the purposes of the Code on Disclosure for MPF Investment Funds (“the Code”) as stated in A1.1 and D2.3 of that Code.</p>
+	</clause>
+	<clause id="_2" obligation="normative">
+(XML Line 000041): Hanging paragraph in clause
+	<clause id="_status" container="true" obligation="normative"><title>Status</title><clause id="_e987c6e5-f9fb-4539-8dfc-e321b361fdc1" obligation="normative">
+	
+	<p id="_cf773e0c-bd68-4b7d-b291-598e8d07c86b">These Standards are published jointly by the Hong Kong Investment Funds Association and Hong Kong Trustees’ Association. Upon being recognized by the Mandatory Provident Fund Schemes Authority (“the MPFA”), they are the recognized industry performance presentation standards for the purposes of the Code on Disclosure for MPF Investment Funds (“the Code”) as stated in A1.1 and D2.3 of that Code.</p>
+	</clause>
+	<clause id="_2" obligation="normative">
+(XML Line 000049): Hanging paragraph in clause
+	<clause id="_purpose" container="true" obligation="normative"><title>Purpose</title><clause id="_3" obligation="normative">
+	
+	<p id="_139ff1d4-0d48-4e81-a758-530928f96087">The purpose of these Standards is to specify the methods that approved trustees and service providers of MPF schemes should use in preparing, calculating and presenting the information that is required as minimum content in a fund fact sheet of a registered MPF scheme. It covers the items of fund performance information, fund risk indicators and fund descriptor, as set out in D2.3 (f), (i) and (j) of the Code.</p>
+	</clause>
+	<clause id="_4" obligation="normative">
+(XML Line 000065): Hanging paragraph in clause
+	<clause id="_presentation_standards_for_fund_performance_information" obligation="normative"><title>Presentation Standards for Fund Performance Information</title><clause id="_requirements_of_the_code" container="true" obligation="normative">
+	<title>Requirements of the Code</title>
+	<clause id="_7" obligation="normative">
+	
+	<p id="_37819bee-061f-4ccd-afd2-d9a41497f31e">D2.3(f) of the Code requires that for each constituent fund of a registered scheme, the periodic rate of return for the fund over the periods of 1, 5, 10 years and since launch be provided in the fund fact sheet.</p>
+(XML Line 000065): Hanging paragraph in clause
+	<clause id="_requirements_of_the_code" container="true" obligation="normative">
+	<title>Requirements of the Code</title>
+	<clause id="_7" obligation="normative">
+	
+	<p id="_37819bee-061f-4ccd-afd2-d9a41497f31e">D2.3(f) of the Code requires that for each constituent fund of a registered scheme, the periodic rate of return for the fund over the periods of 1, 5, 10 years and since launch be provided in the fund fact sheet.</p>
+(XML Line 000072): Hanging paragraph in clause
+	<clause id="_presentation_of_fund_performance_information" container="true" obligation="normative"><title>Presentation of fund performance information</title><clause id="_8" obligation="normative"><p id="_c7475e8a-33ee-44eb-8cec-69da12ba52c0">Subject to <xref target="b3"/> to <xref target="b10"/> the fund fact sheet should set out, in tabular form, the annualized rate of return<fn reference="1"><p id="_fb77d2f8-b41b-43e6-b431-7064645c36d7">Note that the SFC Code on MPF Products provides that “annualized returns are generally only acceptable if the actual returns for all the individual years are shown in addition”.</p></fn> for each constituent fund of the scheme, over the following periods:</p>
+	<ul id="_5cc4a6b5-7a74-482e-bace-4eec93b35537">
+	<li>
+	<p id="_ef60fab5-3069-483b-844c-18efbeafc7fe">the period since launch,</p>
+	</li>
+(XML Line 000100): Hanging paragraph in clause
+	<clause id="_guaranteed_funds" container="true" obligation="normative"><title>Guaranteed funds</title><clause id="b7" obligation="normative">
+	
+	<p id="_ced58453-b24c-4f59-b860-9355e9842850">Where the rates of return of a fund are not affected by the performance of the underlying investments of the fund, and where the guarantee for the return is payable unconditionally, the actual rate of return declared by that fund over the respective periods should be shown in the fund fact sheet instead of the return calculated in accordance with <xref target="calculation"/></p>
+	</clause>
+	<clause id="_12" obligation="normative">
+(XML Line 000116): Hanging paragraph in clause
+	<clause id="_restructured_or_merged_funds" container="true" obligation="normative">
+	<title>Restructured or merged funds</title>
+	<clause id="_14" obligation="normative">
+	
+	<p id="_7822fd33-05d7-4e2c-a7c0-313391ccade2">Where a new fund is formed through the restructuring of other funds, the rate of return of the newly launched fund should be shown, provided it has at least 6-months’ track record at the reporting date of the fund fact sheet. The fact that the restructuring has taken place may be disclosed as a footnote in the fund fact sheet. It may direct readers to where the full information on the restructuring and/or past performance of the preceding funds can be obtained.</p>
+(XML Line 000123): Hanging paragraph in clause
+	<clause id="_calculation_of_fund_performance" container="true" obligation="normative">
+	<title>Calculation of fund performance</title>
+	<clause id="calculation" obligation="normative"><p id="_12e35247-9c04-4528-9e10-f4adf1eed4bd">The rate of return of the fund, or for a particular class of the fund, over the respective periods specified in D2.3(f) of the Code should be calculated to two decimal places in the following manner:</p>
+	<formula id="_c36499d3-563e-4586-aa7a-c695015eca2a">
+	<stem type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtext>Rate of return for the measurement period from point 'a' to point 'b' (%)</mtext><mo>=</mo><mfenced open="[" close="]"><mrow><msup><mrow><mfenced open="(" close=")"><mrow><mfrac><mrow><mrow><mi>N</mi><mi>A</mi><msub><mrow><mi>V</mi></mrow><mrow><mi>b</mi></mrow></msub><mo>−</mo><mi>F</mi><mi>A</mi></mrow></mrow><mrow><mrow><mi>N</mi><mi>A</mi><msub><mrow><mi>V</mi></mrow><mrow><mi>a</mi></mrow></msub></mrow></mrow></mfrac></mrow></mfenced></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mi>n</mi></mrow></mfrac></mrow></msup><mo>−</mo><mn>1</mn></mrow></mfenced><mo>×</mo><mn>100</mn><mi>%</mi></math></stem>
+(XML Line 000130): Table should have title
+	<table id="_c04a63c7-9031-49c9-980f-cdab6d010d2c">
+	<thead>
+	<tr>
+	<th valign="top" align="left">Term</th>
+	<th valign="top" align="left">Meaning</th>
+(XML Line 000180): Hanging paragraph in clause
+	<clause id="_standards_for_fund_risk_indicators" obligation="normative"><title>Standards for Fund Risk Indicators</title><clause id="_requirements_of_the_code_2" container="true" obligation="normative">
+	<title>Requirements of the Code</title>
+	<clause id="_15" obligation="normative">
+	
+	<p id="_14cbba3d-b613-4cc2-ab46-22934b368a7f">D2.3(i) of the Code requires that appropriate fund risk indicators be provided in the fund fact sheet for each constituent fund of a scheme as a general indication about the level of risk of the fund in a manner that assists members in assessing the level of risks consistently across funds.</p>
+(XML Line 000180): Hanging paragraph in clause
+	<clause id="_requirements_of_the_code_2" container="true" obligation="normative">
+	<title>Requirements of the Code</title>
+	<clause id="_15" obligation="normative">
+	
+	<p id="_14cbba3d-b613-4cc2-ab46-22934b368a7f">D2.3(i) of the Code requires that appropriate fund risk indicators be provided in the fund fact sheet for each constituent fund of a scheme as a general indication about the level of risk of the fund in a manner that assists members in assessing the level of risks consistently across funds.</p>
+(XML Line 000187): Hanging paragraph in clause
+	<clause id="_presentation_of_the_fund_risk_indicators" container="true" obligation="normative"><title>Presentation of the fund risk indicators</title><clause id="_16" obligation="normative">
+	
+	<p id="_6e088c59-d7a6-41dc-8a31-46c4f95ad663">The fund risk indicator for each fund should be shown as an annualized standard deviation based on the monthly rates of return of the fund over the past 3 years to the reporting date of the fund fact sheet.</p>
+	</clause>
+	<clause id="_17" obligation="normative">
+(XML Line 000195): Hanging paragraph in clause
+	<clause id="_guaranteed_funds_2" container="true" obligation="normative"><title>Guaranteed funds</title><clause id="_18" obligation="normative">
+	
+	<p id="_62381d26-6df1-4c7a-8b3b-7f6ff81481c1">Annualized standard deviations need not be shown in the case of a guaranteed fund as described in <xref target="b7"/>.</p>
+	</clause>
+	<clause id="_19" obligation="normative">
+(XML Line 000203): Hanging paragraph in clause
+	<clause id="_calculation_of_fund_risk_indicators" container="true" obligation="normative">
+	<title>Calculation of fund risk indicators</title>
+	<clause id="calculation2" obligation="normative"><p id="_7b256927-4aff-4de8-891e-32e033540afc">The annualized standard deviation of the fund should be calculated to two decimal places in the following manner:</p>
+	<formula id="_e80595df-990e-4363-84df-d348061d84e3">
+	<stem type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtext>Annualized Standard Deviation (%)</mtext><mo>=</mo><msup><mrow><mfenced open="[" close="]"><mrow><mfrac><mrow><mn>12</mn></mrow><mrow><mn>36</mn></mrow></mfrac><mo>×</mo><mo>∑</mo><msup><mrow><mfenced open="(" close=")"><mrow><msub><mrow><mi>x</mi></mrow><mrow><mi>i</mi></mrow></msub><mo>−</mo><mover accent="true"><mrow><mi>x</mi></mrow><mo>¯</mo></mover></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfenced></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msup></math></stem>
+(XML Line 000211): Table should have title
+	<table id="_279aca14-f52c-4bf2-b843-8db80e7b4015">
+	<thead>
+	<tr>
+	<th valign="top" align="left">Term</th>
+	<th valign="top" align="left">Meaning</th>
+(XML Line 000247): Hanging paragraph in clause
+	<clause id="_standards_for_fund_descriptor" obligation="normative"><title>Standards for Fund Descriptor</title><clause id="_requirements_of_the_code_3" container="true" obligation="normative">
+	<title>Requirements of the Code</title>
+	<clause id="_20" obligation="normative">
+	
+	<p id="_5bdcf743-eee4-4249-b6fe-89fa4384e38c">Paragraph D2.3(j) of the Code requires that a fund descriptor be provided in the fund fact sheet for each constituent fund, as a description of the fund type in a manner that will facilitate comparison with other similar funds.</p>
+(XML Line 000247): Hanging paragraph in clause
+	<clause id="_requirements_of_the_code_3" container="true" obligation="normative">
+	<title>Requirements of the Code</title>
+	<clause id="_20" obligation="normative">
+	
+	<p id="_5bdcf743-eee4-4249-b6fe-89fa4384e38c">Paragraph D2.3(j) of the Code requires that a fund descriptor be provided in the fund fact sheet for each constituent fund, as a description of the fund type in a manner that will facilitate comparison with other similar funds.</p>
+(XML Line 000254): Hanging paragraph in clause
+	<clause id="_presentation_of_the_fund_descriptor" container="true" obligation="normative">
+	<title>Presentation of the fund descriptor</title>
+	<clause id="_21" obligation="normative">
+	
+	<p id="_749bd4a4-71b9-49b4-a0b5-6e228cf5fac0">The fund descriptor included in the fund fact sheet should be a short statement representing the characteristics of the underlying investments of the fund set out in the investment objectives and policy in the offering document of the fund. The fund descriptor should be based on the types of assets, the types of non-cash assets that predominate (constitute at least 70% of the fund), the maximum exposure to equity, and the geographical region in which the fund invests, as set out in the offering document.</p>
+(XML Line 000261): Hanging paragraph in clause
+	<clause id="_fund_descriptors_by_category_of_funds_asset_types_and_geographic_regions" container="true" obligation="normative"><title>Fund descriptors by category of funds, asset types and geographic regions</title><clause id="_22" obligation="normative"><p id="_cf8368c4-e4f7-4627-a520-310296a8904f">The fund fact sheet should state, under the heading “Fund Descriptor” one of the following fund descriptors, where the text in square brackets would be adjusted to suit circumstances:</p>
+	<clause id="d3_1" obligation="normative">
+	
+	<table id="_8d1f5e0a-95dd-4a48-8d82-772580312787">
+	<thead>
+(XML Line 000261): Hanging paragraph in clause
+	<clause id="_22" obligation="normative"><p id="_cf8368c4-e4f7-4627-a520-310296a8904f">The fund fact sheet should state, under the heading “Fund Descriptor” one of the following fund descriptors, where the text in square brackets would be adjusted to suit circumstances:</p>
+	<clause id="d3_1" obligation="normative">
+	
+	<table id="_8d1f5e0a-95dd-4a48-8d82-772580312787">
+	<thead>
+(XML Line 000264): Table should have title
+	<table id="_8d1f5e0a-95dd-4a48-8d82-772580312787">
+	<thead>
+	<tr>
+	<th valign="top" align="left">Type of fund</th>
+	<th valign="top" align="left">Descriptor to be used</th>
+(XML Line 000281): Table should have title
+	<table id="_7919430c-48bd-4423-ad75-c93c716fe78a">
+	<thead>
+	<tr>
+	<th valign="top" align="left">Type of fund</th>
+	<th valign="top" align="left">Descriptor to be used</th>
+(XML Line 000298): Table should have title
+	<table id="_6ba5c64f-12d4-4178-9647-ef7a9cf3eab2">
+	<thead>
+	<tr>
+	<th valign="top" align="left">Type of fund</th>
+	<th valign="top" align="left">Descriptor to be used</th>
+(XML Line 000315): Table should have title
+	<table id="_b0437438-59eb-4401-be0a-5a12fd7a1e91">
+	<tbody>
+	<tr>
+	<td valign="top" align="left">Type of fund</td>
+	<td valign="top" align="left">Descriptor to be used</td>
+(XML Line 000330): Table should have title
+	<table id="_506261f4-6f36-42f8-a1e0-152aa7989a57">
+	<tbody>
+	<tr>
+	<td valign="top" align="left">Type of fund</td>
+	<td valign="top" align="left">Descriptor to be used</td>
+(XML Line 000345): Table should have title
+	<table id="_08db1c37-56ee-4625-82aa-a089bcac96f4">
+	<tbody>
+	<tr>
+	<td valign="top" align="left">Type of fund</td>
+	<td valign="top" align="left">Descriptor to be used</td>
+
+
+== Document Attributes
+
+(): compliance-standards-for-mpf-trustees is not a recognised document type
+
+
+== Metanorma XML Syntax
+
+(XML Line 000038:57): character content of element "doctype" invalid; must be equal to "best-practices", "directives", "legal", "policy-and-procedures", "proposal", "report", "standard" or "supporting-document"
+(XML Line 000039:7): element "ext" incomplete; missing required element "editorialgroup"
+(XML Line 000041:11): element "sections" not allowed yet; missing required element "preface"
+(XML Line 000041:139): attribute "container" not allowed here; expected attribute "inline-header", "language", "number", "obligation", "script" or "type"
+(XML Line 000049:63): attribute "container" not allowed here; expected attribute "inline-header", "language", "number", "obligation", "script" or "type"
+(XML Line 000065:243): attribute "container" not allowed here; expected attribute "inline-header", "language", "number", "obligation", "script" or "type"
+(XML Line 000072:100): attribute "container" not allowed here; expected attribute "inline-header", "language", "number", "obligation", "script" or "type"
+(XML Line 000100:72): attribute "container" not allowed here; expected attribute "inline-header", "language", "number", "obligation", "script" or "type"
+(XML Line 000116:84): attribute "container" not allowed here; expected attribute "inline-header", "language", "number", "obligation", "script" or "type"
+(XML Line 000123:87): attribute "container" not allowed here; expected attribute "inline-header", "language", "number", "obligation", "script" or "type"
+(XML Line 000155:53): element "formula" not allowed here; expected the element end-tag or element "dl", "figure", "ol", "p" or "ul"
+(XML Line 000180:203): attribute "container" not allowed here; expected attribute "inline-header", "language", "number", "obligation", "script" or "type"
+(XML Line 000187:96): attribute "container" not allowed here; expected attribute "inline-header", "language", "number", "obligation", "script" or "type"
+(XML Line 000195:74): attribute "container" not allowed here; expected attribute "inline-header", "language", "number", "obligation", "script" or "type"
+(XML Line 000203:91): attribute "container" not allowed here; expected attribute "inline-header", "language", "number", "obligation", "script" or "type"
+(XML Line 000230:53): element "formula" not allowed here; expected the element end-tag or element "dl", "figure", "ol", "p" or "ul"
+(XML Line 000240:53): element "formula" not allowed here; expected the element end-tag or element "dl", "figure", "ol", "p" or "ul"
+(XML Line 000247:193): attribute "container" not allowed here; expected attribute "inline-header", "language", "number", "obligation", "script" or "type"
+(XML Line 000254:91): attribute "container" not allowed here; expected attribute "inline-header", "language", "number", "obligation", "script" or "type"
+(XML Line 000261:128): attribute "container" not allowed here; expected attribute "inline-header", "language", "number", "obligation", "script" or "type"
+(XML Line 000362:17): element "mpfd-standard" incomplete; missing required element "bibliography"

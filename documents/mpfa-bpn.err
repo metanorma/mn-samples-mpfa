@@ -1,0 +1,53 @@
+/__w/mn-samples-mpfa/mn-samples-mpfa/site/documents/mpfa-bpn.err errors
+
+
+== Metanorma XML Style Warning
+
+(XML Line 000045): Hanging paragraph in clause
+	<clause id="clause1" obligation="normative"><title>Relationship between MPF trustees and promoters</title><clause id="clause1-1" obligation="normative">
+	
+	<p id="_eeac0418-90d5-4c45-9f68-37d39f26bce0">The Authority imposes a number of conditions when approving applications to become an approved MPF trustee. One of these requires trustees to take all reasonable steps to ensure that only registered MPF intermediaries induce or seek to induce another to become a participating employer or member of the Scheme. In addition, the Code of Conduct states that trustees have a duty to use their best endeavours to supervise and exercise proper control over persons selling / advising on MPF schemes. It is therefore expected that trustees would endeavour to ensure that the standards of conduct set out in the Code, are met by their intermediaries. Trustees should have the necessary tools at their disposal to facilitate this and where problems arise, the ability to take (either directly or indirectly) the appropriate remedial action. The Authority is aware that many trustees already have written undertakings from their promoters concerning the latters’ intermediaries adherence to the Code of Conduct. The Authority commends this and would encourage all trustees to adopt the practice.</p>
+	</clause>
+	<clause id="clause1-2" obligation="normative"><p id="_952ac802-21d1-4fd3-b30e-6a85a693058d">The Authority sees merit in the undertaking, which may take the form of a separate document (e.g. a service level agreement) or an annex to any existing documentation, containing the following:-</p>
+(XML Line 000076): Hanging paragraph in clause
+	<clause id="clause2" obligation="normative">
+	<title>Relationship between promoters and their corporate intermediaries</title>
+	<clause id="clause2-1" obligation="normative">
+	
+	<p id="_1846a3f2-f2da-4a61-bf2e-529e47591e0b">Whilst the majority of promoters engage corporate intermediaries to sell MPF
+(XML Line 000084): Hanging paragraph in clause
+	<clause id="clause3" obligation="normative">
+	<title>On-going verification of the registration requirements of intermediaries</title>
+	<clause id="clause3-1" obligation="normative">
+	
+	<p id="_c392ebc1-1c3d-4ea2-9a22-50c62917f966">Under the Code of Conduct, all MPF intermediaries must be fit and proper persons to remain registered with the Authority. Some promoters and corporate intermediaries rely predominately on self-declaration by the individuals concerned. Others have instituted various checking mechanisms which go beyond sole reliance on self-declaration, including, obtaining written confirmation from the relevant employer. This particular practice is encouraged. As a best practice, trustees are encouraged to satisfy themselves with the verification mechanism (i.e. the processes) adopted by their promoters / corporate intermediaries. In addition, either they, or the promoters / corporate intermediaries are encouraged to conduct random spot-checks (as far as this is practicable) to verify that these requirements have been met in respect of those individual intermediaries with whom they have a working relationship.</p>
+(XML Line 000091): Hanging paragraph in clause
+	<clause id="clause4" obligation="normative">
+	<title>On-site inspection of promoters by trustees</title>
+	<clause id="clause4-1" obligation="normative">
+	
+	<p id="_6be0ae0e-ee3e-4ec8-85c3-0b503d81acd3">The Authority notes that some trustees conduct regular on-site inspections of their promoters to ensure that adequate processes are in place which facilitate compliance with the Code of Conduct and other regulatory documentation issued by the Authority. This is encouraged.</p>
+(XML Line 000098): Hanging paragraph in clause
+	<clause id="clause5" obligation="normative"><title>Complaint reporting mechanism between the MPFA, trustees and promoters</title><clause id="clause5-1" obligation="normative">
+	
+	<p id="_706121a4-cff5-4672-977b-346060fe0968">As the lead MPF regulator, the Authority should be kept informed of all significant complaints. Chapter 4 paragraph 10.2(e) of the Code of Conduct already requires MPF corporate intermediaries to report certain complaints to the Authority, including, any misappropriation of client funds or forgery of client documents.</p>
+	</clause>
+	<clause id="clause5-2" obligation="normative">
+(XML Line 000114): Hanging paragraph in clause
+	<clause id="clause6" obligation="normative">
+	<title>Vetting of Marketing Materials by trustees</title>
+	<clause id="clause6-1" obligation="normative">
+	
+	<p id="_1ec2e572-5f96-4ed6-a54c-b3e09c829176">According to the Code of Conduct, promoters should ensure that the offering documents have been authorized by the Securities and Futures Commission (SFC) and approved by the Authority. In addition, promoters should ensure that all marketing materials have been authorized by the SFC. Some trustees also examine and confirm for example, that there is no misrepresentation, improper disclosure or misstatement of facts in the material before it is sent to the appropriate Regulator(s). This practice is encouraged.</p>
+
+
+== Document Attributes
+
+(): supervision-of-mpf-intermediaries is not a recognised document type
+
+
+== Metanorma XML Syntax
+
+(XML Line 000038:53): character content of element "doctype" invalid; must be equal to "best-practices", "directives", "legal", "policy-and-procedures", "proposal", "report", "standard" or "supporting-document"
+(XML Line 000039:7): element "ext" incomplete; missing required element "editorialgroup"
+(XML Line 000121:17): element "mpfd-standard" incomplete; missing required element "bibliography"

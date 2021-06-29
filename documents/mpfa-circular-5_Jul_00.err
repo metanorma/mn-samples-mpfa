@@ -1,0 +1,31 @@
+/__w/mn-samples-mpfa/mn-samples-mpfa/site/documents/mpfa-circular-5_Jul_00.err errors
+
+
+== Metanorma XML Style Warning
+
+(XML Line 000045): Table should have title
+	<table id="_56d5a385-f7a6-408a-8e43-3647ce19e1fe">
+	<tbody>
+	<tr>
+	<td valign="top" align="left">
+	<p id="_0918df8c-ae19-4fb7-99d2-31f5dfa51886">Remuneration basis</p>
+(XML Line 000126): Hanging paragraph in clause
+	<clause id="_other_issues_relating_to_prorating" obligation="normative"><title>Other issues relating to prorating</title><p id="_23a96597-1ee5-43c7-81bb-6a0af60138a7">The Authority would also like to take this opportunity to clarify certain related issues in the prorating arrangement.</p>
+	<clause id="_commencement_or_termination_of_employment_during_a_contribution_period" obligation="normative">
+	<title>Commencement or Termination of Employment during a Contribution Period</title>
+	<p id="_4f6b95d6-61f8-44dc-b263-53b615cc6e43">The fact that an employee commences or ceases employment within a contribution period will not affect the levels of relevant income applicable to that period. For example, the minimum and maximum levels of relevant income in respect of a relevant employee, who is remunerated on a monthly basis and commences employment on 20 December 2000, would be HK$4,000 and HK$20,000 respectively for determination of mandatory contributions required for the first contribution period from 20 December 2000 to 31 December 2000. Similar treatment should be applied to a relevant employee who ceases employment during a contribution period.</p>
+	</clause>
+
+
+== Document Attributes
+
+(): circular is not a recognised document type
+(): Repealed (2003-02-01) is not a recognised status
+
+
+== Metanorma XML Syntax
+
+(XML Line 000037:28): character content of element "doctype" invalid; must be equal to "best-practices", "directives", "legal", "policy-and-procedures", "proposal", "report", "standard" or "supporting-document"
+(XML Line 000038:7): element "ext" incomplete; missing required element "editorialgroup"
+(XML Line 000040:11): element "sections" not allowed yet; missing required element "preface"
+(XML Line 000139:17): element "mpfd-standard" incomplete; missing required element "bibliography"

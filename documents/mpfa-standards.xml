@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<mpfd-standard xmlns="https://www.metanorma.org/ns/mpfd" type="semantic" version="0.6.5">
+<bibdata type="standard">
+<title language="en" format="text/plain">Performance Presentation Standards for MPF investment Funds</title>
+
+
+<contributor>
+<role type="author"/>
+<organization>
+<name>Mandatory Provident Fund Schemes Authority</name>
+</organization>
+</contributor>
+<contributor>
+<role type="publisher"/>
+<organization>
+<name>Mandatory Provident Fund Schemes Authority</name>
+</organization>
+</contributor>
+<edition>2</edition>
+<version>
+<revision-date>2007-04-01</revision-date>
+
+</version>
+<language>en</language>
+<script>Latn</script>
+<status>
+<stage>published</stage>
+</status>
+<copyright>
+<from>2007</from>
+<owner>
+<organization>
+<name>Mandatory Provident Fund Schemes Authority</name>
+</organization>
+</owner>
+</copyright>
+<ext>
+<doctype>compliance-standards-for-mpf-trustees</doctype>
+</ext>
+</bibdata>
+<sections><clause id="_general" obligation="normative"><title>General</title><clause id="_status" container="true" obligation="normative"><title>Status</title><clause id="_e987c6e5-f9fb-4539-8dfc-e321b361fdc1" obligation="normative">
+
+<p id="_cf773e0c-bd68-4b7d-b291-598e8d07c86b">These Standards are published jointly by the Hong Kong Investment Funds Association and Hong Kong Trustees&#8217; Association. Upon being recognized by the Mandatory Provident Fund Schemes Authority (&#8220;the MPFA&#8221;), they are the recognized industry performance presentation standards for the purposes of the Code on Disclosure for MPF Investment Funds (&#8220;the Code&#8221;) as stated in A1.1 and D2.3 of that Code.</p>
+</clause>
+<clause id="_2" obligation="normative">
+
+<p id="_8c6bc6fd-fdae-481f-b8a0-578439b04eb3">Unless otherwise identified, words and expressions used in these Standards are as defined in the Code.</p>
+</clause></clause>
+<clause id="_purpose" container="true" obligation="normative"><title>Purpose</title><clause id="_3" obligation="normative">
+
+<p id="_139ff1d4-0d48-4e81-a758-530928f96087">The purpose of these Standards is to specify the methods that approved trustees and service providers of MPF schemes should use in preparing, calculating and presenting the information that is required as minimum content in a fund fact sheet of a registered MPF scheme. It covers the items of fund performance information, fund risk indicators and fund descriptor, as set out in D2.3 (f), (i) and (j) of the Code.</p>
+</clause>
+<clause id="_4" obligation="normative">
+
+<p id="_be24413f-f648-4fdf-98ac-a640c5b075b3">These Standards aim to present scheme members with actual, historical information on the performance of MPF funds. The information should be prepared based on the good disclosure principles set out in Part B of the Code to facilitate informed decision making by scheme members and to facilitate comparison across MPF funds.</p>
+</clause>
+<clause id="_5" obligation="normative">
+
+<p id="_f76bc857-1718-4af8-9999-682db850f73c">The Standards are limited to the above purpose. The fund fact sheet should also comply with any relevant requirements of the SFC Code on MPF Products.</p>
+</clause>
+<clause id="_6" obligation="normative">
+
+<p id="_d8e550b5-bf08-4a58-b0d7-023eecdd1c3c">These Standards, in conjunction with Chapter D of the Code, have been developed to set some minimum standards so that members of registered schemes are provided with at least a basic level of information about registered schemes and constituent funds. Nothing in these standards is intended to prevent, or discourage approved trustees or service providers from providing additional, or more detailed information if they consider it appropriate to do so.</p>
+</clause></clause></clause>
+<clause id="_presentation_standards_for_fund_performance_information" obligation="normative"><title>Presentation Standards for Fund Performance Information</title><clause id="_requirements_of_the_code" container="true" obligation="normative">
+<title>Requirements of the Code</title>
+<clause id="_7" obligation="normative">
+
+<p id="_37819bee-061f-4ccd-afd2-d9a41497f31e">D2.3(f) of the Code requires that for each constituent fund of a registered scheme, the periodic rate of return for the fund over the periods of 1, 5, 10 years and since launch be provided in the fund fact sheet.</p>
+</clause>
+</clause>
+<clause id="_presentation_of_fund_performance_information" container="true" obligation="normative"><title>Presentation of fund performance information</title><clause id="_8" obligation="normative"><p id="_c7475e8a-33ee-44eb-8cec-69da12ba52c0">Subject to <xref target="b3"/> to <xref target="b10"/> the fund fact sheet should set out, in tabular form, the annualized rate of return<fn reference="1"><p id="_fb77d2f8-b41b-43e6-b431-7064645c36d7">Note that the SFC Code on MPF Products provides that &#8220;annualized returns are generally only acceptable if the actual returns for all the individual years are shown in addition&#8221;.</p></fn> for each constituent fund of the scheme, over the following periods:</p>
+<ul id="_5cc4a6b5-7a74-482e-bace-4eec93b35537">
+<li>
+<p id="_ef60fab5-3069-483b-844c-18efbeafc7fe">the period since launch,</p>
+</li>
+<li>
+<p id="_8e648ed4-94b3-454c-bc57-6c652c6036fd">where the financial year of the scheme does not end on 31 December, the last calendar year ending before the reporting date of the fund fact sheet,</p>
+</li>
+<li>
+<p id="_a3d9aa62-b64e-4c14-acc3-a64fcfd65490">where relevant, the periods of 1 year, 5 year and 10 year preceding the reporting date of the fund fact sheet.</p>
+</li>
+</ul></clause>
+<clause id="b3" obligation="normative">
+
+<p id="_511d89c0-a161-4336-9d5c-94156861a42a">Where a constituent fund comprises more than one class, rates of return should be shown for each class.</p>
+</clause>
+<clause id="_9" obligation="normative">
+
+<p id="_132a49d6-2b9b-4214-9bff-978129477a0c"><xref target="calculation"/> sets out in detail how the rate of return should be calculated.</p>
+</clause>
+<clause id="_10" obligation="normative">
+
+<p id="_39ac6e59-e267-4676-ab17-f73ecbe79a32">No return figures for the period since launch should be shown for any constituent fund that has less than 6-months&#8217; track record at the reporting date of the fund fact sheet. No return figures for the period since launch is required for any constituent fund where the period since launch is greater than 10 years.</p>
+</clause>
+<clause id="_11" obligation="normative">
+
+<p id="_87cb3ccf-7309-4803-af98-bc09bb82fb9e">If any rate of return is shown in the fund fact sheet for any periods of less than one year, those rates of return should not be annualized.</p>
+</clause>
+<clause id="_guaranteed_funds" container="true" obligation="normative"><title>Guaranteed funds</title><clause id="b7" obligation="normative">
+
+<p id="_ced58453-b24c-4f59-b860-9355e9842850">Where the rates of return of a fund are not affected by the performance of the underlying investments of the fund, and where the guarantee for the return is payable unconditionally, the actual rate of return declared by that fund over the respective periods should be shown in the fund fact sheet instead of the return calculated in accordance with <xref target="calculation"/></p>
+</clause>
+<clause id="_12" obligation="normative">
+
+<p id="_4efcb01e-fe7d-49a1-9fee-44cb988b3e53">For a non-unitized fund, where an internally calculated price of the fund reflects the performance of the underlying investments held by the fund on a per unit basis, and is similar to the NAV per unit of the fund stated in <xref target="calculation"/>, that fund price is to be used for the calculation of fund performance in accordance with <xref target="calculation"/>.</p>
+</clause>
+<clause id="_13" obligation="normative">
+
+<p id="_d72bbbca-5b49-4907-a8a0-d08bfd9bcf4a">In all other cases, the periodic rates of return for the guaranteed fund should be shown according to the formula set out in <xref target="calculation"/>.</p>
+</clause>
+<clause id="b10" obligation="normative">
+
+<p id="_902eb84c-4e2c-49aa-8c45-185a582b8122">For guaranteed funds, the name of the guarantor, the guaranteed rate and conditions for the guarantee (if applicable) should be disclosed in the fund fact sheet. If it is not practicable to include the conditions in the fund fact sheet, due to their length, then the fund fact sheet should contain a summary of the conditions that apply and direct readers to where the full conditions can be obtained from.</p>
+</clause></clause>
+<clause id="_restructured_or_merged_funds" container="true" obligation="normative">
+<title>Restructured or merged funds</title>
+<clause id="_14" obligation="normative">
+
+<p id="_7822fd33-05d7-4e2c-a7c0-313391ccade2">Where a new fund is formed through the restructuring of other funds, the rate of return of the newly launched fund should be shown, provided it has at least 6-months&#8217; track record at the reporting date of the fund fact sheet. The fact that the restructuring has taken place may be disclosed as a footnote in the fund fact sheet. It may direct readers to where the full information on the restructuring and/or past performance of the preceding funds can be obtained.</p>
+</clause>
+</clause></clause>
+<clause id="_calculation_of_fund_performance" container="true" obligation="normative">
+<title>Calculation of fund performance</title>
+<clause id="calculation" obligation="normative"><p id="_12e35247-9c04-4528-9e10-f4adf1eed4bd">The rate of return of the fund, or for a particular class of the fund, over the respective periods specified in D2.3(f) of the Code should be calculated to two decimal places in the following manner:</p>
+<formula id="_c36499d3-563e-4586-aa7a-c695015eca2a">
+<stem type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtext>Rate of return for the measurement period from point 'a' to point 'b' (%)</mtext><mo>=</mo><mfenced open="[" close="]"><mrow><msup><mrow><mfenced open="(" close=")"><mrow><mfrac><mrow><mrow><mi>N</mi><mi>A</mi><msub><mrow><mi>V</mi></mrow><mrow><mi>b</mi></mrow></msub><mo>&#8722;</mo><mi>F</mi><mi>A</mi></mrow></mrow><mrow><mrow><mi>N</mi><mi>A</mi><msub><mrow><mi>V</mi></mrow><mrow><mi>a</mi></mrow></msub></mrow></mrow></mfrac></mrow></mfenced></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mi>n</mi></mrow></mfrac></mrow></msup><mo>&#8722;</mo><mn>1</mn></mrow></mfenced><mo>&#215;</mo><mn>100</mn><mi>%</mi></math></stem>
+</formula>
+<p id="_76a7d34a-67f9-408f-b59d-db57f55378d1">Where, for the purposes of this formula only, the following terms have the meaning indicated:</p>
+<table id="_c04a63c7-9031-49c9-980f-cdab6d010d2c">
+<thead>
+<tr>
+<th valign="top" align="left">Term</th>
+<th valign="top" align="left">Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">
+<stem type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>N</mi><mi>A</mi><msub><mrow><mi>V</mi></mrow><mrow><mi>a</mi></mrow></msub></math></stem>
+</td>
+<td valign="top" align="left">The net asset value per unit of the fund or each unit of a class of the fund in Hong Kong dollars at point &#8216;a&#8217;, the beginning of the measurement period.</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<stem type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>N</mi><mi>A</mi><msub><mrow><mi>V</mi></mrow><mrow><mi>b</mi></mrow></msub></math></stem>
+</td>
+<td valign="top" align="left">The net asset value per unit of the fund or each unit of a class of the fund in Hong Kong dollars at point &#8216;b&#8217;, the end of the measurement period.</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<stem type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>F</mi><mi>A</mi></math></stem>
+</td>
+<td valign="top" align="left"><p id="_9de23894-556d-4dd6-a8a9-84de99465383">An adjustment for any fees or charges deducted from members&#8217; accounts by way of deduction of units, if those fees or charges would be counted as expenses of the fund if deducted directly from the fund. The adjustment should be calculated on a per unit basis in accordance with the formula</p>
+<formula id="_d7c15fc5-c8dd-4bf6-9f38-8b42ec22232e">
+<stem type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>F</mi><mi>A</mi><mo>=</mo><mfrac><mrow><mi>D</mi></mrow><mrow><mrow><mi>U</mi><mo>+</mo><mi>V</mi></mrow></mrow></mfrac></math></stem>
+</formula>
+<p id="_11b4764d-16f2-4a84-b347-3e02caf06326">Where:</p>
+<ul id="_47293db7-efde-4502-8680-28d697b32a9d">
+<li>
+<p id="_159c25b4-c92e-4d7b-a859-1ede7db91d76"><stem type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>D</mi></math></stem> = the value of any fees and charges deducted by way of deduction of units during the period from point &#8216;a&#8217; to point &#8216;b&#8217;</p>
+</li>
+<li>
+<p id="_292bc2d8-f79e-4048-992c-aa2c6924f18b"><stem type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>U</mi></math></stem> = the number of units outstanding at point &#8216;b&#8217;</p>
+</li>
+<li>
+<p id="_e3c32a34-d90d-4db7-aa49-de8998b322e6"><stem type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>V</mi></math></stem> = the number of units deducted as fees or charges during the period from point &#8216;a&#8217; to point &#8216;b&#8217;</p>
+</li>
+</ul></td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<stem type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>n</mi></math></stem>
+</td>
+<td valign="top" align="left">The number of years in the measurement period from the beginning at point &#8216;a&#8217; to the end at point &#8216;b&#8217;. Where the number of years in the measurement period from point &#8216;a&#8217; to point &#8216;b&#8217; is less than 1, <stem type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>n</mi></math></stem> equals 1.</td>
+</tr>
+</tbody>
+</table></clause>
+</clause></clause>
+<clause id="_standards_for_fund_risk_indicators" obligation="normative"><title>Standards for Fund Risk Indicators</title><clause id="_requirements_of_the_code_2" container="true" obligation="normative">
+<title>Requirements of the Code</title>
+<clause id="_15" obligation="normative">
+
+<p id="_14cbba3d-b613-4cc2-ab46-22934b368a7f">D2.3(i) of the Code requires that appropriate fund risk indicators be provided in the fund fact sheet for each constituent fund of a scheme as a general indication about the level of risk of the fund in a manner that assists members in assessing the level of risks consistently across funds.</p>
+</clause>
+</clause>
+<clause id="_presentation_of_the_fund_risk_indicators" container="true" obligation="normative"><title>Presentation of the fund risk indicators</title><clause id="_16" obligation="normative">
+
+<p id="_6e088c59-d7a6-41dc-8a31-46c4f95ad663">The fund risk indicator for each fund should be shown as an annualized standard deviation based on the monthly rates of return of the fund over the past 3 years to the reporting date of the fund fact sheet.</p>
+</clause>
+<clause id="_17" obligation="normative">
+
+<p id="_ae1c2d0e-c8f7-4aee-a8a4-f890f9bcfa50">Funds with performance history of less than 3 years since inception to the reporting of the fund fact sheet are not required to show the annualized standard deviation in the fund fact sheet.</p>
+</clause>
+<clause id="_guaranteed_funds_2" container="true" obligation="normative"><title>Guaranteed funds</title><clause id="_18" obligation="normative">
+
+<p id="_62381d26-6df1-4c7a-8b3b-7f6ff81481c1">Annualized standard deviations need not be shown in the case of a guaranteed fund as described in <xref target="b7"/>.</p>
+</clause>
+<clause id="_19" obligation="normative">
+
+<p id="_810b5e17-084c-4c16-88e6-48d733c99a60">For a non-unitized fund, where an internally calculated price of the fund reflects the performance of the underlying investments held by the fund on a per unit basis, and is similar to the NAV per unit of the fund stated in <xref target="calculation"/>, that fund price is to be used for the calculation of the fund risk indicator in accordance with <xref target="calculation2"/>.</p>
+</clause></clause></clause>
+<clause id="_calculation_of_fund_risk_indicators" container="true" obligation="normative">
+<title>Calculation of fund risk indicators</title>
+<clause id="calculation2" obligation="normative"><p id="_7b256927-4aff-4de8-891e-32e033540afc">The annualized standard deviation of the fund should be calculated to two decimal places in the following manner:</p>
+<formula id="_e80595df-990e-4363-84df-d348061d84e3">
+<stem type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtext>Annualized Standard Deviation (%)</mtext><mo>=</mo><msup><mrow><mfenced open="[" close="]"><mrow><mfrac><mrow><mn>12</mn></mrow><mrow><mn>36</mn></mrow></mfrac><mo>&#215;</mo><mo>&#8721;</mo><msup><mrow><mfenced open="(" close=")"><mrow><msub><mrow><mi>x</mi></mrow><mrow><mi>i</mi></mrow></msub><mo>&#8722;</mo><mover accent="true"><mrow><mi>x</mi></mrow><mo>&#175;</mo></mover></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfenced></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msup></math></stem>
+</formula>
+<p id="_e00a1d4f-974b-43f7-800e-c52ac98fa8b3">Where, for the purpose of this formula only, the following terms have the meanings
+indicated:</p>
+<table id="_279aca14-f52c-4bf2-b843-8db80e7b4015">
+<thead>
+<tr>
+<th valign="top" align="left">Term</th>
+<th valign="top" align="left">Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">
+<stem type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>&#8721;</mo><msup><mrow><mfenced open="(" close=")"><mrow><msub><mrow><mi>x</mi></mrow><mrow><mi>i</mi></mrow></msub><mo>&#8722;</mo><mover accent="true"><mrow><mi>x</mi></mrow><mo>&#175;</mo></mover></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup></math></stem>
+</td>
+<td valign="top" align="left">The summation of the square of the difference between <stem type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mrow><mi>x</mi></mrow><mrow><mi>i</mi></mrow></msub></math></stem>, and <stem type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML"><mover accent="true"><mrow><mi>x</mi></mrow><mo>&#175;</mo></mover></math></stem> calculated to two decimal places.</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<stem type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mrow><mi>x</mi></mrow><mrow><mi>i</mi></mrow></msub></math></stem>
+</td>
+<td valign="top" align="left"><p id="_09072679-6b9e-4ef5-bc87-e1eeaa85b4a7">The rate of return of the fund for each full month of the measurement period, calculated in the following manner:</p>
+<formula id="_dfa79ada-1f37-44de-a0d8-3bb9f6b0ce11">
+<stem type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML"><msub><mrow><mi>x</mi></mrow><mrow><mi>i</mi></mrow></msub><mo>=</mo><mfenced open="[" close="]"><mrow><mfrac><mrow><mrow><mi>N</mi><mi>A</mi><msub><mrow><mi>V</mi></mrow><mrow><mi>b</mi></mrow></msub><mo>&#8722;</mo><mi>F</mi><mi>A</mi></mrow></mrow><mrow><mrow><mi>N</mi><mi>A</mi><msub><mrow><mi>V</mi></mrow><mrow><mi>a</mi></mrow></msub><mo>&#8722;</mo><mn>1</mn></mrow></mrow></mfrac></mrow></mfenced><mo>&#215;</mo><mn>100</mn><mi>%</mi></math></stem>
+</formula>
+<p id="_33206007-f3cc-4906-87df-b1043c85b327">where <stem type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>N</mi><mi>A</mi><msub><mrow><mi>V</mi></mrow><mrow><mi>a</mi></mrow></msub></math></stem>, <stem type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>N</mi><mi>A</mi><msub><mrow><mi>V</mi></mrow><mrow><mi>b</mi></mrow></msub></math></stem> and <stem type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>F</mi><mi>A</mi></math></stem> have the same meaning as defined in <xref target="calculation"/>.</p></td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<stem type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML"><mover accent="true"><mrow><mi>x</mi></mrow><mo>&#175;</mo></mover></math></stem>
+</td>
+<td valign="top" align="left"><p id="_e185a84c-64fa-4e6d-ae02-f30ab6a0ae92">The average monthly rate of return of the fund over the measurement period, calculated in the following manner:</p>
+<formula id="_fe4112a0-840f-4283-a13f-b8537496b165">
+<stem type="MathML"><math xmlns="http://www.w3.org/1998/Math/MathML"><mover accent="true"><mrow><mi>x</mi></mrow><mo>&#175;</mo></mover><mo>=</mo><mo>&#8721;</mo><mfrac><mrow><msub><mrow><mi>x</mi></mrow><mrow><mi>i</mi></mrow></msub></mrow><mrow><mn>36</mn></mrow></mfrac></math></stem>
+</formula></td>
+</tr>
+</tbody>
+</table></clause>
+</clause></clause>
+<clause id="_standards_for_fund_descriptor" obligation="normative"><title>Standards for Fund Descriptor</title><clause id="_requirements_of_the_code_3" container="true" obligation="normative">
+<title>Requirements of the Code</title>
+<clause id="_20" obligation="normative">
+
+<p id="_5bdcf743-eee4-4249-b6fe-89fa4384e38c">Paragraph D2.3(j) of the Code requires that a fund descriptor be provided in the fund fact sheet for each constituent fund, as a description of the fund type in a manner that will facilitate comparison with other similar funds.</p>
+</clause>
+</clause>
+<clause id="_presentation_of_the_fund_descriptor" container="true" obligation="normative">
+<title>Presentation of the fund descriptor</title>
+<clause id="_21" obligation="normative">
+
+<p id="_749bd4a4-71b9-49b4-a0b5-6e228cf5fac0">The fund descriptor included in the fund fact sheet should be a short statement representing the characteristics of the underlying investments of the fund set out in the investment objectives and policy in the offering document of the fund. The fund descriptor should be based on the types of assets, the types of non-cash assets that predominate (constitute at least 70% of the fund), the maximum exposure to equity, and the geographical region in which the fund invests, as set out in the offering document.</p>
+</clause>
+</clause>
+<clause id="_fund_descriptors_by_category_of_funds_asset_types_and_geographic_regions" container="true" obligation="normative"><title>Fund descriptors by category of funds, asset types and geographic regions</title><clause id="_22" obligation="normative"><p id="_cf8368c4-e4f7-4627-a520-310296a8904f">The fund fact sheet should state, under the heading &#8220;Fund Descriptor&#8221; one of the following fund descriptors, where the text in square brackets would be adjusted to suit circumstances:</p>
+<clause id="d3_1" obligation="normative">
+
+<table id="_8d1f5e0a-95dd-4a48-8d82-772580312787">
+<thead>
+<tr>
+<th valign="top" align="left">Type of fund</th>
+<th valign="top" align="left">Descriptor to be used</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">For a fund that is a mixed asset fund investing in a geographic region with no less than 70% of fund assets invested in bonds and equities in that region with a specified maximum exposure to equity.</td>
+<td valign="top" align="left">Mixed Assets Fund- [region]&#8201;&#8212;&#8201;Maximum equity<fn reference="a"><p id="_dc1f97fb-0038-42b8-9a98-8ea6c9ca7a9a">or such other terms as used in the offering document e.g.&#8221;maximum equity around [ ]%&#8221;</p></fn> [ ]%</td>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_23" obligation="normative">
+
+<table id="_7919430c-48bd-4423-ad75-c93c716fe78a">
+<thead>
+<tr>
+<th valign="top" align="left">Type of fund</th>
+<th valign="top" align="left">Descriptor to be used</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">For a fund that is an equity fund investing in a geographic region, with no less than 70% of fund assets invested in that region.</td>
+<td valign="top" align="left">Equity Fund&#8201;&#8212;&#8201;[region]</td>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_24" obligation="normative">
+
+<table id="_6ba5c64f-12d4-4178-9647-ef7a9cf3eab2">
+<thead>
+<tr>
+<th valign="top" align="left">Type of fund</th>
+<th valign="top" align="left">Descriptor to be used</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">For a fund that is a bond fund investing in a geographic region with no less than 70% of the fund assets invested in bonds in that region.</td>
+<td valign="top" align="left">Bond Fund&#8201;&#8212;&#8201;[region]</td>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="d3_4" obligation="normative">
+
+<table id="_b0437438-59eb-4401-be0a-5a12fd7a1e91">
+<tbody>
+<tr>
+<td valign="top" align="left">Type of fund</td>
+<td valign="top" align="left">Descriptor to be used</td>
+</tr>
+<tr>
+<td valign="top" align="left">For a fund that is a money market fund investing in a geographic region, with no less than 70% of the fund assets invested in money market instruments such as short term deposits and debt securities in that region, to achieve an average portfolio remaining maturity not exceeding 90 days.</td>
+<td valign="top" align="left">Money Market Fund&#8201;&#8212;&#8201;[region]</td>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="_25" obligation="normative">
+
+<table id="_506261f4-6f36-42f8-a1e0-152aa7989a57">
+<tbody>
+<tr>
+<td valign="top" align="left">Type of fund</td>
+<td valign="top" align="left">Descriptor to be used</td>
+</tr>
+<tr>
+<td valign="top" align="left">For a fund that is a guaranteed fund whereby a guaranteed amount will be paid to holders in future according to the features of the guarantee.</td>
+<td valign="top" align="left">Guaranteed Fund&#8201;&#8212;&#8201;[guarantee features<fn reference="a"><p id="_be8cbaa2-ab6e-4e06-95f6-adf982ad0b44">e.g. guarantee payable unconditionally</p></fn> ]</td>
+</tr>
+</tbody>
+</table>
+</clause>
+<clause id="d3_6" obligation="normative">
+
+<table id="_08db1c37-56ee-4625-82aa-a089bcac96f4">
+<tbody>
+<tr>
+<td valign="top" align="left">Type of fund</td>
+<td valign="top" align="left">Descriptor to be used</td>
+</tr>
+<tr>
+<td valign="top" align="left">For a fund that does not fit within any of the fund descriptors set out above.</td>
+<td valign="top" align="left">Uncategorised Fund&#8201;&#8212;&#8201;[region]</td>
+</tr>
+</tbody>
+</table>
+</clause></clause>
+<clause id="_26" obligation="normative">
+
+<p id="_a70404f0-5405-47bc-a8dd-a84355b195d2">Funds under the fund descriptor in <xref target="d3_1"/> would include many funds known as lifestyle (or lifecycle) or balanced funds. Funds under the fund descriptor <xref target="d3_4"/> would include the Capital Preservation Funds that operate pursuant to section 37 of the Mandatory Provident Fund Schemes (General) Regulation. Funds under the fund descriptor <xref target="d3_6"/> would comprise funds that do not fit within any other descriptor.</p>
+</clause></clause></clause></sections>
+</mpfd-standard>

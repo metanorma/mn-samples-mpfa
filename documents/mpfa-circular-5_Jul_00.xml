@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<mpfd-standard xmlns="https://www.metanorma.org/ns/mpfd" type="semantic" version="0.6.5">
+<bibdata type="standard">
+<title language="en" format="text/plain">Mandatory Provident Fund Schemes Ordinance (Cap. 485) ("the Ordinance") Prorating of Minimum and Maximum Levels of Relevant Income for Mandatory Contribution Purposes</title>
+<docidentifier>SU/CTR/2000/002</docidentifier>
+<docnumber>SU/CTR/2000/002</docnumber>
+<contributor>
+<role type="author"/>
+<organization>
+<name>Mandatory Provident Fund Schemes Authority</name>
+</organization>
+</contributor>
+<contributor>
+<role type="publisher"/>
+<organization>
+<name>Mandatory Provident Fund Schemes Authority</name>
+</organization>
+</contributor>
+<edition>1</edition>
+<version>
+<revision-date>2000-07-05</revision-date>
+</version>
+<language>en</language>
+<script>Latn</script>
+<status>
+<stage>Repealed (2003-02-01)</stage>
+</status>
+<copyright>
+<from>2000</from>
+<owner>
+<organization>
+<name>Mandatory Provident Fund Schemes Authority</name>
+</organization>
+</owner>
+</copyright>
+<ext>
+<doctype>circular</doctype>
+</ext>
+</bibdata>
+<sections><clause id="_general" obligation="normative"><title>General</title><p id="_3dd2d0b0-6da5-4922-ba59-8388d86c320a">Schedules 2 and 3 (&#8220;the Schedules&#8221;) to the Ordinance provide for the minimum and maximum levels of relevant income for mandatory contribution purposes. These two schedules also provide that the levels be prorated if a relevant employee is not remunerated on a monthly basis.</p>
+<p id="_9e8568bb-5cf4-4be3-a3f6-0bf9930960a2">Prorating may be performed based on the number of days in a month. On this basis, the minimum levels of relevant income for one day in October (a 31-day month) and one day in November (a 30-day month) would be $129 and $133 respectively. Accordingly, the minimum level of relevant income for the week from 29 October 2001 to 4 November 2001 would be $919 (3 x $129 + 4 x $133).</p>
+<p id="_05f83d5d-6bc3-414d-8cb5-5ad952d65514">The Authority understands that there might be practical difficulties for service providers and employers to prorate the relevant income levels precisely. As a result, the Authority is prepared to accept the use of a daily minimum and maximum levels of relevant income of $130 and $650 respectively. The minimum and maximum relevant income levels for contribution periods longer than 1 day will be calculated as a multiple of the daily minimum and maximum levels respectively. These daily levels are identical to those applicable to a casual employee who is a member of an industry scheme.</p>
+<p id="_c5ba1143-bed5-414b-8cf5-2786f3aff75e">On the other hand, if the length of a contribution period of an employee is expressed in number of months (such as half a month or three months), the minimum and maximum levels of relevant income for a period should be determined by multiplying the number of months in a contribution period by $4,000 and $20,000 respectively.</p>
+<p id="_88bbf1c0-bffe-4e39-bb6a-375b70019552">On this basis, the minimum and maximum levels of relevant income for some common remuneration bases are as follows:</p>
+<table id="_56d5a385-f7a6-408a-8e43-3647ce19e1fe">
+<tbody>
+<tr>
+<td valign="top" align="left">
+<p id="_0918df8c-ae19-4fb7-99d2-31f5dfa51886">Remuneration basis</p>
+</td>
+<td valign="top" align="left">
+<p id="_997d9e42-e21f-4a1b-bb49-ffe5f2f75b61">Minimum level of relevant income</p>
+</td>
+<td valign="top" align="left">
+<p id="_ebb501db-c922-4810-8b31-d8bef1ec1668">Maximum level of relevant income</p>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<p id="_0539bb6d-9883-478e-86d4-ed8d760c7724">Daily</p>
+</td>
+<td valign="top" align="left">
+<p id="_35385e09-9117-4379-9492-0e1a22eafb55">$130</p>
+</td>
+<td valign="top" align="left">
+<p id="_5e1e79f2-04dc-45bc-899a-97e186c48a4f">$650</p>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<p id="_48d79bbd-13a5-4302-8829-0ab3d01ca33f">Weekly</p>
+</td>
+<td valign="top" align="left">
+<p id="_6971d4e8-c7b6-4e0e-b449-b2830353db3c">$910</p>
+</td>
+<td valign="top" align="left">
+<p id="_9141ebe2-2b55-43fa-a41d-f5e8ecbbd53f">$4,550</p>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<p id="_11dfeb86-de07-4af5-bb23-56ff99fa8f16">Fortnightly</p>
+</td>
+<td valign="top" align="left">
+<p id="_f7d4ab77-9f80-454f-bf87-c6e8ff59ce87">$1,820</p>
+</td>
+<td valign="top" align="left">
+<p id="_930b6b7f-17f1-4590-91ff-1e1abec97d57">$9,100</p>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<p id="_59da57bf-11c1-46c1-bfde-0d5879ef2235">Twice a month</p>
+</td>
+<td valign="top" align="left">
+<p id="_6ef3e2be-e8ed-4ca5-8f9d-6405f1fecff3">$2,000</p>
+</td>
+<td valign="top" align="left">
+<p id="_3d0ad635-db3e-4e02-a624-102a35a3c39e">$10,000</p>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<p id="_319c9422-02dd-4b95-81ea-7fd789ce0402">Once every two months</p>
+</td>
+<td valign="top" align="left">
+<p id="_9fc7b2e5-6892-4003-8e18-02b9852cea3a">$8,000</p>
+</td>
+<td valign="top" align="left">
+<p id="_18c6c850-4a64-4a12-9586-5f5dc2db63a5">$40,000</p>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<p id="_7285a9d8-215f-45e0-bfcf-a2187883de59">Quarterly</p>
+</td>
+<td valign="top" align="left">
+<p id="_526564e5-9983-4354-aa19-460888d0587d">$12,000</p>
+</td>
+<td valign="top" align="left">
+<p id="_7d6b740c-4ec0-4c1e-b074-01325e4cab23">$60,000</p>
+</td>
+</tr>
+</tbody>
+</table></clause>
+<clause id="_other_issues_relating_to_prorating" obligation="normative"><title>Other issues relating to prorating</title><p id="_23a96597-1ee5-43c7-81bb-6a0af60138a7">The Authority would also like to take this opportunity to clarify certain related issues in the prorating arrangement.</p>
+<clause id="_commencement_or_termination_of_employment_during_a_contribution_period" obligation="normative">
+<title>Commencement or Termination of Employment during a Contribution Period</title>
+<p id="_4f6b95d6-61f8-44dc-b263-53b615cc6e43">The fact that an employee commences or ceases employment within a contribution period will not affect the levels of relevant income applicable to that period. For example, the minimum and maximum levels of relevant income in respect of a relevant employee, who is remunerated on a monthly basis and commences employment on 20 December 2000, would be HK$4,000 and HK$20,000 respectively for determination of mandatory contributions required for the first contribution period from 20 December 2000 to 31 December 2000. Similar treatment should be applied to a relevant employee who ceases employment during a contribution period.</p>
+</clause>
+<clause id="_first_contribution_period_of_a_relevant_employee_who_is_not_a_casual_employee_non_casual_employee" obligation="normative">
+<title>First Contribution Period of a Relevant Employee who is not a Casual Employee (&#8220;Non-Casual Employee&#8221;)</title>
+<p id="_4cf80261-09c8-47ec-8e22-81f3815f5212">Section 7A(10)(b) of the Ordinance provides that the contribution period of a non-casual employee does not include the first 30 days of employment after the relevant time. The minimum and maximum relevant income levels applicable to a monthly-paid, non-casual employee for the period from the 31st day of employment to the end of the calendar month in which the 30th day of employment falls should be prorated. For example, the employer of a non-casual employee who is monthly paid and is under employment on 1 December 2000, should compare the employee&#8217;s relevant income for the day of 31st December 2000 to $130 and $650 to determine the employee&#8217;s mandatory contributions for the month December 2000. On the other hand, the employer&#8217;s mandatory contributions for the month of December 2000 should be determined by comparing the relevant income of the employee for the whole month with $4,000 and $20,000.</p>
+</clause>
+<clause id="_casual_employee_who_is_not_a_member_of_an_industry_scheme" obligation="normative">
+<title>Casual Employee who is not a Member of an Industry Scheme</title>
+<p id="_fc28e947-8617-46c1-9054-0cb56797c04d">The prorating arrangements for a casual employee (who is not a member of an industry scheme) are identical to those applicable to a relevant employee who is not a casual employee. By design, no prorating arrangement is applicable to a casual employee who is a member of an industry scheme.</p>
+</clause></clause></sections>
+</mpfd-standard>

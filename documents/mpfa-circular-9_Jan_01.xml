@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<mpfd-standard xmlns="https://www.metanorma.org/ns/mpfd" type="semantic" version="0.6.5">
+<bibdata type="standard">
+<title language="en" format="text/plain">Mandatory Provident Fund Schemes Ordinance (Cap. 485) (the "Ordinance") Prorating of Minimum and Maximum Levels of Relevant Income for Mandatory Contribution Purposes</title>
+<docidentifier>SU/CTR/2001/001</docidentifier>
+<docnumber>SU/CTR/2001/001</docnumber>
+<contributor>
+<role type="author"/>
+<organization>
+<name>Mandatory Provident Fund Schemes Authority</name>
+</organization>
+</contributor>
+<contributor>
+<role type="publisher"/>
+<organization>
+<name>Mandatory Provident Fund Schemes Authority</name>
+</organization>
+</contributor>
+<edition>1</edition>
+<version>
+<revision-date>2001-01-09</revision-date>
+</version>
+<language>en</language>
+<script>Latn</script>
+<status>
+<stage>Published</stage>
+</status>
+<copyright>
+<from>2001</from>
+<owner>
+<organization>
+<name>Mandatory Provident Fund Schemes Authority</name>
+</organization>
+</owner>
+</copyright>
+<ext>
+<doctype>circular</doctype>
+</ext>
+</bibdata>
+<sections>
+<clause id="_general" obligation="normative"><title>General</title><p id="_3b83d8d3-7f19-4ae4-b424-4b78017baa11">To: All approved trustees</p>
+<p id="_fdf1e108-aa6c-4407-a93a-25445a5e8cc0">Dear Sirs,</p>
+<p id="_a04c51e3-6637-4be4-95eb-f9246bb7474c">The Authority has issued two letters on 5 July 2000 and 29 July 2000 in relation to the subject matter clarifying the acceptable prorating arrangements in respect of the minimum and maximum levels of relevant income for mandatory contribution purposes. In particular, in consideration of the practical difficulties for the service providers and employers to prorate the maximum and minimum levels of relevant income precisely, the Authority has accepted the use of daily minimum and maximum levels of relevant income of $130 and $650 respectively, which are identical to those applicable to a casual employee who is a member of an industry scheme.</p>
+<p id="_dd293930-888a-4398-9095-949d314204af">The Authority would like to further clarify that while the use of $130 and $650 as daily minimum and maximum levels of relevant income is acceptable to the Authority, the employers could still adopt the prorating method as provided under the Ordinance. In this regard, the Authority would like to remind you that you should accept the amount of mandatory contributions calculated by employers based on either prorating methods. In this connection, your scheme administration system and/or your procedures should be able to handle such situations. Furthermore, in consideration of the difficulty in verifying the amount of mandatory contributions calculated under the two prorating arrangements, the Authority would not object to your accepting any mandatory contributions the amount of which falls within the range defined by the respective amounts calculated based on the two prorating arrangements.</p>
+<p id="_d89624d3-bde4-40d1-8cc7-179ad5e2ed92">On a separate issue, in respect of employee contributions, some employers consider it administratively burdensome to prorate the relevant income of each existing relevant employee to determine the amount of mandatory contribution payable for the day of 31 December 2000, and to make a deduction from the employee&#8217;s salary for the month of December accordingly. Instead, such employers propose to pay the maximum contribution amount for that day (for example, $32.5 based on the simplified contribution scale) for each employee out of the employers&#8217; own funds and remit such contributions to the approved trustee concerned together with the contributions in respect of the relevant income for the month of January. Please be advised that the Authority has no objection to such an arrangement and you may inform your clients accordingly.</p>
+<p id="_9f3cf582-0ce5-4399-9385-8588f65ad33b">Should you have any questions on the above, please feel free to contact your case officer.</p>
+<p id="_5d1c9d6c-d1e4-4094-a9ac-443cc9114807">Yours sincerely,</p>
+<p id="_ebdd3c24-9009-4dc7-82bb-60debd2bb62e">(Raymond Tam)<br/>
+Executive Director<br/>
+Services Supervision</p></clause>
+</sections>
+</mpfd-standard>

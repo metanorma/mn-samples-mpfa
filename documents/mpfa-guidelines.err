@@ -1,0 +1,88 @@
+/__w/mn-samples-mpfa/mn-samples-mpfa/site/documents/mpfa-guidelines.err errors
+
+
+== Metanorma XML Style Warning
+
+(XML Line 000041): Hanging paragraph in clause
+	<clause id="_introductory" container="true" obligation="normative"><title>Introductory</title><clause id="_522735b1-9201-4e5d-8b4a-4e2eebbe354d" obligation="normative">
+	
+	<p id="_56c2c694-6dc2-4bff-bb25-128b65c9a6e6">Section 5(1) of the <link target="https://www.elegislation.gov.hk/hk/cap485">Mandatory Provident Fund Schemes Ordinance (“the Ordinance”)</link> provides for the exemption of the members of occupational retirement schemes and their employers from the operation of all, or any specified, provisions of <link target="https://www.elegislation.gov.hk/hk/cap485">the Ordinance</link>.</p>
+	</clause>
+	<clause id="_2" obligation="normative">
+(XML Line 000053): Hanging paragraph in clause
+	<clause id="_application_for_approval" container="true" obligation="normative"><title>Application for Approval</title><clause id="_eligibility" container="true" obligation="normative"><title>Eligibility</title><clause id="_4" obligation="normative">
+	
+	<p id="_c6c51dd8-71c9-4f85-b98a-c0006d72a8f6">Pursuant to section 16 of the <link target="https://www.elegislation.gov.hk/hk/cap485B">Exemption Regulation</link>, an application may be made in respect of a “relevant ORSO registered scheme” for exemption from MPF requirements.</p>
+	</clause>
+	<clause id="_5" obligation="normative"><p id="_a47ec4f7-e1b2-46fe-a8e2-1c8462d93759">According to section 2 of the <link target="https://www.elegislation.gov.hk/hk/cap485B">Exemption Regulation</link>, a relevant ORSO registered scheme is defined as an ORSO registered scheme -</p>
+(XML Line 000053): Hanging paragraph in clause
+	<clause id="_eligibility" container="true" obligation="normative"><title>Eligibility</title><clause id="_4" obligation="normative">
+	
+	<p id="_c6c51dd8-71c9-4f85-b98a-c0006d72a8f6">Pursuant to section 16 of the <link target="https://www.elegislation.gov.hk/hk/cap485B">Exemption Regulation</link>, an application may be made in respect of a “relevant ORSO registered scheme” for exemption from MPF requirements.</p>
+	</clause>
+	<clause id="_5" obligation="normative"><p id="_a47ec4f7-e1b2-46fe-a8e2-1c8462d93759">According to section 2 of the <link target="https://www.elegislation.gov.hk/hk/cap485B">Exemption Regulation</link>, a relevant ORSO registered scheme is defined as an ORSO registered scheme -</p>
+(XML Line 000102): Hanging paragraph in clause
+	<clause id="_governing_rules" container="true" obligation="normative">
+	<title>Governing Rules</title>
+	<clause id="_10" obligation="normative"><p id="_b75504fa-46f0-46b9-a5c9-fade95b73262">In order to be qualified for MPF exemption, the terms of relevant ORSO registered schemes will most likely need to be amended in the following aspects:</p>
+	<ol id="_eb8dce1d-d30e-491d-a5ed-5cc90e7bfbc2" type="alphabet">
+	<li>
+(XML Line 000163): Hanging paragraph in clause
+	<clause id="_prescribed_forms" container="true" obligation="normative"><title>Prescribed Forms</title><clause id="_11" obligation="normative"><p id="_1f5a87ec-9b6e-4200-a7db-532791153c16">In making an application to the Authority for exemption of a relevant ORSO registered scheme, the applicant must:</p>
+	<ol id="_e7613277-61a3-4d77-9bbc-58769556b03b" type="alphabet">
+	<li>
+	<p id="_ef274647-fa74-41f3-abde-59f548acb40d">make the application in the prescribed format (Form ER) as set out in the Annex;</p>
+	</li>
+(XML Line 000186): Hanging paragraph in clause
+	<clause id="_definition_of_terms" container="true" obligation="normative">
+	<title>Definition of Terms</title>
+	<clause id="_13" obligation="normative">
+	
+	<p id="_33b70d6f-0b9b-4550-9f3c-edf12779ea1e">Where a term used in the Guidelines is defined in <link target="https://www.elegislation.gov.hk/hk/cap485">the Ordinance</link> or the subsidiary legislation then, except where specified in the Guidelines, that term carries the meaning as defined in <link target="https://www.elegislation.gov.hk/hk/cap485">the Ordinance</link> or the subsidiary legislation.</p>
+(XML Line 000193): Hanging paragraph in clause
+	<clause id="_the_applicant" container="true" obligation="normative">
+	<title>The Applicant</title>
+	<clause id="_14" obligation="normative">
+	
+	<p id="_0aef7a1e-050e-4d81-abf3-c9f8fb7bff93">The applicant making an application for exemption of a relevant ORSO registered scheme must be the trustee of the scheme. In case the scheme is a group scheme under section 67 of the Occupational Retirement Schemes Ordinance, the application shall be deemed to be made by each relevant employer of the scheme under section 25(a) of the <link target="https://www.elegislation.gov.hk/hk/cap485B">Exemption Regulation</link>.</p>
+(XML Line 000200): Hanging paragraph in clause
+	<clause id="_signing_requirements" container="true" obligation="normative">
+	<title>Signing Requirements</title>
+	<clause id="_15" obligation="normative"><p id="_fb478c09-6ad6-47a3-886f-3089360106ca">The application for exemption of a relevant ORSO registered scheme must be signed:</p>
+	<ol id="_411a73f8-66b0-4556-914c-60b17eb9901d" type="alphabet">
+	<li>
+(XML Line 000212): Hanging paragraph in clause
+	<clause id="_submission_of_application" container="true" obligation="normative">
+	<title>Submission of Application</title>
+	<clause id="_16" obligation="normative"><p id="_73713821-762c-4f39-af56-864dc87e6b9d">Completed application form and the relevant documents, if any, should be submitted in hard copies and sent, together with the application fee, to:</p>
+	<p align="left" id="_cc2a6525-04ec-4652-8f22-2237cd8b0320">Mandatory Provident Fund Schemes Authority Level 8,<br/>
+	Tower 1, Kowloon Commerce Centre<br/>
+(XML Line 000219): Hanging paragraph in clause
+	<clause id="_warning" container="true" obligation="normative">
+	<title>Warning</title>
+	<clause id="_17" obligation="normative">
+	
+	<p id="_5f3445ab-02c8-4c83-87fb-03f78670fd0e">If there is any change to the application information or documents after an application is submitted to the Authority, the applicant should inform the Authority as soon as reasonably practicable. It is an offence under section 43E of <link target="https://www.elegislation.gov.hk/hk/cap485">the Ordinance</link> if a person, in any document given to the Authority, makes a statement that he knows to be false or misleading in a material respect, or recklessly makes a statement which is false or misleading in a material respect.</p>
+
+
+== Document Attributes
+
+(): guidelines is not a recognised document type
+
+
+== Metanorma XML Syntax
+
+(XML Line 000038:30): character content of element "doctype" invalid; must be equal to "best-practices", "directives", "legal", "policy-and-procedures", "proposal", "report", "standard" or "supporting-document"
+(XML Line 000039:7): element "ext" incomplete; missing required element "editorialgroup"
+(XML Line 000041:11): element "sections" not allowed yet; missing required element "preface"
+(XML Line 000041:78): attribute "container" not allowed here; expected attribute "inline-header", "language", "number", "obligation", "script" or "type"
+(XML Line 000053:185): attribute "container" not allowed here; expected attribute "inline-header", "language", "number", "obligation", "script" or "type"
+(XML Line 000053:80): attribute "container" not allowed here; expected attribute "inline-header", "language", "number", "obligation", "script" or "type"
+(XML Line 000102:71): attribute "container" not allowed here; expected attribute "inline-header", "language", "number", "obligation", "script" or "type"
+(XML Line 000163:72): attribute "container" not allowed here; expected attribute "inline-header", "language", "number", "obligation", "script" or "type"
+(XML Line 000186:75): attribute "container" not allowed here; expected attribute "inline-header", "language", "number", "obligation", "script" or "type"
+(XML Line 000193:69): attribute "container" not allowed here; expected attribute "inline-header", "language", "number", "obligation", "script" or "type"
+(XML Line 000200:76): attribute "container" not allowed here; expected attribute "inline-header", "language", "number", "obligation", "script" or "type"
+(XML Line 000212:81): attribute "container" not allowed here; expected attribute "inline-header", "language", "number", "obligation", "script" or "type"
+(XML Line 000219:63): attribute "container" not allowed here; expected attribute "inline-header", "language", "number", "obligation", "script" or "type"
+(XML Line 000226:17): element "mpfd-standard" incomplete; missing required element "bibliography"

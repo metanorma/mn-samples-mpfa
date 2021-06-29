@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<mpfd-standard xmlns="https://www.metanorma.org/ns/mpfd" type="presentation" version="0.6.5">
+<bibdata type="standard">
+<title language="en" format="text/plain">Best Practice Note for MPF Trustees</title>
+
+
+<contributor>
+<role type="author"/>
+<organization>
+<name>Mandatory Provident Fund Schemes Authority</name>
+</organization>
+</contributor>
+<contributor>
+<role type="publisher"/>
+<organization>
+<name>Mandatory Provident Fund Schemes Authority</name>
+</organization>
+</contributor>
+<edition>1</edition>
+<version>
+<revision-date>2009-09-01</revision-date>
+
+</version>
+<language current="true">en</language>
+<script current="true">Latn</script>
+<status>
+<stage language="">published</stage>
+</status>
+<copyright>
+<from>2009</from>
+<owner>
+<organization>
+<name>Mandatory Provident Fund Schemes Authority</name>
+</organization>
+</owner>
+</copyright>
+<ext>
+<doctype language="">supervision-of-mpf-intermediaries</doctype>
+</ext>
+</bibdata><localized-strings><localized-string key="scope" language="en">Scope</localized-string><localized-string key="symbolsabbrev" language="en">Symbols and abbreviated terms</localized-string><localized-string key="abbrev" language="en">Abbreviated terms</localized-string><localized-string key="symbols" language="en">Symbols</localized-string><localized-string key="table_of_contents" language="en">Table of contents</localized-string><localized-string key="introduction" language="en">Introduction</localized-string><localized-string key="foreword" language="en">Foreword</localized-string><localized-string key="abstract" language="en">Abstract</localized-string><localized-string key="acknowledgements" language="en">Acknowledgements</localized-string><localized-string key="termsdef" language="en">Glossary</localized-string><localized-string key="termsdefsymbolsabbrev" language="en">Glossary</localized-string><localized-string key="termsdefsymbols" language="en">Glossary</localized-string><localized-string key="termsdefabbrev" language="en">Glossary</localized-string><localized-string key="normref" language="en">Normative references</localized-string><localized-string key="bibliography" language="en">Bibliography</localized-string><localized-string key="preface" language="en">Preface</localized-string><localized-string key="clause" language="en">Paragraph</localized-string><localized-string key="annex" language="en">Appendix</localized-string><localized-string key="appendix" language="en">Appendix</localized-string><localized-string key="no_terms_boilerplate" language="en"><p>No terms and definitions are listed in this document.</p>
+</localized-string><localized-string key="internal_terms_boilerplate" language="en"><p>For the purposes of this document, 
+    the following terms and definitions apply.</p>
+</localized-string><localized-string key="norm_with_refs_pref" language="en">The following documents are referred to in the text in such a way that some or all of their content constitutes requirements of this document. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies.</localized-string><localized-string key="norm_empty_pref" language="en">There are no normative references in this document.</localized-string><localized-string key="external_terms_boilerplate" language="en"><p>For the purposes of this document, 
+  the terms and definitions given in % apply.</p>
+</localized-string><localized-string key="internal_external_terms_boilerplate" language="en"><p>For the purposes of this document, the terms and definitions 
+  given in % and the following apply.</p>
+</localized-string><localized-string key="term_defined_in" language="en">[term defined in %]</localized-string><localized-string key="note" language="en">NOTE</localized-string><localized-string key="note_xref" language="en">Note</localized-string><localized-string key="termnote" language="en">Note % to entry</localized-string><localized-string key="list" language="en">List</localized-string><localized-string key="figure" language="en">Figure</localized-string><localized-string key="formula" language="en">Formula</localized-string><localized-string key="inequality" language="en">Formula</localized-string><localized-string key="table" language="en">Table</localized-string><localized-string key="requirement" language="en">Requirement</localized-string><localized-string key="recommendation" language="en">Recommendation</localized-string><localized-string key="permission" language="en">Permission</localized-string><localized-string key="key" language="en">Key</localized-string><localized-string key="example" language="en">EXAMPLE</localized-string><localized-string key="example_xref" language="en">Example</localized-string><localized-string key="where" language="en">where</localized-string><localized-string key="wholeoftext" language="en">Whole of text</localized-string><localized-string key="draft_label" language="en">draft</localized-string><localized-string key="inform_annex" language="en">informative</localized-string><localized-string key="norm_annex" language="en">normative</localized-string><localized-string key="modified" language="en">modified</localized-string><localized-string key="deprecated" language="en">DEPRECATED</localized-string><localized-string key="source" language="en">SOURCE</localized-string><localized-string key="and" language="en">and</localized-string><localized-string key="all_parts" language="en">All Parts</localized-string><localized-string key="month_january" language="en">January</localized-string><localized-string key="month_february" language="en">February</localized-string><localized-string key="month_march" language="en">March</localized-string><localized-string key="month_april" language="en">April</localized-string><localized-string key="month_may" language="en">May</localized-string><localized-string key="month_june" language="en">June</localized-string><localized-string key="month_july" language="en">July</localized-string><localized-string key="month_august" language="en">August</localized-string><localized-string key="month_september" language="en">September</localized-string><localized-string key="month_october" language="en">October</localized-string><localized-string key="month_november" language="en">November</localized-string><localized-string key="month_december" language="en">December</localized-string><localized-string key="obligation" language="en">Obligation</localized-string><localized-string key="subject" language="en">Subject</localized-string><localized-string key="inherits" language="en">Inherits</localized-string><localized-string key="admonition.danger" language="en">Danger</localized-string><localized-string key="admonition.warning" language="en">Warning</localized-string><localized-string key="admonition.caution" language="en">Caution</localized-string><localized-string key="admonition.important" language="en">Important</localized-string><localized-string key="admonition.safety_precautions" language="en">Safety Precautions</localized-string><localized-string key="locality.section" language="en">Section</localized-string><localized-string key="locality.clause" language="en">Clause</localized-string><localized-string key="locality.part" language="en">Part</localized-string><localized-string key="locality.paragraph" language="en">Paragraph</localized-string><localized-string key="locality.chapter" language="en">Chapter</localized-string><localized-string key="locality.page" language="en">Page</localized-string><localized-string key="locality.table" language="en">Table</localized-string><localized-string key="locality.annex" language="en">Annex</localized-string><localized-string key="locality.figure" language="en">Figure</localized-string><localized-string key="locality.example" language="en">Example</localized-string><localized-string key="locality.note" language="en">Note</localized-string><localized-string key="locality.formula" language="en">Formula</localized-string><localized-string key="Clause.sg" language="en">Clause</localized-string><localized-string key="Clause.pl" language="en">Clauses</localized-string><localized-string key="Annex.sg" language="en">Annex</localized-string><localized-string key="Annex.pl" language="en">Annexes</localized-string><localized-string key="Appendix.sg" language="en">Appendix</localized-string><localized-string key="Appendix.pl" language="en">Appendixes</localized-string><localized-string key="Note.sg" language="en">Note</localized-string><localized-string key="Note.pl" language="en">Notes</localized-string><localized-string key="Note_%_to_entry.sg" language="en">Note % to entry</localized-string><localized-string key="Note_%_to_entry.pl" language="en">Notes % to entry</localized-string><localized-string key="List.sg" language="en">List</localized-string><localized-string key="List.pl" language="en">Lists</localized-string><localized-string key="Figure.sg" language="en">Figure</localized-string><localized-string key="Figure.pl" language="en">Figures</localized-string><localized-string key="Formula.sg" language="en">Formula</localized-string><localized-string key="Formula.pl" language="en">Formulas</localized-string><localized-string key="Table.sg" language="en">Table</localized-string><localized-string key="Table.pl" language="en">Tables</localized-string><localized-string key="Requirement.sg" language="en">Requirement</localized-string><localized-string key="Requirement.pl" language="en">Requirements</localized-string><localized-string key="Recommendation.sg" language="en">Recommendation</localized-string><localized-string key="Recommendation.pl" language="en">Recommendations</localized-string><localized-string key="Permission.sg" language="en">Permission</localized-string><localized-string key="Permission.pl" language="en">Permissions</localized-string><localized-string key="Example.sg" language="en">Example</localized-string><localized-string key="Example.pl" language="en">Examples</localized-string><localized-string key="Part.sg" language="en">Part</localized-string><localized-string key="Part.pl" language="en">Parts</localized-string><localized-string key="Section.sg" language="en">Section</localized-string><localized-string key="Section.pl" language="en">Sections</localized-string><localized-string key="Paragraph.sg" language="en">Paragraph</localized-string><localized-string key="Paragraph.pl" language="en">Paragraphs</localized-string><localized-string key="Chapter.sg" language="en">Chapter</localized-string><localized-string key="Chapter.pl" language="en">Chapters</localized-string><localized-string key="Page.sg" language="en">Page</localized-string><localized-string key="Page.pl" language="en">Pages</localized-string><localized-string key="language" language="en">en</localized-string><localized-string key="script" language="en">Latn</localized-string></localized-strings>
+<preface><introduction id="_introduction" obligation="informative" displayorder="1">
+<title>Introduction</title>
+<p id="_232e9b7f-0581-4ffa-8731-54fe50b21fdc">The Code of Conduct for MPF Intermediaries states that approved MPF trustees have a duty to use their best endeavours to supervise persons selling / advising on MPF schemes. The Authority regards this Note as a tool to assist trustees to supervise and monitor their MPF promoters and in turn, their intermediaries (both Corporate and Individual) in the marketing and selling of MPF schemes and products.</p>
+</introduction></preface><sections>
+<clause id="clause1" obligation="normative" displayorder="2"><title depth="1">1.<tab/>Relationship between MPF trustees and promoters</title><clause id="clause1-1" obligation="normative"><title>1.1.</title>
+
+<p id="_eeac0418-90d5-4c45-9f68-37d39f26bce0">The Authority imposes a number of conditions when approving applications to become an approved MPF trustee. One of these requires trustees to take all reasonable steps to ensure that only registered MPF intermediaries induce or seek to induce another to become a participating employer or member of the Scheme. In addition, the Code of Conduct states that trustees have a duty to use their best endeavours to supervise and exercise proper control over persons selling / advising on MPF schemes. It is therefore expected that trustees would endeavour to ensure that the standards of conduct set out in the Code, are met by their intermediaries. Trustees should have the necessary tools at their disposal to facilitate this and where problems arise, the ability to take (either directly or indirectly) the appropriate remedial action. The Authority is aware that many trustees already have written undertakings from their promoters concerning the latters&#8217; intermediaries adherence to the Code of Conduct. The Authority commends this and would encourage all trustees to adopt the practice.</p>
+</clause>
+<clause id="clause1-2" obligation="normative"><title>1.2.</title><p id="_952ac802-21d1-4fd3-b30e-6a85a693058d">The Authority sees merit in the undertaking, which may take the form of a separate document (e.g. a service level agreement) or an annex to any existing documentation, containing the following:-</p>
+<ol id="_a2704413-f31b-40fc-9571-fa7fbb9c4e9e" type="alphabet">
+<li>
+<p id="_f33357d1-fd48-477b-8c35-052bdb9f63c9">the means by which the promoter will ensure, as far as reasonably practicable,
+that the MPF intermediaries selling / advising on the relevant MPF schemes comply with the Code of Conduct and any other regulatory documents issued by the Authority;</p>
+</li>
+<li>
+<p id="_1c37ed91-c69c-4c2f-8cc7-f73e82c4ee5e">the procedures to be adopted if a breach of the Code of Conduct comes to the promoter&#8217;s attention;</p>
+</li>
+<li>
+<p id="_cbf14986-65b0-483f-9483-ecbd86869cc6">a summary of the promoter&#8217;s complaint handling procedure and the mechanism for advising the relevant trustee of complaints received;</p>
+</li>
+<li>
+<p id="_298a249e-1f0f-4076-be5e-c85c0e5cccfa">reference to an ability for the trustee to conduct on-site inspections at the promoter&#8217;s place of business, if the trustee deems this to be necessary;</p>
+</li>
+<li>
+<p id="_0c19269c-86af-4e99-b65b-58a04a46a407">a commitment by the promoter to provide the trustee with annual written confirmation that the promoter and intermediaries appointed or engaged for the purpose of selling or advising on MPF schemes and products have complied with the Code of Conduct and any other regulatory documents issued by the Authority; and</p>
+</li>
+<li>
+<p id="_673b7934-faa3-4bb7-bc54-d875e50f6e86">any other relevant material to ensure compliance with the Code.</p>
+</li>
+</ol>
+<p id="_c57c9d18-ac97-4eaf-a0b1-4460e2850889">If the existing relevant documentation does not address these issues or trustees are not sufficiently satisfied that they are adequately covered, they should seek to modify the undertaking, where feasible.</p></clause>
+<clause id="clause1-3" obligation="normative"><title>1.3.</title>
+
+<p id="_550fcb2d-8d91-4fb3-8c1f-d4dc67eca3fb">To assist the Authority to promote best practices in this area, trustees are invited to copy these documents to the Authority within 3 months of the date of issue of this Note and whenever, in their opinion, substantial amendments are made. Commercially sensitive information may be excluded when forwarding the documents to the Authority.</p>
+</clause></clause>
+<clause id="clause2" obligation="normative" displayorder="3">
+<title depth="1">2.<tab/>Relationship between promoters and their corporate intermediaries</title>
+<clause id="clause2-1" obligation="normative"><title>2.1.</title>
+
+<p id="_1846a3f2-f2da-4a61-bf2e-529e47591e0b">Whilst the majority of promoters engage corporate intermediaries to sell MPF
+products, trustees generally have little direct contact with this Group. Therefore, as a best practice, trustees are invited to consider encouraging their promoters to obtain documentation from the promoters&#8217; corporate intermediaries covering some or all of the areas suggested in <xref target="clause1">Paragraph 1</xref>. If, applicable, it would be helpful to the Authority, if trustees could indicate the existence of this documentation when submitting copies of the documents referred to in <xref target="clause1-3">Paragraph 1.3</xref>. In addition, trustees are encouraged to satisfy themselves that, as far as practicable, promoters have sufficient due diligence processes in place to ensure that individual intermediaries working for their corporate intermediaries, are adequately supervised and monitored in terms of compliance with the Code of Conduct.</p>
+</clause>
+</clause>
+<clause id="clause3" obligation="normative" displayorder="4">
+<title depth="1">3.<tab/>On-going verification of the registration requirements of intermediaries</title>
+<clause id="clause3-1" obligation="normative"><title>3.1.</title>
+
+<p id="_c392ebc1-1c3d-4ea2-9a22-50c62917f966">Under the Code of Conduct, all MPF intermediaries must be fit and proper persons to remain registered with the Authority. Some promoters and corporate intermediaries rely predominately on self-declaration by the individuals concerned. Others have instituted various checking mechanisms which go beyond sole reliance on self-declaration, including, obtaining written confirmation from the relevant employer. This particular practice is encouraged. As a best practice, trustees are encouraged to satisfy themselves with the verification mechanism (i.e. the processes) adopted by their promoters / corporate intermediaries. In addition, either they, or the promoters / corporate intermediaries are encouraged to conduct random spot-checks (as far as this is practicable) to verify that these requirements have been met in respect of those individual intermediaries with whom they have a working relationship.</p>
+</clause>
+</clause>
+<clause id="clause4" obligation="normative" displayorder="5">
+<title depth="1">4.<tab/>On-site inspection of promoters by trustees</title>
+<clause id="clause4-1" obligation="normative"><title>4.1.</title>
+
+<p id="_6be0ae0e-ee3e-4ec8-85c3-0b503d81acd3">The Authority notes that some trustees conduct regular on-site inspections of their promoters to ensure that adequate processes are in place which facilitate compliance with the Code of Conduct and other regulatory documentation issued by the Authority. This is encouraged.</p>
+</clause>
+</clause>
+<clause id="clause5" obligation="normative" displayorder="6"><title depth="1">5.<tab/>Complaint reporting mechanism between the MPFA, trustees and promoters</title><clause id="clause5-1" obligation="normative"><title>5.1.</title>
+
+<p id="_706121a4-cff5-4672-977b-346060fe0968">As the lead MPF regulator, the Authority should be kept informed of all significant complaints. Chapter 4 paragraph 10.2(e) of the Code of Conduct already requires MPF corporate intermediaries to report certain complaints to the Authority, including, any misappropriation of client funds or forgery of client documents.</p>
+</clause>
+<clause id="clause5-2" obligation="normative"><title>5.2.</title>
+
+<p id="_3b422c46-a2c6-4e75-9ee3-d51ad0903b16">The Authority is aware that most, if not all trustees and promoters, already have detailed complaint handling procedures. If these do not exist, their production is very much encouraged.</p>
+</clause>
+<clause id="clause5-3" obligation="normative"><title>5.3.</title>
+
+<p id="_1a595d5c-10e8-49fb-9104-a27b20eccd4f">As suggested in <xref target="clause1-2">Paragraph 1.2</xref>, trustees are encouraged to satisfy themselves that an effective reporting mechanism is in place with their promoters which ensures that all complaints lodged against intermediaries, particularly individual intermediaries with regard to their fitness and properness to be registered, cases which relate to systemic operational failures and all complaints which relate to a member sustaining or potentially sustaining a financial loss, are reported to them, as trustees. For the avoidance of doubt, this also extends to the areas referred to in the Code of Conduct and highlighted in <xref target="clause5-1">Paragraph 5.1</xref>. Some trustees already report the details of such complaints to the Authority on a regular basis and this practice is encouraged.</p>
+</clause>
+<clause id="clause5-4" obligation="normative"><title>5.4.</title>
+
+<p id="_3e9acb51-b031-4ea1-884a-750877165d6b">A number of trustees hold regular meetings with their promoters where necessary, (or use other means) to review progress on the handling of complaints particularly, those which remain outstanding or unresolved after a period of time. This practice is also encouraged.</p>
+</clause></clause>
+<clause id="clause6" obligation="normative" displayorder="7">
+<title depth="1">6.<tab/>Vetting of Marketing Materials by trustees</title>
+<clause id="clause6-1" obligation="normative"><title>6.1.</title>
+
+<p id="_1ec2e572-5f96-4ed6-a54c-b3e09c829176">According to the Code of Conduct, promoters should ensure that the offering documents have been authorized by the Securities and Futures Commission (SFC) and approved by the Authority. In addition, promoters should ensure that all marketing materials have been authorized by the SFC. Some trustees also examine and confirm for example, that there is no misrepresentation, improper disclosure or misstatement of facts in the material before it is sent to the appropriate Regulator(s). This practice is encouraged.</p>
+</clause>
+</clause></sections>
+</mpfd-standard>
