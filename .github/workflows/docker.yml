@@ -2,7 +2,7 @@ name: docker
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main, master ]
   pull_request:
   workflow_dispatch:
 
@@ -26,6 +26,12 @@ jobs:
         uses: actions/checkout@v4
         with:
           submodules: true
+
+      - name: Setup Metanorma with MPFA flavor
+        uses: actions-mn/setup@v3
+        with:
+          installation-method: gem
+          extra-flavors: mpfa
 
       - name: Metanorma generate site
         uses: actions-mn/build-and-publish@v1
